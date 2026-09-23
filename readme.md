@@ -1,253 +1,110 @@
-# Startup Journey: From Idea to Repeatable Business
+# Repositori Inkubasi Startup Batch 24 — Bandung Techno Park (BTP)
+## Tim Startup: Geny StuntCare (`genystuntcare.com`)
 
-## 1. Prinsip Utama: Jangan Hanya Punya Ide, Buktikan
+Selamat datang di repositori resmi dokumentasi, riset, administrasi operasional, dan materi pembelajaran program **Inkubasi Bisnis Startup Batch 24 Bandung Techno Park (BTP) — Telkom University**.
 
-### Validasi MVP
+Repositori ini dikelola secara terstruktur untuk memenuhi seluruh kebutuhan tahapan seleksi, validasi pasar (*Problem & Customer Discovery*), hingga kesiapan pelaporan per stage kompetisi inkubasi.
 
-**MVP (Minimum Viable Product) =** versi produk paling sederhana yang sudah cukup untuk digunakan oleh user dan menguji asumsi utama bisnis.
+---
 
-Saat melakukan validasi MVP, jangan hanya bertanya:
+## 🧭 Peta Navigasi & Struktur Direktori
 
-`Apakah produknya sudah jadi?`
-
-Tetapi tanyakan:
-
-1. Apa buktinya bahwa produk ini dibutuhkan?
-2. Apakah sudah benar-benar digunakan oleh user?
-3. Apakah user mendapatkan value (manfaat) dari produk tersebut?
-4. Apakah user bersedia membayar?
-5. Apakah unit economics-nya positif?
-
-### Unit Economics
-
-**Unit economics =** perhitungan ekonomi untuk satu unit transaksi/user/customer.
-
-**Contoh sederhana:**
-
-`1 customer menghasilkan Rp100.000 revenue (pendapatan), tetapi untuk mendapatkan dan melayani customer tersebut kita menghabiskan Rp40.000.`
-
-Maka secara sederhana:
-
-**Revenue per customer - Cost per customer = Contribution**
-
-Rp100.000 - Rp40.000 = **Rp60.000**
-
-Berarti satu customer memberikan kontribusi positif terhadap bisnis.
-
-Jadi, startup tidak cukup hanya membuktikan:
-
-“Orang mau menggunakan produk kita.”
-
-Tetapi harus mulai membuktikan:
-
-“Orang mau menggunakan produk kita, mendapatkan value, dan secara ekonomi masuk akal untuk bisnis.”
-
-## 2. Mindset: Feedback = Room for Improvement
-
-Mengutip prinsip **Lao Tzu**:
-
-`Feedback jangan dipandang sebagai penolakan, tetapi sebagai ruang untuk melakukan improvement (perbaikan).`
-
-Dalam startup, feedback dari user sangat penting karena pada tahap awal kita sebenarnya masih memiliki banyak **assumption (asumsi)**.
-
-**Contohnya:**
-
-`“Saya yakin mahasiswa membutuhkan aplikasi ini.”`
-
-Itu masih **hipotesis (dugaan yang perlu dibuktikan)**.
-
-Setelah MVP diberikan kepada mahasiswa, ternyata mereka berkata:
-
-`“Sebenarnya kami membutuhkan fiturnya, tetapi bukan seperti ini.”`
-
-Maka feedback tersebut bukan berarti startup gagal.
-
-Justru feedback tersebut memberikan informasi:
-
-**Assumption → Test → Feedback → Improvement → Test lagi**
-
-Jadi mindset yang perlu dibangun:
-
-`Failure bukan selalu kegagalan bisnis. Failure bisa menjadi informasi untuk memperbaiki asumsi sebelum kita menghabiskan resource lebih besar.`
-
-``Stage 1 → 7 startup
-
-Beberapa startup gagal memenuhi evidence
-↓
-Stage 2 → startup yang lolos
-↓
-Stage 3 → semakin sedikit
-↓
-Final Stage → startup yang paling terbukti``go
-
-## 3. Funnel / Funneling Stage
-
-Program inkubasi menggunakan pendekatan seperti funnel (corong).
-
-Pada awal program, misalnya terdapat **7 startup** yang mendapatkan initial funding (pendanaan awal).
-
-Namun, tidak semua startup akan sampai ke final stage.
-
-Setiap stage memiliki **selection / elimination mechanism (mekanisme seleksi/gugur)**.
-
-Contohnya:
-
-```txt
-Stage 1 → 7 startup
-↓
-Beberapa startup gagal memenuhi evidence
-↓
-Stage 2 → startup yang lolos
-↓
-Stage 3 → semakin sedikit
-↓
-Final Stage → startup yang paling terbukti
+```
+Projects21 / Inkubasi-Startup-BTP/
+│
+├── 📁 01-operasional-funding/               # Administrasi & Pelaporan Pendanaan Operasional
+│   ├── README.md
+│   └── panduan_operasional_funding_dan_lpj.md # Link form data, syarat bank konvensional, template LPJ
+│
+├── 📁 02-riset-dan-data-stunting/          # Dataset Resmi, Statistik, & Riset Pembanding
+│   ├── README.md
+│   ├── data_stunting_nasional_satu_data_indonesia.md # Dataset prevalensi balita stunting Satu Data Indonesia
+│   ├── data_stunting_kota_salatiga.md      # Studi kasus publikasi & data stunting Kota Salatiga
+│   └── rencana_integrasi_data_bps.md       # Panduan penarikan data demografi & kemiskinan dari BPS
+│
+├── 📁 03-geny-stuntcare/                   # Profil & Eksekusi Validasi Geny StuntCare
+│   ├── README.md
+│   ├── profil_startup.md                   # Profil, visi, misi, value proposition, dan fitur web
+│   └── slr1_problem_validation_action_plan.md # Transkripsi & Action Plan lengkap Gambar 1 (SLR 1)
+│
+├── 📁 04-notulensi-workshop/               # FOLDER KHUSUS NOTULENSI WORKSHOP BTP
+│   ├── README.md                           # Indeks jadwal dan tahapan workshop
+│   └── workshop-01/                        # Workshop Stage 1 (23 September 2026)
+│       ├── info_dan_poster.md              # Informasi poster (Gambar 2), link Zoom, form presensi
+│       ├── notulensi_lengkap_sesi_1_indra_purnama.md # NOTULENSI LENGKAP & MENYELURUH (Transkrip B)
+│       └── notulensi_sesi_2_design_thinking.md # Notulensi Design Thinking (Dr. Iwan Iwut Tritoasmoro)
+│
+├── 📁 SRL 0/ s.d. 📁 SRL 9/                # Panduan Framework Startup Readiness Level BTP
+│   ├── SRL 0: Competencies Based Target Market Analysis
+│   ├── SRL 1: Problem Validation (Understand Customer Before Solution)
+│   ├── SRL 2: Solution Validation (Value Proposition & Feature Alignment)
+│   ├── SRL 3: Minimum Viable Product (MVP Prototyping)
+│   ├── SRL 4: Product-Market Fit & Initial Traction
+│   ├── SRL 5: Business Model & Unit Economics Optimization
+│   ├── SRL 6: Legal, Intellectual Property & Compliance
+│   ├── SRL 7: Operational Scaling & Team Readiness
+│   ├── SRL 8: Investment Pitching & Capital Readiness
+│   └── SRL 9: Sustainable Growth & Exit Strategy
+│
+├── 📄 Inkubasi-BTP.pptx                    # Slide Presentasi Resmi Inkubasi Bisnis BTP
+├── 📄 Notulensi-mentah.md                  # Catatan Mentah Bootcamp Pembukaan Kepala BTP
+└── 📄 README.md                            # Panduan Utama Repositori
 ```
 
-#### Kenapa dibuat seperti funnel?
-
-Karena semakin jauh startup berjalan, semakin besar resource yang dibutuhkan.
-
-Daripada memberikan seluruh resource sekaligus, program memberikan resource **bertahap berdasarkan evidence (bukti perkembangan).**
-
-Misalnya:
-
-**Total funding sampai final stage: Rp50–80 juta**
-
-Tetapi funding tersebut tidak diberikan sekaligus.
-
-Setiap stage menjadi checkpoint:
-
-`“Apakah startup ini sudah cukup terbukti untuk mendapatkan resource berikutnya?”`
-
-## 4. Setiap Stage Memiliki 5 Pertanyaan
-
-1.  **WHY?**
-
-** What are we trying to prove?**
-
-**Apa yang sebenarnya ingin kita buktikan?**
-
-Jangan mulai dengan:
-
-`“Kita mau membuat aplikasi.”`
-
-Tetapi:
-
-`“Kita ingin membuktikan bahwa X customer memiliki masalah Y dan bersedia menggunakan solusi Z.”`
-
-Contoh:
-
-`Kita ingin membuktikan bahwa UMKM membutuhkan sistem pencatatan stok sederhana dan bersedia membayar Rp50.000/bulan.`
-
-2. WHAT?
-
-**What should we do?**
-
-**Apa yang harus kita lakukan untuk membuktikan hal tersebut?**
-
-Misalnya:
-
-- Interview 20 UMKM
-- Membuat prototype
-- Membuat MVP
-- Mendapatkan 10 pengguna pertama
-- Menguji pricing
-
-3. HOW?
-
-**How can we test it?**
-
-**Bagaimana cara kita menguji hipotesis tersebut?**
-
-Contoh:
-
-`Hipotesis: UMKM bersedia membayar Rp50.000/bulan.`
-
-Cara test:
-
-- Buat landing page
-- Tawarkan produk
-- Berikan trial
-- Tanyakan willingness to pay (kesediaan membayar)
-- Lakukan actual transaction (transaksi nyata)
-
-Yang penting:
-
-**Jangan hanya bertanya apa yang user katakan. Lihat juga apa yang user lakukan.**
-
-Karena:
-
-**“Saya tertarik dengan produk ini”**
-
-berbeda dengan:
-
-**“Saya mau mendaftar”**
-
-dan jauh berbeda dengan:
-
-**“Saya mau membayar.”**
-
-4. EVIDENCE
-
-**What proves progress?**
-
-Ini mungkin bagian paling penting.
-
-**Evidence (bukti)** adalah sesuatu yang menunjukkan bahwa asumsi kita mulai terbukti.
-
-Jangan hanya mengatakan:
-
-`“User suka produknya.”`
-
-Tetapi tunjukkan:
-
-- 100 user mencoba MVP
-- 60 user kembali menggunakan produk
-- 20 user menjadi paying customer
-- 80% customer melakukan repeat order
-- Revenue Rp5 juta/bulan
-- CAC(Customer Accuistion Cost) Rp20.000
-- LTV(Life Time Value) Rp200.000
-
-Dengan demikian progress startup menjadi **measurable (dapat diukur)**.
-
-5. NEXT
-
-**What do we need to learn next?**
-
-Setelah mendapatkan evidence, jangan berhenti.
-
-Tanyakan:
-
-`“Apa yang belum kita ketahui?”`
-
-Contoh:
-
-Kita sudah membuktikan:
-
-`User mau menggunakan produk.`
-
-Tetapi kita belum tahu:
-
-`Apakah user mau membayar?`
-
-Maka next learning:
-
-`Test willingness to pay.`
-
-Setelah terbukti user mau membayar:
-
-`Apakah mereka akan terus menggunakan produk?`
-
-Maka:
-
-`Test retention (kemampuan mempertahankan user).`
-
-Setelah retention bagus:
-
-`Apakah kita bisa mendapatkan customer dengan biaya yang masuk akal?`
-
-Maka:
-
-`Test acquisition economics (ekonomi mendapatkan customer).`
+---
+
+## 📌 Ringkasan Cepat Seluruh Informasi Penting
+
+### 1. Operasional Funding & Pelaporan Keuangan BTP
+* **Formulir Kelengkapan Data:** [Google Form BTP](https://forms.gle/vyhjX1A8FbGkXJdd6)
+* **Batas Waktu Pengumpulan:** **21 September 2026**
+* **Ketentuan Rekening Bank:** **Wajib Bank Konvensional** (BCA, Mandiri, BNI, BRI, dll.). ⚠️ *Bank digital TIDAK diperbolehkan!*
+* **Pelaporan Dana:** Dilaporkan di akhir setiap stage. Nota pembelian disimpan dalam format **digital** (foto/scan jelas).
+* **Template Pelaporan Keuangan (Spreadsheet):** [Template Laporan Keuangan BTP](https://docs.google.com/spreadsheets/d/1VnWEDhuBP0XOYhGb2ZzR6KmRARGEh7lUTR38qiy7fAo/edit?usp=sharing)
+* *Dokumentasi Lengkap:* [01-operasional-funding/panduan_operasional_funding_dan_lpj.md](file:///Users/sinitygs/Projects21/01-operasional-funding/panduan_operasional_funding_dan_lpj.md)
+
+### 2. Dataset Prevalensi Stunting Nasional & Daerah
+* **Dataset Nasional 1:** [Prevalensi Stunting (Pendek & Sangat Pendek) pada Balita](https://data.go.id/dataset/dataset/prevalesi-stunting-pendek-dan-sangat-pendek-pada-anak-balita) (Satu Data Indonesia)
+* **Dataset Nasional 2:** [Prevalensi Stunting pada Balita](https://data.go.id/dataset/dataset/prevalensi-stunting-pada-balita) (Satu Data Indonesia)
+* **Studi Kasus Daerah:** [Publikasi Data Stunting Kota Salatiga (Instagram)](https://www.instagram.com/p/DYCjkQpFJiV/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
+* **Target Survey BPS:** Penarikan data demografi balita dan profil kemiskinan dari Badan Pusat Statistik.
+* *Dokumentasi Lengkap:* [Folder 02 — Riset & Dataset Stunting](file:///Users/sinitygs/Projects21/02-riset-dan-data-stunting/README.md)
+
+### 3. Eksekusi Validasi Masalah (SLR 1) Geny StuntCare
+* **Website Resmi:** [genystuntcare.com](https://genystuntcare.com)
+* **Catatan Lapangan SLR 1 (Gambar 1):**
+  * *5 Pertanyaan Inti:* Siapa customer? Siapa user? Apa aktivitas? Apa kebutuhan? Di mana berkumpul?
+  * *Tools Riset:* Interview mendalam, Survey kuantitatif, Observasi langsung di posyandu.
+  * *Audit Internal Platform:* Cek jumlah akun, sebaran geografis, profil pengguna, dan rasio login ulang (*retention*).
+  * *Target Wawancara:* Ibu muda, ibu bekerja, kader posyandu, calon pengantin (catin), mbak-mbak pranikah.
+  * *Validasi 3 Hipotesis Masalah:*
+    1. Posyandu jarang didatangi ibu-ibu muda.
+    2. Banyak stunting di wilayah yang jauh dari posyandu/faskes.
+    3. Ibu balita terlalu fokus main HP (preferensi digital tinggi, literasi gizi terdistraksi).
+  * *Evaluasi Ahli (Expert Testing):* Review UI, UX, dan model algoritma oleh **Dosen Telkom University** dan tim medis **Yakes Telkom**.
+  * *Cakupan 8 Wilayah Lapangan:* Kota Malang, Banyuwangi, Siwalanpanji (Sidoarjo), Turen (Kab. Malang), Magetan, Gondanglegi (Kab. Malang), Kota Surabaya, dan Kota Jember.
+  * *Target Progres:* Minimal 21 data baseline terkumpul + komparasi data BPS.
+* *Dokumentasi Lengkap:* [03-geny-stuntcare/slr1_problem_validation_action_plan.md](file:///Users/sinitygs/Projects21/03-geny-stuntcare/slr1_problem_validation_action_plan.md)
+
+### 4. Workshop Stage 1 BTP (Rabu, 23 September 2026)
+* **Sesi 1 (09.00 - 11.30 WIB):** *"Discover the Problem, Understand the Customer"*
+  * **Narasumber:** **Indra Purnama, S.T., M.T.** (Direktur PT. Bara Praja Indonesia, Founder Bara Inovasi Semesta, Eks Executive Director Bandung Digital Valley / Indigo Incubator Telkom).
+  * **Notulensi Super Lengkap (Transkrip B):** [04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md)
+* **Sesi 2 (16.00 - 17.30 WIB):** *"Design Thinking Startup"*
+  * **Narasumber:** **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** (Direktur Bandung Techno Park).
+  * **Notulensi Sesi 2:** [04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md)
+* **Zoom Meeting:** [Link Zoom Workshop 1](https://us06web.zoom.us/j/88304763688?pwd=y6SsxZHF76ynZcLuqDV3rpzxfJNY26.1) | ID: `883 0476 3688` | Passcode: `y6SsxZHF76ynZcLuqDV3rpzxfJNY26.1`
+* **Presensi Kehadiran:** [Google Form Presensi](https://forms.gle/6rpV3CnAXCbo3axDA)
+* *Dokumentasi Lengkap:* [04-notulensi-workshop/workshop-01/info_dan_poster.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/info_dan_poster.md)
+
+---
+
+## 🌐 Repositori GitHub & Sinkronisasi Publik
+
+Repositori ini disinkronkan ke repositori publik GitHub:
+* **Fork & Active Development:** [https://github.com/gerrardgs/Inkubasi-Startup-BTP](https://github.com/gerrardgs/Inkubasi-Startup-BTP)
+* **Project 21 Mirror:** [https://github.com/gerrardgs/project21](https://github.com/gerrardgs/project21)
+* **Upstream Team Repo:** [https://github.com/Gebext/Inkubasi-Startup-BTP](https://github.com/Gebext/Inkubasi-Startup-BTP)
+
+---
+*Dikompilasi untuk Program Inkubasi Bisnis Startup Batch 24 — Bandung Techno Park (Telkom University).*
