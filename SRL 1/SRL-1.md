@@ -1,4 +1,4 @@
-# SRL 1 — Problem Validation (Validasi Masalah)
+# SRL 1 : Problem Validation (Validasi Masalah)
 
 `Fokus utama: pahami customer dan masalahnya **sebelum menjual atau membangun solusi.`
 
@@ -27,7 +27,7 @@ Ada beberapa bukti yang perlu dikumpulkan:
 4. Customer & User Persona
    → Memahami siapa yang membeli, siapa yang menggunakan, kebutuhannya, perilakunya, dan karakteristiknya.
 
-## 2. What to Do — Cara melakukan validasi
+## 2. What to Do : Cara melakukan validasi
 
 ### A. Customer Profiling
 

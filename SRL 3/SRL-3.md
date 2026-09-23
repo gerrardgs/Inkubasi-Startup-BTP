@@ -1,14 +1,14 @@
-# SRL 3 — MVP Readiness
+# SRL 3 : MVP Readiness
 
 **Core Question:** Can we implement the solution as an MVP and generate real learning from users?
 
-## What — Apa yang divalidasi?
+## What : Apa yang divalidasi?
 
 Apakah solusi yang sudah divalidasi sebelumnya **sudah cukup matang untuk dibuat menjadi MVP**, lalu digunakan oleh real user untuk menghasilkan data dan pembelajaran?
 
 MVP bukan produk final dan bukan sekadar versi kecil dari produk. MVP adalah **versi minimum yang sudah mampu menyelesaikan core problem dan menghasilkan data nyata dari user.**
 
-## Why — Kenapa?
+## Why : Kenapa?
 
 Karena tujuan MVP bukan hanya _“produk sudah jadi”_, tetapi:
 
@@ -22,7 +22,7 @@ Jadi, MVP digunakan untuk menjawab:
 
 `“Apakah solusi kita benar-benar bekerja ketika digunakan oleh user?”`
 
-## How — Bagaimana caranya?
+## How : Bagaimana caranya?
 
 ### 1. Tentukan Core Problem
 
@@ -36,7 +36,7 @@ Misalnya user memiliki 5 masalah:
 - D → non-core
 - E → non-core
 
-MVP cukup fokus menyelesaikan A, sementara B–E boleh tetap menggunakan existing solution yang sudah dimiliki user.
+MVP cukup fokus menyelesaikan A, sementara B s/d E boleh tetap menggunakan existing solution yang sudah dimiliki user.
 
 **MVP bukan smaller version, tetapi core version.**
 
@@ -100,7 +100,7 @@ Contoh:
 
 `Tambahkan penjelasan status risiko.`
 
-## Evidence — Bukti yang harus tersedia
+## Evidence : Bukti yang harus tersedia
 
 | Evidence                      | Yang dibuktikan                                 |
 | ----------------------------- | ----------------------------------------------- |
@@ -113,7 +113,7 @@ Contoh:
 | **7. Version Change**         | Ada perubahan antar-versi MVP                   |
 | **8. MVP Validation Results** | Ada kesimpulan berdasarkan data                 |
 
-### Iteration — Bagian paling penting
+### Iteration : Bagian paling penting
 
 #### The Iteration Loop
 
@@ -179,7 +179,7 @@ Minimal harus ada 1 iteration, sehingga bisa menunjukkan:
 
 **v0.1 → user feedback → perubahan → v0.2**
 
-### Pivot — Kapan dilakukan?
+### Pivot : Kapan dilakukan?
 
 Pivot **bukan dilakukan karena feeling.**
 
@@ -200,9 +200,9 @@ Misalnya:
 
 Maka tim bisa mempertimbangkan perubahan arah berdasarkan **evidence**, bukan asumsi.
 
-## Next — Apa yang harus dilakukan di SRL 3?
+## Next : Apa yang harus dilakukan di SRL 3?
 
-Untuk GENY–StuntCare, kamu bisa mulai dengan membuat:
+Untuk GENY-StuntCare, kamu bisa mulai dengan membuat:
 
 - Define Core Problem MVP
 - Tentukan fitur minimum

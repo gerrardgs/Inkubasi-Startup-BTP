@@ -1,4 +1,4 @@
-# SRL 0 — Competencies-Based Target Market Analysis
+# SRL 0 : Competencies-Based Target Market Analysis
 
 **SRL (Startup Readiness Level)** dapat dipahami sebagai tingkat kesiapan startup.
 
@@ -10,9 +10,9 @@ Pada **SRL 0**, fokusnya masih sangat fundamental:
 
 Ada tiga hal utama:
 
-1. **Capability** — kemampuan tim
-2. **Market Opportunity** — peluang pasar
-3. **Purpose** — alasan/misi startup
+1. **Capability** : kemampuan tim
+2. **Market Opportunity** : peluang pasar
+3. **Purpose** : alasan/misi startup
 
 ## A. Capability
 

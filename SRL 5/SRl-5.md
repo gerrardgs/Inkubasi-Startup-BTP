@@ -37,13 +37,13 @@ Pertanyaan utamanya:
 
 Mulai meracik Business Model dan menguji beberapa kemungkinan:
 
-1. Revenue Model — dari mana uang masuk?
-2. Pricing Strategy — berapa customer mau bayar dan bagaimana cara menentukannya?
-3. Actual Transaction — apakah sudah ada customer yang benar-benar membayar?
-4. Unit Economics — apakah economics per customer/transaksi masuk akal?
-5. Revenue & Cost Data — berapa revenue dan biaya aktual?
-6. Key Metrics — metrik apa yang menunjukkan kesehatan bisnis?
-7. Alternative Business Model — apakah ada model lain yang bisa diuji jika model A tidak bekerja?
+1. Revenue Model : dari mana uang masuk?
+2. Pricing Strategy : berapa customer mau bayar dan bagaimana cara menentukannya?
+3. Actual Transaction : apakah sudah ada customer yang benar-benar membayar?
+4. Unit Economics : apakah economics per customer/transaksi masuk akal?
+5. Revenue & Cost Data : berapa revenue dan biaya aktual?
+6. Key Metrics : metrik apa yang menunjukkan kesehatan bisnis?
+7. Alternative Business Model : apakah ada model lain yang bisa diuji jika model A tidak bekerja?
 
 Contoh:
 

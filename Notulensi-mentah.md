@@ -113,7 +113,7 @@
 
     - Penting: kita ketahui dulu stable customernya dimana, nah jika sudah tau kita bisa akuisisi market baru.
     - Point: Loyalitas dan Reffer, bagaimana cara kita mempertahankan yang lama, memenuhi yang baru.
-    - Prespe—ktif investor: Pastikan Stabily Financialnya clear, dan ada margin growth.
+    - Prespe: ktif investor: Pastikan Stabily Financialnya clear, dan ada margin growth.
     - Pikirkan apakah bisa stable dengan 1 bisnis model.
 
 10. SRL 9: Repeatable Bisnis,

@@ -1,5 +1,5 @@
 # Projects21 ||| Geny StuntCare
-### Portofolio Resmi, Riset Validasi Lapangan & Dokumentasi Inkubasi Startup Batch 24 — Bandung Techno Park (Telkom University)
+### Portofolio Resmi, Riset Validasi Lapangan & Dokumentasi Inkubasi Startup Batch 24 : Bandung Techno Park (Telkom University)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Projects21%20%7C%7C%7C%20Geny%20StuntCare-blueviolet?style=for-the-badge&logo=github" alt="Projects21" />
@@ -12,13 +12,13 @@
 ---
 
 > *"Startup yang hebat tidak dibangun dari keangkuhan teknologi atau asumsi di balik meja kerja, melainkan dari keberanian mendengarkan penderitaan nyata orang tua di pelosok desa, memahami kegelisahan ibu muda, dan menghadirkan solusi yang benar-benar dicintai penggunanya."*  
-> — **Gerrard Sebastian**, Founder of Geny StuntCare
+> - **Gerrard Sebastian**, Founder of Geny StuntCare
 
 ---
 
 ## 📖 Tentang Repositori Ini
 
-Selamat datang di repositori dokumentasi sentral perjalanan kami dalam program **Inkubasi Bisnis Startup Batch 24 Bandung Techno Park (BTP) — Telkom University**. 
+Selamat datang di repositori dokumentasi sentral perjalanan kami dalam program **Inkubasi Bisnis Startup Batch 24 Bandung Techno Park (BTP) : Telkom University**. 
 
 Repositori ini bukan sekadar arsip tugas administratif, melainkan sebuah **buku kerja hidup (*living workspace*)** yang merangkum seluruh denyut perjuangan tim **Geny StuntCare**: mulai dari pengumpulan baseline data stunting nasional, eksekusi validasi lapangan di Jawa Timur, manajemen dana operasional, hingga rangkuman intisari masterclass dari para mentor terbaik ekosistem startup Indonesia.
 
@@ -91,7 +91,7 @@ Solusi kami berdiri di atas data empiris yang kuat, bukan dugaan subjektif semat
 * **Dataset Nasional 2:** [Prevalensi Stunting pada Balita](https://data.go.id/dataset/dataset/prevalensi-stunting-pada-balita) (Portal Satu Data Indonesia).
 * **Studi Kasus Daerah:** [Publikasi Data Stunting Kota Salatiga (Instagram)](https://www.instagram.com/p/DYCjkQpFJiV/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) sebagai perbandingan implementasi intervensi posyandu tingkat kota.
 * **Integrasi Data BPS:** Analisis sekunder angka kemiskinan, jumlah balita, dan akses sanitasi layak di 7 kabupaten/kota sasaran Jawa Timur.
-* 📄 *Kajian lengkap:* [Folder 02 — Riset & Dataset Stunting](file:///Users/sinitygs/Projects21/02-riset-dan-data-stunting/README.md)
+* 📄 *Kajian lengkap:* [Folder 02 : Riset & Dataset Stunting](file:///Users/sinitygs/Projects21/02-riset-dan-data-stunting/README.md)
 
 ---
 
@@ -129,7 +129,7 @@ Repositori ini dirancang, dibangun, dan dipelihara secara mandiri oleh:
 
 <div align="center">
   <h3><strong>Gerrard Sebastian</strong></h3>
-  <p><strong>Founder & Lead Developer — Geny StuntCare</strong></p>
+  <p><strong>Founder & Lead Developer : Geny StuntCare</strong></p>
   <p>
     <a href="https://github.com/gerrardgs"><img src="https://img.shields.io/badge/GitHub-gerrardgs-black?style=flat&logo=github" alt="GitHub Profile" /></a>
     <a href="mailto:gerrardsebastiangege2005@gmail.com"><img src="https://img.shields.io/badge/Email-gerrardsebastiangege2005%40gmail.com-red?style=flat&logo=gmail" alt="Email" /></a>
@@ -150,5 +150,5 @@ Repositori ini dirancang, dibangun, dan dipelihara secara mandiri oleh:
 
 ---
 <p align="center">
-  <em>Dipersiapkan dengan dedikasi penuh untuk Program Inkubasi Startup Batch 24 — Bandung Techno Park & Telkom University.</em>
+  <em>Dipersiapkan dengan dedikasi penuh untuk Program Inkubasi Startup Batch 24 : Bandung Techno Park & Telkom University.</em>
 </p>

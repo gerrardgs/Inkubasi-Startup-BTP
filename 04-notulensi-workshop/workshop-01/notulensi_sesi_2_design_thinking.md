@@ -1,6 +1,6 @@
 # Notulensi & Kerangka Kerja: Workshop Stage 1 (Sesi 2)
 ## Topik: "Design Thinking Startup"
-### Program Inkubasi Startup Batch 24 — Bandung Techno Park (Telkom University)
+### Program Inkubasi Startup Batch 24 : Bandung Techno Park (Telkom University)
 
 ---
 
@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **Kegiatan** | Workshop Stage 1 Inkubator Bisnis BTP Batch 24 |
 | **Hari, Tanggal** | Rabu, 23 September 2026 |
-| **Waktu Pelaksanaan** | 16.00 – 17.30 WIB |
+| **Waktu Pelaksanaan** | 16.00 - 17.30 WIB |
 | **Topik Utama** | **Design Thinking Startup** |
 | **Narasumber** | **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** (Direktur Bandung Techno Park) |
 | **Platform** | Zoom Cloud Meetings (Meeting ID: `883 0476 3688`) |

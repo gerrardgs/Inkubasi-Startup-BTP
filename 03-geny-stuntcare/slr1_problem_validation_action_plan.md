@@ -1,4 +1,4 @@
-# SLR 1 GENY STUNTCARE — Problem Validation & Action Plan
+# SLR 1 GENY STUNTCARE : Problem Validation & Action Plan
 ## Rencana Aksi Validasi Masalah, Riset Lapangan, dan Uji Ahli (Stage 1 Inkubasi BTP)
 
 Dokumen ini merupakan transkripsi resmi, elaborasi sistematis, dan rencana kerja operasional yang dikembangkan dari catatan lapangan **SLR 1 Geny StuntCare** (Gambar 1).

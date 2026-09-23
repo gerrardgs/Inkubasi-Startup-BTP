@@ -1,4 +1,4 @@
-# SRL 2 — Competencies-Based Target Market Analysis
+# SRL 2 : Competencies-Based Target Market Analysis
 
 ## Core Question:
 
@@ -6,7 +6,7 @@
 
 Apakah solusi yang kita tawarkan benar-benar menjawab masalah yang sebelumnya sudah tervalidasi?
 
-## What — Apa yang divalidasi?
+## What : Apa yang divalidasi?
 
 Yang divalidasi bukan apakah aplikasinya sudah bagus, tetapi:
 
@@ -16,7 +16,7 @@ Yang divalidasi bukan apakah aplikasinya sudah bagus, tetapi:
 - Apakah solusi kita memiliki fit dengan kebutuhan customer?
 - Jika sudah ada competitor, apa yang membedakan solusi kita?
 
-## Why — Kenapa perlu divalidasi?
+## Why : Kenapa perlu divalidasi?
 
 Karena **problem yang benar tidak otomatis menghasilkan solusi yang benar**
 
@@ -29,7 +29,7 @@ Kita bisa saja menemukan masalah yang nyata, tetapi kemudian membuat solusi yang
 
 `Don't build too early. Test manually first.`
 
-## How — Bagaimana cara mengetesnya?
+## How : Bagaimana cara mengetesnya?
 
 Prinsipnya:
 
@@ -58,7 +58,7 @@ Tidak harus langsung membuat produk jadi. Gunakan metode paling sederhana yang b
 
 6. Solution Feedback
 
-## Evidence — Apa buktinya?
+## Evidence : Apa buktinya?
 
 | Aktivitas                | Evidence             |
 | ------------------------ | -------------------- |
@@ -98,7 +98,7 @@ Tujuannya bukan sekadar mencari siapa competitor, tetapi memahami:
 
 - Customer sekarang menyelesaikan problem tersebut dengan cara apa?
 
-Dari situ kita mencari **Solution Fit** — posisi solusi kita yang paling sesuai dengan kebutuhan customer.
+Dari situ kita mencari **Solution Fit** : posisi solusi kita yang paling sesuai dengan kebutuhan customer.
 
 ```
 SRL 1

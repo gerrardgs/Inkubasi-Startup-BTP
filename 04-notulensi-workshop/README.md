@@ -1,6 +1,6 @@
-# Folder 04 — Notulensi Workshop Inkubasi BTP Batch 24
+# Folder 04 : Notulensi Workshop Inkubasi BTP Batch 24
 
-Folder khusus ini didedikasikan untuk menghimpun seluruh dokumentasi, notulensi resmi, transkrip materi, dan ringkasan eksekutif dari setiap rangkaian kegiatan workshop dan bootcamp selama masa program Inkubasi Bisnis Startup Batch 24 Bandung Techno Park (BTP) — Telkom University.
+Folder khusus ini didedikasikan untuk menghimpun seluruh dokumentasi, notulensi resmi, transkrip materi, dan ringkasan eksekutif dari setiap rangkaian kegiatan workshop dan bootcamp selama masa program Inkubasi Bisnis Startup Batch 24 Bandung Techno Park (BTP) : Telkom University.
 
 ---
 

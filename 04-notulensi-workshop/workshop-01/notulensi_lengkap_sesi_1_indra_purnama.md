@@ -1,6 +1,6 @@
 # Notulensi Lengkap & Menyeluruh: Workshop Stage 1 (Sesi 1)
 ## Topik: "Discover the Problem, Understand the Customer"
-### Program Inkubasi Startup Batch 24 — Bandung Techno Park (Telkom University)
+### Program Inkubasi Startup Batch 24 : Bandung Techno Park (Telkom University)
 
 ---
 
@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **Kegiatan** | Workshop Stage 1 Inkubator Bisnis BTP Batch 24 (Kompetisi) |
 | **Hari, Tanggal** | Rabu, 23 September 2026 |
-| **Waktu Pelaksanaan** | 09.00 – 11.30 WIB |
+| **Waktu Pelaksanaan** | 09.00 - 11.30 WIB |
 | **Topik Utama** | **Discover the Problem, Understand the Customer** |
 | **Narasumber** | **Indra Purnama, S.T., M.T.** (Direktur PT. Bara Praja Indonesia, Founder Bara Inovasi Semesta, Eks Executive Director Bandung Digital Valley / Indigo Incubator PT Telkom Indonesia) |
 | **Moderator / MC** | **Shoffa Anbar** (Bandung Techno Park) |
@@ -29,13 +29,13 @@
    - Mengingatkan kembali bahwa fondasi paling krusial sebelum berbicara mengenai produk, teknologi mutakhir, atau valuasi bisnis yang fantastis adalah:
      > *"Apakah kita benar-benar memahami masalah yang ingin kita selesaikan? Dan siapa customer yang menghadapi masalah tersebut secara nyata?"*
    - Startup yang kuat tidak lahir sekadar dari ide yang terdengar keren di atas kertas, melainkan berakar dari **problem yang nyata**, **customer yang tepat**, dan **pemahaman yang mendalam terhadap kebutuhan mereka**.
-3. **Profil Mendalam Pemateri — Indra Purnama, S.T., M.T.:**
+3. **Profil Mendalam Pemateri : Indra Purnama, S.T., M.T.:**
    - Seorang *Innovation Strategist*, *Product Innovation Leader*, dan *Ecosystem Builder* terkemuka dengan rekam jejak lebih dari **15 tahun dalam pengembangan ekosistem inovasi & startup**, serta **24 tahun berwirausaha mandiri**.
    - Telah mendampingi secara langsung lebih dari **350 startup digital** di berbagai program inkubasi, akselerasi, dan inisiatif inovasi korporat/pemerintah di tingkat nasional dan Asia Pasifik (Malaysia, Singapura, dll).
-   - Mantan *Executive Director & Lead Mentor* di **Bandung Digital Valley (BDV)** / Indigo Incubator (PT Telkom Indonesia, Gegerkalong Bandung) — inkubator startup digital pertama di Indonesia.
+   - Mantan *Executive Director & Lead Mentor* di **Bandung Digital Valley (BDV)** / Indigo Incubator (PT Telkom Indonesia, Gegerkalong Bandung) : inkubator startup digital pertama di Indonesia.
    - Penulis buku panduan standar startup:
-     1. *"Startup Tools"* — Panduan komprehensif bagi founder dalam memilih metodologi, framework, dan pendekatan yang tepat dalam pengembangan bisnis & produk.
-     2. *"Digital Incubator Playbook"* — Panduan pengelola inkubator dalam mendampingi portofolio inovasi startup secara terstruktur.
+     1. *"Startup Tools"* : Panduan komprehensif bagi founder dalam memilih metodologi, framework, dan pendekatan yang tepat dalam pengembangan bisnis & produk.
+     2. *"Digital Incubator Playbook"* : Panduan pengelola inkubator dalam mendampingi portofolio inovasi startup secara terstruktur.
    - Pendiri dan CEO PT Bara Praja Indonesia serta pengembang platform aplikasi manajemen portofolio inovasi.
 
 ---
@@ -172,7 +172,7 @@ Tujuan utama founder startup bukan membangun produk yang keren secara teknologi 
 Salah satu kesalahan paling fatal dari startup pemula adalah mendefinisikan target pasar secara terlalu luas dan mengambang (misal: *"Semua ibu-ibu di Indonesia"* atau *"Semua UMKM"*).
 
 ### Studi Kasus: "Siapa Target Pelanggan Brand Muslim Fashion?"
-- Jumlah populasi muslim di Indonesia mencapai ~230 juta jiwa, dengan muslimah sekitar 90–100 juta jiwa.
+- Jumlah populasi muslim di Indonesia mencapai ~230 juta jiwa, dengan muslimah sekitar 90-100 juta jiwa.
 - Apakah 90 juta muslimah memiliki kebutuhan busana yang sama? **Tentu tidak!**
   - Ada muslimah berpenghasilan tinggi (*high SES*) yang mengutamakan bahan sutra premium dan eksklusivitas.
   - Ada muslimah muda mahasiswi yang mencari busana kasual kasir dengan harga terjangkau.

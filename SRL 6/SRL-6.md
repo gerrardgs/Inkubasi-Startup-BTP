@@ -1,4 +1,4 @@
-# SRL 6 — Go-To-Market(GTM)
+# SRL 6 : Go-To-Market(GTM)
 
 Tahap dimana kita mulai menjawab:
 `“Kita sudah punya produk yang tervalidasi. Sekarang bagaimana cara produk ini benar-benar sampai ke customer dan menghasilkan customer?”`
@@ -21,19 +21,19 @@ Yang dicari adalah jalur:
 
 adalah dengan melakukan:
 
-1. Target Segment — Siapa customer yang paling dituju?
+1. Target Segment : Siapa customer yang paling dituju?
 
-2. Positioning — Kenapa mereka memilih produk kita?
+2. Positioning : Kenapa mereka memilih produk kita?
 
-3. Channel — Di mana kita bisa menemukan mereka?
+3. Channel : Di mana kita bisa menemukan mereka?
 
-4. Marketing Approach — Bagaimana menarik perhatian mereka?
+4. Marketing Approach : Bagaimana menarik perhatian mereka?
 
-5. Sales Process — Bagaimana mengubah ketertarikan menjadi customer?
+5. Sales Process : Bagaimana mengubah ketertarikan menjadi customer?
 
-6. Channel Experiment — Channel mana yang benar-benar menghasilkan customer?
+6. Channel Experiment : Channel mana yang benar-benar menghasilkan customer?
 
-7. Economics — Berapa biaya mendapatkan customer (CAC) dan berapa nilai customer (LTV)?
+7. Economics : Berapa biaya mendapatkan customer (CAC) dan berapa nilai customer (LTV)?
 
 Possible Channels
 
@@ -62,11 +62,11 @@ Possible Channels
 
 Dan ini yang membedakan SRL 6 dengan SRL 5:
 
-#### SRL 5 — Business Model Validation
+#### SRL 5 : Business Model Validation
 
 `“Apakah customer mau membayar, dan apakah secara ekonomi bisnis ini bisa menghasilkan uang?”`
 
-#### SRL 6 — Go-To-Market
+#### SRL 6 : Go-To-Market
 
 `“Bagaimana kita menemukan customer tersebut dan membuat mereka benar-benar masuk ke bisnis kita?”`
 

@@ -1,4 +1,4 @@
-# SRL 7 — Customer Creation
+# SRL 7 : Customer Creation
 
 ## What?
 

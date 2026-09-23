@@ -1,4 +1,4 @@
-# Workshop Stage 1 — Bandung Techno Park (Inkubator Bisnis BTP)
+# Workshop Stage 1 : Bandung Techno Park (Inkubator Bisnis BTP)
 ## "Dari Masalah Hingga Solusi: Bangun Startup yang Berdampak"
 
 Dokumen ini memuat informasi resmi, jadwal pelaksanaan, profil narasumber, tautan pertemuan, serta rincian poster kegiatan Workshop Stage 1 Inkubasi Bisnis Startup Batch 24 Bandung Techno Park (BTP)bekerjasama dengan Telkom University (Gambar 2).
@@ -7,7 +7,7 @@ Dokumen ini memuat informasi resmi, jadwal pelaksanaan, profil narasumber, tauta
 
 ## 1. Informasi Poster Kegiatan (Gambar 2)
 
-* **Penyelenggara:** Inkubator Bisnis Bandung Techno Park (BTP) — Telkom University
+* **Penyelenggara:** Inkubator Bisnis Bandung Techno Park (BTP) : Telkom University
 * **Tagline:** *"Dari Masalah Hingga Solusi: Bangun Startup yang Berdampak"*
 * **Stage Inkubasi:** Workshop 1 (Stage 1: Problem & Customer Validation)
 * **Hari / Tanggal:** **Rabu, 23 September 2026**
@@ -20,8 +20,8 @@ Dokumen ini memuat informasi resmi, jadwal pelaksanaan, profil narasumber, tauta
 
 | Sesi | Waktu (WIB) | Topik Workshop | Pemateri / Narasumber | Jabatan & Instansi |
 | :---: | :---: | :--- | :--- | :--- |
-| **Sesi 1** | **09.00 – 11.30** | **Discover the Problem, Understand the Customer** | **Indra Purnama, S.T., M.T.** | Direktur PT. Bara Praja Indonesia |
-| **Sesi 2** | **16.00 – 17.30** | **Design Thinking Startup** | **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** | Direktur Bandung Techno Park (BTP) |
+| **Sesi 1** | **09.00 - 11.30** | **Discover the Problem, Understand the Customer** | **Indra Purnama, S.T., M.T.** | Direktur PT. Bara Praja Indonesia |
+| **Sesi 2** | **16.00 - 17.30** | **Design Thinking Startup** | **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** | Direktur Bandung Techno Park (BTP) |
 
 ---
 

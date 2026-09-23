@@ -1,4 +1,4 @@
-# SRL 8 — Financial Stability
+# SRL 8 : Financial Stability
 
 > **Core Question:** Can the business generate stable and growing financial performance?
 
@@ -10,13 +10,13 @@ Pada tahap ini, kita mulai melihat apakah **business model yang sudah divalidasi
 
 ### What We Monitor
 
-- **Revenue** — seberapa konsisten pemasukan bisnis?
-- **Profit** — apakah revenue menghasilkan keuntungan?
-- **New Customers** — berapa banyak customer baru yang diperoleh?
-- **Repeat Customers** — berapa banyak customer lama yang kembali membeli?
-- **Cash Flow** — apakah arus kas bisnis sehat?
-- **KPI** — apakah indikator utama bisnis tercapai?
-- **Financial Trend** — bagaimana perkembangan revenue, profit, dan customer dari waktu ke waktu?
+- **Revenue** : seberapa konsisten pemasukan bisnis?
+- **Profit** : apakah revenue menghasilkan keuntungan?
+- **New Customers** : berapa banyak customer baru yang diperoleh?
+- **Repeat Customers** : berapa banyak customer lama yang kembali membeli?
+- **Cash Flow** : apakah arus kas bisnis sehat?
+- **KPI** : apakah indikator utama bisnis tercapai?
+- **Financial Trend** : bagaimana perkembangan revenue, profit, dan customer dari waktu ke waktu?
 
 ---
 

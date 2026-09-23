@@ -156,4 +156,4 @@ Kalau mau dibuat sesederhana framework sebelumnya:
 
 `“I referred someone.”`
 
-Untuk **GENY–StuntCare**, SRL 4 nantinya akan sangat menarik karena kita bisa menguji bukan cuma “ibu/kader mau mencoba GENY?”, tetapi **“apakah mereka kembali menggunakan GENY ketika ada kebutuhan kesehatan/monitoring berikutnya?”**
+Untuk **GENY-StuntCare**, SRL 4 nantinya akan sangat menarik karena kita bisa menguji bukan cuma “ibu/kader mau mencoba GENY?”, tetapi **“apakah mereka kembali menggunakan GENY ketika ada kebutuhan kesehatan/monitoring berikutnya?”**

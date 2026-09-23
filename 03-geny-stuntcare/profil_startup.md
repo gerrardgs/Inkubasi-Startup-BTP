@@ -10,7 +10,7 @@
 | **Nama Startup** | **Geny StuntCare** |
 | **Domain Resmi (Web)**| [genystuntcare.com](https://genystuntcare.com) |
 | **Sektor Industri** | HealthTech / Social Impact / AI & Maternal-Child Health |
-| **Program Inkubasi** | Inkubator Bisnis Startup Batch 24 — Bandung Techno Park (Telkom University) |
+| **Program Inkubasi** | Inkubator Bisnis Startup Batch 24 : Bandung Techno Park (Telkom University) |
 | **Tahapan Saat Ini** | Stage 1 (SRL 0 & SRL 1: Problem & Customer Validation) |
 
 ---

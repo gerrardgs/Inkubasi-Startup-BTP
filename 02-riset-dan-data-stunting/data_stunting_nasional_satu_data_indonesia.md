@@ -1,4 +1,4 @@
-# Data Stunting Nasional — Portal Satu Data Indonesia (data.go.id)
+# Data Stunting Nasional : Portal Satu Data Indonesia (data.go.id)
 ## Referensi Riset & Validasi Baseline Masalah Stunting Balita di Indonesia
 
 Dokumen ini mendokumentasikan dataset resmi prevalensi stunting nasional dari portal Satu Data Indonesia (Kementerian Perencanaan Pembangunan Nasional / Bappenas & Kementerian Kesehatan RI) yang menjadi landasan problem statement startup **Geny StuntCare**.
@@ -11,7 +11,7 @@ Dokumen ini mendokumentasikan dataset resmi prevalensi stunting nasional dari po
 * **Tautan Sumber:** [Portal Satu Data Indonesia - Dataset 1](https://data.go.id/dataset/dataset/prevalesi-stunting-pendek-dan-sangat-pendek-pada-anak-balita)
 * **Organisasi Pembuat Data:** Kementerian Kesehatan Republik Indonesia
 * **Definisi Indikator:**
-  * Persentase anak usia di bawah lima tahun (balita 0–59 bulan) yang memiliki indeks Tinggi Badan menurut Umur (TB/U) atau Panjang Badan menurut Umur (PB/U) kurang dari **-2 Standar Deviasi (-2 SD)** dari standar kurva pertumbuhan WHO.
+  * Persentase anak usia di bawah lima tahun (balita 0-59 bulan) yang memiliki indeks Tinggi Badan menurut Umur (TB/U) atau Panjang Badan menurut Umur (PB/U) kurang dari **-2 Standar Deviasi (-2 SD)** dari standar kurva pertumbuhan WHO.
   * Kategori:
     * **Pendek (*stunted*):** Z-score antara -2 SD sampai dengan -3 SD.
     * **Sangat Pendek (*severely stunted*):** Z-score kurang dari -3 SD.
@@ -26,7 +26,7 @@ Dokumen ini mendokumentasikan dataset resmi prevalensi stunting nasional dari po
 ## 2. Analisis Tren & Urgensi Masalah
 
 ### A. Target Penurunan Nasional (RPJMN & SDGs)
-1. **Target RPJMN 2020–2024:** Pemerintah Indonesia menargetkan penurunan prevalensi stunting balita menjadi **14%**.
+1. **Target RPJMN 2020-2024:** Pemerintah Indonesia menargetkan penurunan prevalensi stunting balita menjadi **14%**.
 2. **Kondisi Riil:** Meskipun tren prevalensi stunting mengalami penurunan bertahap (dari ~30.8% pada Riskesdas 2018 menjadi 21.6% pada SSGI 2022 dan ~21.5% pada SKI 2023), penurunan ini belum merata di seluruh kabupaten/kota dan masih menyisakan kesenjangan disparitas wilayah yang signifikan.
 3. **Standar WHO:** Batas ambang (*threshold*) batas toleransi kesehatan masyarakat dari WHO untuk stunting adalah **< 20%**. Indonesia saat ini masih berada di sekitar batas kritis tersebut.
 

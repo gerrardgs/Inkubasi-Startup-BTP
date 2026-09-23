@@ -29,9 +29,9 @@ Sesuai catatan kerja SLR 1 (`Target survey : cari data bps`), tim memerlukan dat
 
 Berdasarkan cakupan wilayah lapangan yang telah dipetakan pada SLR 1, data BPS akan diunduh dan diolah untuk daerah:
 1. **Kota Malang** (BPS Kota Malang: `malangkota.bps.go.id`)
-2. **Kabupaten Malang** — Termasuk fokus kecamatan Turen dan Gondanglegi (BPS Kab. Malang: `malangkab.bps.go.id`)
+2. **Kabupaten Malang** : Termasuk fokus kecamatan Turen dan Gondanglegi (BPS Kab. Malang: `malangkab.bps.go.id`)
 3. **Kabupaten Banyuwangi** (BPS Kab. Banyuwangi: `banyuwangikab.bps.go.id`)
-4. **Kabupaten Sidoarjo** — Termasuk area Siwalanpanji (BPS Kab. Sidoarjo: `sidoarjokab.bps.go.id`)
+4. **Kabupaten Sidoarjo** : Termasuk area Siwalanpanji (BPS Kab. Sidoarjo: `sidoarjokab.bps.go.id`)
 5. **Kabupaten Magetan** (BPS Kab. Magetan: `magetankab.bps.go.id`)
 6. **Kota Surabaya** (BPS Kota Surabaya: `surabayakota.bps.go.id`)
 7. **Kabupaten Jember** (BPS Kab. Jember: `jemberkab.bps.go.id`)

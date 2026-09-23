@@ -1,5 +1,5 @@
 # Panduan Operasional Funding & Pelaporan Keuangan (LPJ)
-## Inkubasi Bisnis Startup Batch 24 — Bandung Techno Park (Telkom University)
+## Inkubasi Bisnis Startup Batch 24 : Bandung Techno Park (Telkom University)
 
 ---
 
