@@ -1,12 +1,12 @@
-# 🌟 Inkubasi Startup Batch 24 — Bandung Techno Park (BTP)
-### Portofolio Resmi, Riset Validasi Lapangan & Dokumentasi Perjalanan Tim **Geny StuntCare**
+# Projects21 ||| Geny StuntCare
+### Portofolio Resmi, Riset Validasi Lapangan & Dokumentasi Inkubasi Startup Batch 24 — Bandung Techno Park (Telkom University)
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Project-Projects21%20%7C%7C%7C%20Geny%20StuntCare-blueviolet?style=for-the-badge&logo=github" alt="Projects21" />
   <img src="https://img.shields.io/badge/Program-Inkubasi%20Startup%20BTP%20Batch%2024-red?style=for-the-badge&logo=rocket" alt="BTP Batch 24" />
   <img src="https://img.shields.io/badge/Institution-Telkom%20University-blue?style=for-the-badge&logo=google-cloud" alt="Telkom University" />
-  <img src="https://img.shields.io/badge/Startup-Geny%20StuntCare-emerald?style=for-the-badge" alt="Geny StuntCare" />
   <img src="https://img.shields.io/badge/Stage-1%20(Problem%20Validation)-orange?style=for-the-badge" alt="Stage 1" />
-  <img src="https://img.shields.io/badge/Platform-genystuntcare.com-indigo?style=for-the-badge&logo=googlechrome" alt="Website" />
+  <img src="https://img.shields.io/badge/Platform-genystuntcare.com-emerald?style=for-the-badge&logo=googlechrome" alt="Website" />
 </p>
 
 ---
@@ -142,8 +142,8 @@ Repositori ini dirancang, dibangun, dan dipelihara secara mandiri oleh:
 
 ## 🔗 Tautan Ekosistem & Repositori Terhubung
 
-* **Repositori Aktif & Pengembangan:** [https://github.com/gerrardgs/Inkubasi-Startup-BTP](https://github.com/gerrardgs/Inkubasi-Startup-BTP)
-* **Mirror Project21:** [https://github.com/gerrardgs/project21](https://github.com/gerrardgs/project21)
+* **Repositori Utama:** [https://github.com/gerrardgs/Projects21-Geny-StuntCare](https://github.com/gerrardgs/Projects21-Geny-StuntCare)
+* **Repositori Fork BTP:** [https://github.com/gerrardgs/Inkubasi-Startup-BTP](https://github.com/gerrardgs/Inkubasi-Startup-BTP)
 * **Official Upstream Team Repo:** [https://github.com/Gebext/Inkubasi-Startup-BTP](https://github.com/Gebext/Inkubasi-Startup-BTP)
 * **Platform Startup Geny StuntCare:** [https://genystuntcare.com](https://genystuntcare.com)
 * **Bandung Techno Park:** [https://btp.telkomuniversity.ac.id](https://btp.telkomuniversity.ac.id)
