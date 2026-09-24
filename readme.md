@@ -12,7 +12,7 @@
 ---
 
 > *"Startup yang hebat tidak dibangun dari keangkuhan teknologi atau asumsi di balik meja kerja, melainkan dari keberanian mendengarkan penderitaan nyata orang tua di pelosok desa, memahami kegelisahan ibu muda, dan menghadirkan solusi yang benar-benar dicintai penggunanya."*  
-> - **Gerrard Sebastian**, Founder of Geny StuntCare
+> - **Gerrard Sebastian**, Anggota Tim Geny StuntCare
 
 ---
 
@@ -129,7 +129,7 @@ Repositori ini dirancang, dibangun, dan dipelihara secara mandiri oleh:
 
 <div align="center">
   <h3><strong>Gerrard Sebastian</strong></h3>
-  <p><strong>Founder & Lead Developer : Geny StuntCare</strong></p>
+  <p><strong>Anggota : Geny StuntCare</strong></p>
   <p>
     <a href="https://github.com/gerrardgs"><img src="https://img.shields.io/badge/GitHub-gerrardgs-black?style=flat&logo=github" alt="GitHub Profile" /></a>
     <a href="mailto:gerrardsebastiangege2005@gmail.com"><img src="https://img.shields.io/badge/Email-gerrardsebastiangege2005%40gmail.com-red?style=flat&logo=gmail" alt="Email" /></a>

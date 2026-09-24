@@ -16,7 +16,7 @@
 | **Moderator / MC** | **Shoffa Anbar** (Bandung Techno Park) |
 | **Platform** | Zoom Cloud Meetings (Meeting ID: `883 0476 3688` | Passcode: `y6SsxZHF76ynZcLuqDV3rpzxfJNY26.1`) |
 | **Peserta Hadir** | 100+ Peserta (47 Tim Startup Inkubasi BTP Batch 24, Mahasiswa S2 Teknik/Manajemen Inovasi, Mahasiswa FEB Telkom University) |
-| **Notulis** | **Gerrard Sebastian** (Founder Geny StuntCare) |
+| **Notulis** | **Gerrard Sebastian** (Anggota Tim Geny StuntCare) |
 
 ---
 
