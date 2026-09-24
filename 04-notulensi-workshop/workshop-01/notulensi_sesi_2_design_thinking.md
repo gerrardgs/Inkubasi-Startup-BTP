@@ -165,13 +165,59 @@ sehingga mereka membutuhkan [Kebutuhan Hakiki] agar dapat [Tujuan / Goals Akhir]
 - *Contoh Kurang Bagus (Jump to Solution):* "Kami perlu membuat aplikasi keuangan agar pengguna bisa menabung lebih mudah."
 - *Contoh Sangat Bagus:* "Budi, seorang pekerja lepas berusia 28 tahun, mengalami kesulitan mengelola keuangannya karena pemasukannya tidak tetap setiap bulan. Ia membutuhkan sistem pengaturan anggaran yang fleksibel agar dapat menyisihkan tabungan masa depan tanpa tekanan finansial."
 
-#### 3. Studi Kasus Kelas: Solusi Pola Makan Sehat Mahasiswa
-Dr. Iwan memandu simulasi penyusunan Define secara bertahap:
-- **Temuan Lapangan / Fakta:** Mahasiswa sering terlambat makan karena jam kuliah padat; pilihan makanan sehat di sekitar kampus sangat terbatas; makanan sehat dipersepsikan mahal dan tidak enak; mahasiswa tidak mengetahui kandungan gizi makanan; banyak yang berniat hidup sehat tetapi sulit konsisten.
-- **Pengelompokan Tema (Clustering):** Masalah Akses, Masalah Harga/Ekonomi, Masalah Kepraktisan Waktu, Masalah Informasi Gizi, Masalah Perilaku/Habit.
-- **Analisis Kritis (Why Analysis):** Mengapa mahasiswa tidak rutin makan sehat? Karena memilih yang praktis. Mengapa pilihan sehat tidak praktis? Karena penyedia makanan sehat relatif sedikit. Mengapa model layanan saat ini belum berhasil? Karena penjual saat ini hanya berorientasi *menjual makanan sehat*, bukan *membuat pola makan sehat menjadi mudah dan murah dilakukan mahasiswa*.
-- **Problem Statement Terpilih:**
-  > *"Mahasiswa dengan aktivitas kampus yang padat membutuhkan cara yang praktis dan terjangkau untuk mempertahankan kebiasaan makan sehat, karena keinginan hidup sehat sering kali terkendala oleh keterbatasan waktu, akses fisik, dan biaya harian."*
+---
+
+### 🎨 BEDAH ALAT BTP: "DEFINE CANVAS" (Slide Resmi Dr. Iwan)
+
+Dr. Iwan memperkenalkan **Define Canvas** resmi Bandung Techno Park sebagai alat bantu terstruktur untuk menemukan masalah yang paling tepat untuk diselesaikan.
+
+#### A. Struktur 7 Langkah Define Canvas BTP:
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                          DEFINE CANVAS                                          │
+│                           Menemukan masalah yang paling tepat untuk diselesaikan               │
+│ Tim: __________________   Tanggal: ______________   Topik/Fokus: ____________________________   │
+├───────────────────────┬───────────────────────┬───────────────────────┬─────────────────────────┤
+│ 1. Kumpulkan Temuan   │ 2. Kelompokkan Temuan │ 3. Cari Pola / Tema   │ 4. Tanya Akar Masalah   │
+│ Apa yang kamu lihat / │ Temuan mana yang      │ Apa pola yang sering  │    (5 Whys)             │
+│ dengar?               │ mirip?                │ muncul?               │ Kenapa ini terjadi?     │
+│                       │                       │                       │ Why 1: ________________ │
+│                       │                       │                       │ Why 2: ________________ │
+│                       │                       │                       │ Why 3: ________________ │
+│                       │                       │                       │ Why 4: ________________ │
+│                       │                       │                       │ Why 5: ________________ │
+├───────────────────────┴───────────────────────┼───────────────────────┴─────────────────────────┤
+│ 5. Tulis Insight                              │ 6. Tulis Problem Statement                      │
+│ Apa pemahaman penting yang kamu dapat?        │ Masalah inti apa yang sebenarnya ingin          │
+│                                               │ diselesaikan?                                   │
+├───────────────────────────────────────────────┴─────────────────────────────────────────────────┤
+│ 7. Ubah Jadi Pertanyaan HMW                                                                     │
+│ Bagaimana kita bisa ...?                                                                        │
+├───────────────────────────────────────────────┬─────────────────────────────────────────────────┤
+│ HASIL DEFINE                                  │ PERTANYAAN HMW                                  │
+│ User [_______] butuh [_______] karena [_____] │ Bagaimana kita bisa [________________________]? │
+└───────────────────────────────────────────────┴─────────────────────────────────────────────────┘
+```
+
+#### B. Studi Kasus Resmi Slide BTP: Team HealthyCampus (19 September 2026)
+Pada slide pemaparan, Dr. Iwan menampilkan contoh penerapan Define Canvas yang telah diisi lengkap untuk studi kasus:
+* **Tim:** Team HealthyCampus
+* **Tanggal:** 19 September 2026
+* **Topik / Fokus:** Startup Makanan Sehat untuk Mahasiswa
+* **Tujuan DEFINE:** Memahami dan merumuskan masalah inti yang benar-benar layak untuk diselesaikan.
+
+| Langkah Canvas | Isi & Temuan Riil pada Slide Dr. Iwan |
+| :--- | :--- |
+| **1. Kumpulkan Temuan** *(Apa yang kamu lihat/dengar?)* | • Mahasiswa sering terlambat makan.<br>• Pilihan makanan sehat di sekitar kampus terbatas.<br>• Makanan sehat dianggap lebih mahal.<br>• Mahasiswa memilih makanan berdasarkan rasa, harga, dan kepraktisan.<br>• Sulit mengetahui kandungan gizi makanan.<br>• Banyak mahasiswa ingin hidup lebih sehat tetapi tidak konsisten. |
+| **2. Kelompokkan Temuan** *(Temuan mana yang mirip?)* | • **Akses:** Makanan sehat sulit ditemukan di sekitar kampus.<br>• **Harga:** Makanan sehat dianggap lebih mahal.<br>• **Kepraktisan:** Mahasiswa tidak punya banyak waktu.<br>• **Informasi:** Tidak tahu kandungan gizi.<br>• **Perilaku:** Niat hidup sehat ada, tetapi sulit konsisten. |
+| **3. Cari Pola / Tema** *(Apa pola yang sering muncul?)* | • Ada gap antara keinginan hidup sehat dengan perilaku makan sehari-hari.<br>• Hambatan utama bukan semata-mata kesadaran, tetapi kemudahan, harga, waktu, dan akses.<br>• Mahasiswa membutuhkan solusi yang sesuai dengan gaya hidup dan aktivitas kampus. |
+| **4. Tanya Akar Masalah (5 Whys)** *(Kenapa ini terjadi?)* | • **Why 1:** Mengapa mahasiswa tidak rutin makan sehat? -> Karena lebih sering memilih makanan yang praktis.<br>• **Why 2:** Mengapa? -> Pilihan sehat tidak selalu mudah ditemukan.<br>• **Why 3:** Mengapa? -> Penjual makanan sehat relatif sedikit dan dianggap mahal.<br>• **Why 4:** Mengapa? -> Penyedia makanan sehat belum menyesuaikan produk dengan kebutuhan mahasiswa.<br>• **Why 5:** Mengapa? -> Model layanan masih berorientasi pada "menjual makanan sehat", bukan membuat pola makan sehat menjadi mudah dilakukan mahasiswa. |
+| **5. Tulis Insight** *(Pemahaman penting apa yang didapat?)* | **"Mahasiswa tidak sekadar membutuhkan makanan sehat. Mereka membutuhkan cara yang mudah, terjangkau, dan praktis untuk mempertahankan kebiasaan makan sehat di tengah aktivitas kampus yang padat."** |
+| **6. Tulis Problem Statement** *(Masalah inti apa yang ingin diselesaikan?)* | **"Mahasiswa yang memiliki aktivitas kampus padat membutuhkan cara yang praktis dan terjangkau untuk memperoleh makanan sehat karena keinginan hidup sehat sering kalah oleh keterbatasan waktu, akses, dan biaya."** |
+| **7. Ubah Jadi Pertanyaan HMW** *(Bagaimana kita bisa...?)* | **"Bagaimana kita bisa membuat pola makan sehat menjadi pilihan yang mudah, praktis, dan terjangkau bagi mahasiswa dengan aktivitas kampus yang padat?"** |
+| **KOTAK HASIL DEFINE** | **User:** Mahasiswa dengan aktivitas kampus yang padat<br>**Butuh:** Cara yang praktis dan terjangkau untuk memperoleh makanan sehat<br>**Karena:** Niat untuk hidup sehat sering kalah oleh keterbatasan waktu, akses, dan biaya. |
+| **KOTAK PERTANYAAN HMW** | **"Bagaimana kita bisa membuat pola makan sehat menjadi pilihan yang mudah, praktis, dan terjangkau bagi mahasiswa dengan aktivitas kampus yang padat?"** |
 
 ---
 
@@ -182,19 +228,87 @@ Tahap melahirkan alternatif solusi kreatif sebanyak mungkin sebelum proses selek
 - Jangan menahan ide atau terburu-buru menilai ide di awal (*divergent thinking*).
 - Satu tim berisi 10 orang dapat menghasilkan 50-80 ide dalam waktu singkat, sebelum kemudian dipilih 4-5 ide terbaik yang realistis untuk dieksekusi.
 
-#### 2. Teknik Ideasi Terstruktur:
-- **Brainwriting:** Mencegah dominasi anggota tim yang ekstrovert dalam rapat. Setiap anggota menuliskan gagasannya di kartu/kertas terlebih dahulu secara hening, kemudian seluruh kartu ditempel di dinding untuk dikelompokkan dan dinilai bersama.
-- **SCAMPER:**
-  - *Substitute* (Mengganti elemen/bahan).
-  - *Combine* (Menggabungkan dua fungsi/layanan).
-  - *Adapt* (Mengadaptasi ide dari industri lain).  
-    *Contoh:* Steve Jobs mengadaptasi kabel charger magnetik MacBook dari mekanisme kabel magnetik rice cooker pemanas air di Jepang agar air panas tidak tumpah saat kabel tersandung.
-  - *Modify* (Memodifikasi ukuran/bentuk/tampilan).
-  - *Put to another use* (Memanfaatkan untuk kegunaan berbeda).
-  - *Eliminate* (Menghilangkan fitur ribet yang tidak esensial).
-  - *Reverse / Rearrange* (Membalik alur kerja).
+---
 
-#### 3. Nudge Theory & Habit Engineering (Dorongan Halus):
+### 🎨 BEDAH ALAT BTP: "CRAZY 8s CANVAS" (Slide Resmi Dr. Iwan)
+
+Dr. Iwan mengenalkan metode **Crazy 8s Canvas** sebagai teknik visual cepat untuk memaksa otak mengeluarkan 8 gagasan solusi yang berbeda dalam waktu singkat tanpa sempat menghakimi ide tersebut:
+
+* **Format Canvas:** 1 lembar kertas yang dibagi menjadi **8 kotak persegi** (Kotak 1 s/d Kotak 8).
+* **Metadata Canvas:** `Topik / HMW`, `Nama Peserta`, `Tanggal`, dan `Waktu: 8 menit`.
+* **Aturan Main Eksekusi (4 Langkah):**
+  1. **Tulis Topik / HMW:** Tuliskan pertanyaan *How Might We* yang telah dirumuskan pada tahap Define di bagian atas canvas.
+  2. **Set Timer 8 Menit:** Pasang stopwatch tepat 8 menit (1 menit per kotak).
+  3. **Isi 8 Ide Berbeda:** Gambar sketsa kasar atau tuliskan 8 varian ide solusi unik pada masing-masing kotak (Kotak 1 sampai 8).
+  4. **Jangan Menilai Dulu (*No Judgement*):** Dilarang keras mengkritik apakah ide tersebut konyol, mahal, atau sulit dibuat. Biarkan ide liar mengalir bebas.
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                        CRAZY 8s CANVAS                                          │
+│                               Buat 8 ide berbeda dengan cepat.                                  │
+│ Topik / HMW: _________________   Nama: ________________   Tanggal: ______   (⏱️ Waktu: 8 menit)  │
+├───────────────────────┬───────────────────────┬───────────────────────┬─────────────────────────┤
+│ [1]                   │ [2]                   │ [3]                   │ [4]                     │
+│                       │                       │                       │                         │
+│ Ide / Sketsa          │ Ide / Sketsa          │ Ide / Sketsa          │ Ide / Sketsa            │
+├───────────────────────┼───────────────────────┼───────────────────────┼─────────────────────────┤
+│ [5]                   │ [6]                   │ [7]                   │ [8]                     │
+│                       │                       │                       │                         │
+│ Ide / Sketsa          │ Ide / Sketsa          │ Ide / Sketsa          │ Ide / Sketsa            │
+├───────────────────────┴───────────────────────┴───────────────────────┴─────────────────────────┤
+│  1. Tulis topik   │   2. Set timer 8 menit   │   3. Isi 8 ide   │   4. Jangan menilai dulu     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🎨 BEDAH ALAT BTP: "SCAMPER CANVAS" (Slide Resmi Dr. Iwan)
+
+Alat eksplorasi ide dari 7 sudut pandang yang berbeda untuk menemukan celah kebaruan solusi (*novelty*):
+
+* **Metadata Canvas:** `Topik / HMW`, `Nama Peserta`, `Tanggal`.
+* **7 Dimensi Sudut Pandang SCAMPER:**
+  1. **S : Substitute (Ganti):** *Apa yang bisa diganti?* (Bahan baku, format antarmuka, saluran distribusi, teknologi perantara).
+  2. **C : Combine (Gabungkan):** *Apa yang bisa digabung?* (Menggabungkan dua fitur, mengintegrasikan layanan posyandu dengan e-commerce gizi).
+  3. **A : Adapt (Adaptasi):** *Apa yang bisa ditiru atau disesuaikan dari industri lain?*  
+     *Contoh Legendaris Apple:* Steve Jobs mengadaptasi konektor magnetik MacBook (MagSafe) dari mekanisme kabel magnetik rice cooker Jepang agar kabel terlepas aman saat tersandung tanpa menumpahkan air panas.
+  4. **M : Modify (Ubah / Perbesar / Perkecil):** *Apa yang bisa diubah, diperbesar frekuensinya, atau diminimalkan kerumitannya?*
+  5. **P : Put to Another Use (Gunakan untuk Fungsi Lain):** *Apa fungsi lain yang mungkin dimanfaatkan dari data/aset yang sudah kita miliki?*
+  6. **E : Eliminate (Hilangkan):** *Apa proses ribet, formulir berbelit, atau langkah administratif yang bisa dihilangkan/disederhanakan total?*
+  7. **R : Reverse / Rearrange (Balik / Susun Ulang):** *Apa alur yang bisa dibalik atau diurutkan ulang agar lebih efisien?*
+* **Kotak Bawah Canvas:** `IDE TERPILIH / KESIMPULAN` (Bintang / Star).
+* **4 Langkah Penggunaan SCAMPER:**
+  1. Tulis topik
+  2. Lihat dari 7 sudut
+  3. Tulis banyak kemungkinan
+  4. Pilih ide terbaik
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                         SCAMPER CANVAS                                          │
+│                           Alat untuk mengembangkan ide dari berbagai sudut                     │
+│ Topik / HMW: _________________   Nama: ________________   Tanggal: ___________________________ │
+├───────────────────────┬───────────────────────┬───────────────────────┬─────────────────────────┤
+│ S : Substitute (Ganti)│ C : Combine (Gabung)  │ A : Adapt (Adaptasi)  │ M : Modify (Ubah)       │
+│ Apa yang bisa diganti?│ Apa yang bisa digabung│ Apa yang bisa ditiru  │ Apa yang bisa diubah/   │
+│                       │                       │ atau disesuaikan?     │ diperbesar/perkecil?    │
+├───────────────────────┴───────────────────────┼───────────────────────┴─────────────────────────┤
+│ P : Put to Another Use (Fungsi Lain)          │ E : Eliminate (Hilangkan / Sederhanakan)        │
+│ Apa fungsi lain yang mungkin?                 │ Apa yang bisa dihilangkan atau disederhanakan?  │
+├───────────────────────────────────────────────┴─────────────────────────────────────────────────┤
+│ R : Reverse / Rearrange (Balik / Susun Ulang)                                                   │
+│ Apa yang bisa dibalik atau diurutkan ulang?                                                     │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ ⭐ IDE TERPILIH / KESIMPULAN:                                                                    │
+│ _______________________________________________________________________________________________ │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│  1. Tulis topik  │  2. Lihat dari 7 sudut  │  3. Tulis banyak kemungkinan  │  4. Pilih ide terbaik │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### Nudge Theory & Habit Engineering (Dorongan Halus)
 - Terinspirasi dari konsep buku *Nudge* (Richard Thaler & Cass Sunstein) : dorongan lembut seperti induk gajah yang menyenggol anaknya secara perlahan tanpa pemaksaan otoritatif (Teori X/Y).
 - **Contoh Nudge Bersejarah:**
   - *Lalat di Urinoir Bandara Schiphol Amsterdam:* Menempatkan gambar lalat kecil di titik tengah urinoir berhasil memicu fokus alami pria dan mengurangi tumpahan pipis hingga 80%.
@@ -270,39 +384,141 @@ Tahap melahirkan alternatif solusi kreatif sebanyak mungkin sebelum proses selek
 
 ---
 
-## 9. Pesan Penutup & Rencana Aksi untuk Tim Geny StuntCare
+## 9. Penugasan Resmi BTP: Tahap 1 s.d Tahap 3 Design Thinking (Slide 51)
 
-### A. Pesan Kunci Direktur BTP (Dr. Iwan Iwut Tritoasmoro):
-> *"Di balik setiap produk hebat, selalu ada orang-orang di balik layar yang bekerja tanpa lelah memadukan teknologi dan desain demi memecahkan masalah pelanggan dengan cara yang selaras dengan keberlanjutan bisnis (Marty Cagan). Mulailah dari empati mendalam, hasilkan problem statement yang tajam, dan bangun prototipe MVP tanpa takut mengalami kegagalan awal!"*
-
-### B. Lembar Kerja Penerapan pada Startup Geny StuntCare (`genystuntcare.com`):
+Pada slide penutup sesi (Slide 51), Dr. Iwan Iwut Tritoasmoro memberikan **TUGAS RESMI** kepada seluruh tim startup binaan Inkubasi Bisnis BTP Batch 24:
 
 ```
-[INTEGRASI MATERI DESIGN THINKING PADA GENY STUNTCARE]
-
-1. Empathize:
-   • Amati langsung interaksi ibu balita saat antre di Posyandu (wilayah Malang, Banyuwangi, Sidoarjo, dsb).
-   • Identifikasi tingkat kebutuhan pengguna: Pastikan platform genystuntcare.com tidak hanya
-     berfungsi (Level 1) dan handal (Level 2), tetapi mudah digunakan tanpa ribet (Level 3)
-     dan menyenangkan bagi ibu muda (Level 5 : gamifikasi badge kurva tumbuh kembang hijau).
-
-2. Define:
-   • Rumuskan Problem Statement spesifik:
-     "Ibu muda bekerja yang memiliki balita usia emas (0-24 bulan) membutuhkan cara pemantauan
-     status antropometri (TB/BB) yang praktis dan mandiri dari ponsel pintar, karena jadwal
-     kerja pagi hari membuatnya sulit menghadiri posyandu rutin sehingga rentan terlambat mendeteksi
-     gejala gagal tumbuh (stunting)."
-
-3. Ideate (SCAMPER & Nudge):
-   • Terapkan dorongan halus (Nudge): Kirimkan notifikasi berkala WhatsApp bukan berisi peringatan medis
-     menakutkan, melainkan rekomendasi menu resep MPASI protein lokal lezat (telur, ikan kembung, hati ayam)
-     yang memicu kebiasaan positif ibu memasak menu gizi seimbang harian.
-
-4. Prototype (MVP Approach):
-   • Fokus pada fitur esensial: Kalkulator Z-score WHO otomatis, visualisasi grafik pertumbuhan warna-warni,
-     dan peringatan dini stunting tanpa menambahkan fitur kompleks berlebih di awal.
-
-5. Testing (Think Aloud & Usability):
-   • Uji coba langsung MVP web genystuntcare.com kepada kader posyandu dan ibu balita,
-     serta libatkan Dosen Telkom University dan tim medis Yakes Telkom untuk validasi klinis.
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                             TUGAS                                               │
+│                        Kerjakan Tahap 1 s.d Tahap 3 Design Thinking                             │
+│                                                                                                 │
+│ 1) Lakukan diskusi bersama Tim startup Anda untuk merumuskan langkah-langkah EMPATHY, kemudian  │
+│ 2) Olah data hasil observasi/ survey, dll.                                                      │
+│ 3) Rumuskan PROBLEM STATEMENT untuk gagasan startup Anda,                                       │
+│ 4) Lakukan IDEATE untuk merumuskan paket SOLUSI yang akan anda tawarkan.                        │
+│ 5) Buatlah rancangan langkah Validasi produk dan bisnis Anda.                                   │
+│                                                                                                 │
+│ *Tulis laporan secara sistematis*                                                               │
+│ (Iwan I. Tritoasmoro, Slide 51)                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 10. Implementasi Nyata Canvas BTP pada Startup Geny StuntCare (`genystuntcare.com`)
+
+Sebagai wujud eksekusi langsung dari penugasan resmi Slide 51 di atas, tim **Geny StuntCare** menyusun pengisian lengkap untuk ketiga canvas BTP:
+
+### A. DEFINE CANVAS : Tim Geny StuntCare
+* **Tim:** Geny StuntCare
+* **Tanggal:** 23 September 2026
+* **Topik / Fokus:** Platform Digital Deteksi Dini & Pencegahan Stunting Balita
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                   DEFINE CANVAS : GENY STUNTCARE                                │
+│ Tim: Geny StuntCare   Tanggal: 23 September 2026   Topik: Deteksi Dini & Monitoring Stunting   │
+├───────────────────────┬───────────────────────┬───────────────────────┬─────────────────────────┤
+│ 1. Kumpulkan Temuan   │ 2. Kelompokkan Temuan │ 3. Cari Pola / Tema   │ 4. Tanya Akar Masalah   │
+│ • Ibu muda jarang ke  │ • Akses: Posyandu     │ • Ada kesenjangan     │    (5 Whys)             │
+│   posyandu karena jam │   jauh di pelosok desa│   antara kesadaran ibu│ Why 1: Kenapa balita    │
+│   kerja bentrok.      │ • Kepraktisan: Antre  │   akan bahaya stunting│ terlambat ditangani?    │
+│ • Posyandu di pelosok │   lama di posyandu.   │   dengan keaktifan    │ -> Karena baru tahu saat│
+│   desa jauh dari rumah│ • Perilaku: Ibu aktif │   datang ke posyandu. │ usia > 24 bulan.        │
+│ • Buku KIA fisik      │   main HP tapi bingung│ • Ibu muda lebih suka │ Why 2: Kenapa baru tahu?│
+│   sering hilang/rusak.│   tips MPASI valid.   │   media digital tapi  │ -> Tidak rutin ditimbang│
+│ • Kader posyandu beban│ • Administrasi: Kader │   kebingungan memilih │ Why 3: Kenapa tak rutin?│
+│   pencatatan manual.  │   rekap buku manual.  │   informasi gizi benar│ -> Posyandu antre & jauh│
+│ • Balita terdeteksi   │ • Pengetahuan: Ibu tak│ • Kader butuh alat    │ Why 4: Kenapa tak online│
+│   stunting terlambat  │   paham kurva KMS WHO │   bantu rekap instan. │ -> Belum ada web simpel │
+│   (sudah > 24 bulan). │                       │                       │ Why 5: Kenapa? -> Sistem│
+│                       │                       │                       │ lama masih serba manual │
+├───────────────────────┴───────────────────────┼───────────────────────┴─────────────────────────┤
+│ 5. Tulis Insight                              │ 6. Tulis Problem Statement                      │
+│ "Ibu balita tidak sekadar butuh informasi     │ "Ibu muda dengan balita usia 0-24 bulan         │
+│ stunting, melainkan membutuhkan alat pantau   │ membutuhkan cara pemantauan status antropometri │
+│ tumbuh kembang mandiri yang cepat, tervalidasi│ (TB/BB) yang praktis, mandiri, dan akurat dari  │
+│ WHO, dan dapat diakses setiap saat dari HP    │ smartphone karena jadwal posyandu fisik sering  │
+│ tanpa harus mengantre lama di posyandu."      │ berbenturan dengan rutinitas harian mereka."    │
+├───────────────────────────────────────────────┴─────────────────────────────────────────────────┤
+│ 7. Ubah Jadi Pertanyaan HMW                                                                     │
+│ "Bagaimana kita bisa membantu ibu muda memantau status gizi dan mendeteksi risiko stunting     │
+│ balita secara mandiri, akurat, dan menyenangkan langsung dari ponsel pintarnya?"                │
+├───────────────────────────────────────────────┬─────────────────────────────────────────────────┤
+│ HASIL DEFINE                                  │ PERTANYAAN HMW                                  │
+│ User: Ibu muda dengan balita usia 0-24 bulan  │ Bagaimana kita bisa membuat pemantauan tumbuh   │
+│ Butuh: Pemantauan status gizi mandiri di HP   │ kembang dan deteksi dini stunting menjadi       │
+│ Karena: Jadwal kerja & antrean posyandu lama. │ mudah, praktis, dan akurat bagi ibu balita?     │
+└───────────────────────────────────────────────┴─────────────────────────────────────────────────┘
+```
+
+---
+
+### B. CRAZY 8s CANVAS : Tim Geny StuntCare (8 Menit Ideasi)
+* **Topik / HMW:** Bagaimana kita bisa mempermudah ibu balita mendeteksi risiko stunting sedini mungkin secara mandiri dan interaktif?
+
+| Kotak | Ide / Sketsa Solusi Geny StuntCare | Deskripsi Singkat |
+| :---: | :--- | :--- |
+| **1** | **Kalkulator Z-Score WHO 3 Detik** | Input tanggal lahir, jenis kelamin, BB, dan TB langsung memunculkan warna status gizi: Hijau (Normal), Kuning (Waspada), Merah (Risiko Stunting). |
+| **2** | **KMS Digital Interaktif** | Menggantikan grafik buku KIA kertas menjadi kurva pertumbuhan digital interaktif dengan titik koordinat otomatis. |
+| **3** | **WhatsApp Nudge Recipe Bot** | Bot otomatis yang mengirimkan dorongan resep MPASI protein lokal (ikan kembung, telur, hati ayam) setiap pukul 06.00 pagi. |
+| **4** | **Fitur Deteksi Panjang Balita via Kamera** | Panduan visual memotret balita di atas alas ukur dengan deteksi garis otomatis berbasis computer vision. |
+| **5** | **Posyandu Fast-Track Check-in** | QR Code digital profil balita dari web genystuntcare.com yang langsung di-scan oleh kader posyandu agar tidak perlu antre mencatat buku register. |
+| **6** | **Gamifikasi "Badge Ibu Hebat"** | Pemberian lencana apresiasi digital jika berat badan balita naik konsisten selama 3 bulan berturut-turut untuk meningkatkan retensi. |
+| **7** | **Modul Calon Pengantin (Catin Tracker)** | Skrining pra-kehamilan: lingkar lengan atas (LILA), anemia (Hb), dan konsumsi tablet tambah darah sebelum konsepsi. |
+| **8** | **Dashboard Surveilans untuk Puskesmas & Yakes** | Peta sebaran data balita stunting tingkat RT/RW real-time untuk memudahkan intervensi bantuan PMT dinas terkait. |
+
+---
+
+### C. SCAMPER CANVAS : Tim Geny StuntCare
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                   SCAMPER CANVAS : GENY STUNTCARE                               │
+│ Topik: Inovasi Ekosistem Web genystuntcare.com untuk Deteksi Stunting                           │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ S : Substitute (Ganti)                                                                          │
+│ Mengganti buku register posyandu fisik dan buku KIA kertas yang mudah rusak menjadi arsip awan │
+│ digital terenkripsi pada platform web genystuntcare.com.                                        │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ C : Combine (Gabungkan)                                                                         │
+│ Menggabungkan fungsi kalkulator medis Z-score WHO dengan rekomendasi resep MPASI pangan lokal   │
+│ bergizi tinggi dan reminder jadwal imunisasi balita dalam satu dashboard terpadu.               │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ A : Adapt (Adaptasi)                                                                            │
+│ Mengadaptasi prinsip Gamifikasi (seperti Duolingo/Shopee) dengan memberikan "Health Streak"     │
+│ dan notifikasi pencapaian kurva hijau kepada ibu balita agar termotivasi menimbang rutin.       │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ M : Modify (Ubah / Perbesar / Perkecil)                                                         │
+│ Mengubah grafik medis WHO yang rumit menjadi indikator warna sederhana (Merah, Kuning, Hijau)  │
+│ yang langsung dipahami oleh ibu awam tanpa istilah medis membingungkan.                         │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ P : Put to Another Use (Gunakan untuk Fungsi Lain)                                              │
+│ Memanfaatkan data agregat antropometri balita sebagai sistem intelijen sebaran gizi buruk bagi │
+│ Dinas Kesehatan dan program CSR korporat (seperti Yakes Telkom) untuk penyaluran bantuan PMT.   │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ E : Eliminate (Hilangkan / Sederhanakan)                                                        │
+│ Menghilangkan antrean manual penulisan identitas balita di meja 1 posyandu dengan sistem profil │
+│ digital terverifikasi.                                                                          │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ R : Reverse / Rearrange (Balik / Susun Ulang)                                                   │
+│ Membalik paradigma intervensi stunting: tidak menunggu anak divonis stunting saat usia 2 tahun, │
+│ melainkan memberikan intervensi dini sejak masa pranikah calon pengantin dan 1000 HPK.          │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ ⭐ IDE TERPILIH / KESIMPULAN:                                                                    │
+│ Mengintegrasikan KMS Digital Interaktif dengan WhatsApp Nudge Recipe Bot dan QR Fast-Track     │
+│ Posyandu sebagai MVP utama platform genystuntcare.com.                                          │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 11. Kesimpulan Akhir & Semangat Changemakers
+
+Rangkaian Workshop Stage 1 (Sesi 1 bersama Pak Indra Purnama dan Sesi 2 bersama Dr. Iwan Iwut Tritoasmoro) telah memberikan bekal fondasi yang utuh bagi tim **Geny StuntCare**:
+1. *Sesi 1:* Membedah problem discovery, customer profiling, dan Jobs to be Done (JTBD).
+2. *Sesi 2:* Mentransformasikan pemahaman empati ke dalam Define Canvas, melipatgandakan ide lewat Crazy 8s dan SCAMPER, serta memvalidasi solusi dengan prototipe MVP yang teruji.
+
+> *"Go back to your customer, validate the problem, challenge your assumptions, and build solutions that truly matter!"*  
+> - **Inkubator Bisnis Bandung Techno Park (Telkom University)**
