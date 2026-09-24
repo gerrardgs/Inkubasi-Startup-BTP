@@ -20,7 +20,7 @@ Dokumen ini memuat informasi resmi, jadwal pelaksanaan, profil narasumber, tauta
 
 | Sesi | Waktu (WIB) | Topik Workshop | Pemateri / Narasumber | Jabatan & Instansi |
 | :---: | :---: | :--- | :--- | :--- |
-| **Sesi 1** | **09.00 - 11.30** | **Discover the Problem, Understand the Customer** | **Indra Purnama, S.T., M.T.** | Direktur PT. Bara Praja Indonesia |
+| **Sesi 1** | **09.00 - 11.30** | **Customer Discovery & Market Size** (*Sub-tema: Discover the Problem, Understand the Customer*) | **Indra Purnama, S.T., M.T.** | Innovator in Chief : VINOV, Direktur PT. Bara Praja Indonesia |
 | **Sesi 2** | **16.00 - 17.30** | **Design Thinking Startup** | **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** | Direktur Bandung Techno Park (BTP) |
 
 ---

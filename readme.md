@@ -114,12 +114,12 @@ Solusi kami berdiri di atas data empiris yang kuat, bukan dugaan subjektif semat
 
 ### 4. 🎓 Notulensi Workshop Stage 1 (Masterclass Eksklusif BTP)
 Dokumentasi workshop pembuka stage 1 yang dilaksanakan pada **Rabu, 23 September 2026**:
-* **Sesi 1 (Pagi): *"Discover the Problem, Understand the Customer"***  
-  Oleh **Indra Purnama, S.T., M.T.** (Direktur PT. Bara Praja Indonesia, eks Executive Director Bandung Digital Valley / Indigo Incubator Telkom).  
-  *Transkrip lengkap sesi ini telah kami olah menjadi panduan terstruktur 15 bab yang membedah studi kasus kegagalan Segway vs Brompton, krisis Dot-Com Bubble, prinsip mendahulukan produk dicintai (retensi) sebelum skala, pemetaan Jobs to be Done (JTBD), hingga The Golden Gap pada solusi eksisting.*
+* **Sesi 1 (Pagi): *"Customer Discovery & Market Size"* (Sub-Tema: *"Discover the Problem, Understand the Customer"*)**  
+  Oleh **Indra Purnama, S.T., M.T.** (Innovator in Chief : VINOV, Direktur PT. Bara Praja Indonesia, eks Executive Director Bandung Digital Valley / Indigo Incubator Telkom).  
+  *Transkrip komprehensif sesi ini telah kami olah menjadi panduan terstruktur 29 bab yang membedah studi kasus Segway vs Brompton, krisis Dot-Com Bubble ($2.7 Miliar kerugian 10 startup), pilar produk dicintai sebelum skala, pemetaan 4 jenis Jobs to be Done (JTBD), analisis 6 dimensi Pain & Gain, panduan wawancara eksploratif 6 pertanyaan emas, Persona Canvas 8 blok (studi kasus Rizky Ramadhan UMKM Kuliner & PLN Mobile EV), hingga metode kalkulasi Market Size (TAM, SAM, SOM) secara Top-Down dan Bottom-Up.*
 * **Sesi 2 (Sore): *"Design Thinking Startup"***  
   Oleh **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** (Direktur Bandung Techno Park) mengenai pendekatan human-centered design (Empathize, Define, Ideate, Prototype, Test).
-* 📄 *Notulensi masterclass:* [04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md)
+* 📄 *Notulensi masterclass:* [04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md) | [04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md)
 
 ---
 
