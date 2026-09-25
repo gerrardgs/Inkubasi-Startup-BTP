@@ -109,6 +109,7 @@ Solusi kami berdiri di atas data empiris yang kuat, bukan dugaan subjektif semat
   * **Cakupan 8 Wilayah Riset Lapangan:** Kota Malang, Kabupaten Banyuwangi, Siwalanpanji (Sidoarjo), Turen (Kab. Malang), Kabupaten Magetan, Gondanglegi (Kab. Malang), Kota Surabaya, dan Kota Jember.
   * **Target Progres:** Menghimpun 21 data responden awal dan triangulasi dengan data resmi BPS.
 * 📄 *Rencana aksi lengkap:* [03-geny-stuntcare/slr1_problem_validation_action_plan.md](file:///Users/sinitygs/Projects21/03-geny-stuntcare/slr1_problem_validation_action_plan.md)
+* 📑 *Spesifikasi Arsitektur API:* [03-geny-stuntcare/api_spesifikasi_platform.md](file:///Users/sinitygs/Projects21/03-geny-stuntcare/api_spesifikasi_platform.md) (Kontrak RESTful, Z-score WHO, deteksi risiko stunting, posyandu digital hub, dan SatuSehat)
 
 ---
 
