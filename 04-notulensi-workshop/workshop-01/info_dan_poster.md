@@ -32,6 +32,7 @@ Dokumen ini memuat informasi resmi, jadwal pelaksanaan, profil narasumber, tauta
   * **Meeting ID:** `883 0476 3688`
   * **Passcode:** `y6SsxZHF76ynZcLuqDV3rpzxfJNY26.1`
 * **Formulir Presensi / Konfirmasi Kehadiran:** [Google Form Presensi Workshop Stage 1](https://forms.gle/6rpV3CnAXCbo3axDA)
+* **Rekaman Sesi 1 Full & Slide Materi:** [Google Drive Folder Rekaman Sesi 1 + Materi](https://drive.google.com/drive/folders/1j8U5erDJC5L9DNMKrfCQ2n1XJ9d-L-DK?usp=sharing)
 
 ---
 

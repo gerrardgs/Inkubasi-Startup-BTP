@@ -120,6 +120,7 @@ Dokumentasi workshop pembuka stage 1 yang dilaksanakan pada **Rabu, 23 September
 * **Sesi 2 (Sore): *"Design Thinking Startup"***  
   Oleh **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** (Direktur Bandung Techno Park) mengenai pendekatan human-centered design (Empathize, Define, Ideate, Prototype, Test).
 * 📄 *Notulensi masterclass:* [04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md) | [04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md)
+* 🎥 *Rekaman Video & Materi Sesi 1:* [Google Drive Folder Rekaman Sesi 1 Full + Slide Materi](https://drive.google.com/drive/folders/1j8U5erDJC5L9DNMKrfCQ2n1XJ9d-L-DK?usp=sharing)
 
 ---
 

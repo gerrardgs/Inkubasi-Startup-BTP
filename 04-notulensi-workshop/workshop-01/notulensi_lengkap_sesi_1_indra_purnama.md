@@ -19,6 +19,7 @@
 | **Platform** | Zoom Cloud Meetings (Meeting ID: `883 0476 3688`) |
 | **Peserta Hadir** | 100+ Peserta (47 Tim Startup Inkubasi BTP Batch 24, Founder, Co-Founder, dan Anggota Tim Inovasi) |
 | **Notulis** | **Gerrard Sebastian** (Anggota Tim Geny StuntCare) |
+| **Link Rekaman & Materi** | [Google Drive Folder : Rekaman Sesi 1 Full + Slide Materi](https://drive.google.com/drive/folders/1j8U5erDJC5L9DNMKrfCQ2n1XJ9d-L-DK?usp=sharing) |
 | **Tujuan Sesi** | Memberikan penguasaan tuntas kepada startup binaan mengenai metodologi *Customer Discovery*, pengujian hipotesis di lapangan, pemetaan *Jobs to be Done* (JTBD), teknik wawancara eksploratif mendalam, penyusunan *Persona Canvas*, serta kalkulasi ukuran pasar (*Market Size*: TAM, SAM, SOM) secara *Top-Down* maupun *Bottom-Up*. |
 
 ---
@@ -681,6 +682,7 @@ Menggabungkan model B2G (Puskesmas / Dinas Kesehatan) dan B2C Freemium (Orang Tu
 * Narasumber menyertakan kontak resmi untuk konsultasi kurikulum inovasi startup:  
   **Indra Purnama** | Email: `indra@indra.me`
 * Kegiatan dilanjutkan pada Sesi 2 (Pukul 16.00 WIB) dengan topik *"Design Thinking Startup"* bersama Direktur Bandung Techno Park, **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.**
+* **Arsip Rekaman Sesi 1 & Slide Materi:** [Google Drive Rekaman Sesi 1 Full + Slide Presentasi](https://drive.google.com/drive/folders/1j8U5erDJC5L9DNMKrfCQ2n1XJ9d-L-DK?usp=sharing)
 
 ---
 <p align="center">
