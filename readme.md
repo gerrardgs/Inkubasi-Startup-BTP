@@ -55,6 +55,16 @@ Projects21 / Inkubasi-Startup-BTP
 │       ├── notulensi_lengkap_sesi_1_indra_purnama.md # NOTULENSI LENGKAP & MENYELURUH (Transkrip B)
 │       └── notulensi_sesi_2_design_thinking.md # Notulensi & kerangka kerja (Dr. Iwan Iwut Tritoasmoro)
 │
+├── 📁 05-laporan-data-crawling/            # Intelijen Data Crawling, Laporan Final & 2 Referensi Utama
+│   ├── README.md                           # Hub navigasi utama modul riset & data crawling
+│   ├── 01_laporan_data_crawling_consensus_dan_ucd.md # Ekstraksi 102 hlm Consensus & dataset 20 paper UCD
+│   ├── 02_sintesis_laporan_final_determinan_stunting.md # Bedah 27 hlm Laporan Final, audit 13 klaim, PECO/PICO
+│   ├── 03_referensi_utama_1_paper_geny.md  # Bedah Paper IBITeC 2026: CART Decision Tree (304k balita SKI)
+│   ├── 04_referensi_utama_2_buku_ta_stunting.md # Bedah Buku Tugas Akhir 160 hlm: Fuzzy Sugeno + GA (Kalteng)
+│   ├── 05_alur_kerja_dan_integrasi_flow.md # Master workflow diagram, pipeline data mikro, & integrasi BTP
+│   ├── 📁 references/                      # Berkas sumber asli (PDF Buku TA, Paper GENY, Laporan Final, CSV)
+│   └── 📁 assets/                          # Grafik visualisasi data terverifikasi (chart1 s.d. chart7)
+│
 ├── 📁 SRL 0/ s.d. 📁 SRL 9/                # Modul Panduan Startup Readiness Level (SRL) BTP
 │   ├── SRL 0: Competencies & Target Market Analysis
 │   ├── SRL 1: Problem Validation (Understand Before Solution)
@@ -74,7 +84,7 @@ Projects21 / Inkubasi-Startup-BTP
 
 ---
 
-## 💡 Rangkuman 4 Pilar Utama Ekosistem BTP
+## 💡 Rangkuman 5 Pilar Utama Ekosistem BTP
 
 ### 1. 💼 Tata Kelola Dana Operasional (*Operational Funding*)
 Setiap startup yang terpilih mendapatkan fasilitas dana operasional tahap awal untuk validasi lapangan dan pengembangan prototipe.
@@ -122,6 +132,16 @@ Dokumentasi workshop pembuka stage 1 yang dilaksanakan pada **Rabu, 23 September
   Oleh **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** (Direktur Bandung Techno Park) mengenai pendekatan human-centered design (Empathize, Define, Ideate, Prototype, Test).
 * 📄 *Notulensi masterclass:* [04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md) | [04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md)
 * 🎥 *Rekaman Video & Materi Sesi 1:* [Google Drive Folder Rekaman Sesi 1 Full + Slide Materi](https://drive.google.com/drive/folders/1j8U5erDJC5L9DNMKrfCQ2n1XJ9d-L-DK?usp=sharing)
+
+---
+
+### 5. 🔍 Intelijen Data Crawling & Audit Saintifik Stunting (Laporan Final, Paper GENY, Buku TA)
+Pilar penelitian sekunder, data crawling komprehensif, dan validasi matematis algoritma AI yang menjadi fondasi ilmiah sistem triase cerdas Geny StuntCare:
+* **Corpus Data Crawling:** Ekstraksi 102 halaman sesi Consensus AI (22 pertanyaan PECO/PICO) dan kompilasi dataset CSV 20 paper UCD stunting (membuktikan 0 RCTs dan ketiadaan perbaikan TB/U).
+* **Laporan Final (27 Halaman, 26 Sep 2026):** Sintesis kuantitatif terverifikasi (BBLR aOR 2,55; kuintil termiskin vs terkaya aOR 0,47; edukasi ibu OR 1,2–1,9), telaah bukti kontra (Roth et al., meta-analisis kerawanan pangan), dan **eliminasi 13 klaim palsu/halusinasi** (termasuk proyeksi DALY Rp275 juta dan distorsi skor MARS).
+* **Referensi Utama 1 (Paper GENY, IBITeC 2026):** Model Decision Tree CART pada 304.193 balita SKI 2023 (akurasi 75,57%, screening PPV 92,76%), membuktikan tinggi badan dan usia mendominasi 98,23% *feature importance*, serta evaluasi model tanpa TB/usia (macro F1 0,3565).
+* **Referensi Utama 2 (Buku Tugas Akhir Gerrard Sebastian, 160 Hlm):** Sistem pemantauan stunting Kalteng dengan Fuzzy Sugeno & Genetic Algorithm, analisis trayektori ganda (*Dual HAZ baseline vs pengukuran*), serta pelajaran audit data (koreksi tautan ibu kandung `NO_IBU` dan bias umur bulan penuh).
+* 📄 *Dokumentasi lengkap:* [Folder 05 : Laporan Data Crawling & Referensi Utama](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)
 
 ---
 
