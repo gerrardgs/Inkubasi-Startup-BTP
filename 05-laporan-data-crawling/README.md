@@ -78,28 +78,31 @@ Folder ini dibagi secara sistematis ke dalam 5 dokumen panduan utama serta subdi
 
 Seluruh berkas dokumen sumber, naskah publikasi, dataset crawling, dan draf audit telah diarsipkan secara lokal dalam subfolder [`references/`](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references) dan dapat diakses langsung melalui tautan di bawah ini:
 
-### 1. Naskah Riset Utama & Buku Tugas Akhir
+### 1. Naskah Riset Utama & Buku Tugas Akhir (Tersedia Langsung di Folder Ini)
 - 📘 **Buku TA Stunting (Gerrard Sebastian, 160 Halaman)**:  
-  [1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf)  
-  *(Path Lokal Asli: `/Users/sinitygs/Downloads/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf`)*
+  [1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf)  
+  *(Salinan Arsip: [references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf))*
 - 📄 **Paper GENY (Draf IEEE IBITeC 2026, 6 Halaman)**:  
-  [PaperGeny.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/PaperGeny.pdf)  
-  *(Path Lokal Asli: `/Users/sinitygs/Downloads/PaperGeny.pdf`)*
+  [PaperGeny.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/PaperGeny.pdf)  
+  *(Salinan Arsip: [references/PaperGeny.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/PaperGeny.pdf))*
 - 📑 **Laporan Final Determinan Stunting Indonesia (27 Halaman, 26 Sep 2026)**:  
-  [Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf)  
-  *(Path Lokal Asli: `/Users/sinitygs/Downloads/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf`)*
-- 📝 **Laporan Audit & Koreksi Naskah Paper GENY**:  
-  [Audit_Paper_GENY_draf_19Agu2026.docx](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Audit_Paper_GENY_draf_19Agu2026.docx)  
-  *(Path Lokal Asli: `/Users/sinitygs/Downloads/Audit_Paper_GENY_draf_19Agu2026.docx`)*
-
-### 2. Dataset & Hasil Crawling Mentah
+  [Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf)  
+  *(Salinan Arsip: [references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf))*
 - 🌐 **Ekspor Sesi Consensus AI (102 Halaman, 22 Topik Sintesis)**:  
-  [Faktor Faktor Stunting Indonesia - Consensus.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf)  
-  *(Path Unduhan: `/Users/sinitygs/Downloads/GENY/Faktor Faktor Stunting Indonesia - Consensus.pdf`)*
+  [Faktor Faktor Stunting Indonesia - Consensus.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf)  
+  *(Salinan Arsip: [references/Faktor Faktor Stunting Indonesia - Consensus.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf))*
+- 📝 **Laporan Audit & Koreksi Naskah Paper GENY**:  
+  [Audit_Paper_GENY_draf_19Agu2026.docx](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Audit_Paper_GENY_draf_19Agu2026.docx)
+
+### 2. Dataset & Seluruh Laporan Crawling NotebookLM (di Subfolder `references/`)
 - 📊 **Dataset CSV 20 Paper UCD & Stunting App Adoption**:  
-  [Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Does%20user-centered%20design%20improve%20stunting%20app%20uptake%20in%20Indonesian%20caregivers%20-%2026%20Sep%202026.csv)  
-  *(Path Unduhan: `/Users/sinitygs/Downloads/GENY/Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv`)*
-- 📑 **Dokumen Sintesis NotebookLM & Cetak Biru Inovasi**:  
+  [Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Does%20user-centered%20design%20improve%20stunting%20app%20uptake%20in%20Indonesian%20caregivers%20-%2026%20Sep%202026.csv)
+- 📑 **Dokumen Sintesis & Audit Digital NotebookLM Lengkap (PDF & DOCX)**:  
+  - [Audit_Inovasi_Digital_Stunting_Nasional.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Audit_Inovasi_Digital_Stunting_Nasional.pdf) *(15 MB)*
+  - [Cetak_Biru_Digitalisasi_Penanganan_Stunting_Indonesia.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Cetak_Biru_Digitalisasi_Penanganan_Stunting_Indonesia.pdf) *(11 MB)*
+  - [Dekonstruksi_Krisis_Stunting_Dan_Cetak_Biru_Inovasi_mHealth.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Dekonstruksi_Krisis_Stunting_Dan_Cetak_Biru_Inovasi_mHealth.pdf) *(16 MB)*
+  - [Indonesia_Digital_Stunting_Blueprint.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Indonesia_Digital_Stunting_Blueprint.pdf) *(9 MB)*
+  - [Strategic_Digital_Stunting_Audit.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Strategic_Digital_Stunting_Audit.pdf) *(18 MB)*
   - [Analisis Komprehensif Faktor Stunting, Kontradiksi Literatur, dan Peluang Pasar Solusi Digital.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Analisis%20Komprehensif%20Faktor%20Stunting,%20Kontradiksi%20Literatur,%20dan%20Peluang%20Pasar%20Solusi%20Digital.pdf)
   - [Digital Solutions for Stunting Prevention and Child Growth Monitoring.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Digital%20Solutions%20for%20Stunting%20Prevention%20and%20Child%20Growth%20Monitoring.pdf)
   - [Laporan_Audit_Inovasi_Digital_Stunting_v3.docx](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Laporan_Audit_Inovasi_Digital_Stunting_v3.docx)
