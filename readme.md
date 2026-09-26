@@ -50,10 +50,14 @@ Projects21 / Inkubasi-Startup-BTP
 │
 ├── 📁 04-notulensi-workshop/               # ARSIP KHUSUS NOTULENSI RESMI TIAP WORKSHOP BTP
 │   ├── README.md                           # Peta timeline tahapan workshop inkubasi
-│   └── workshop-01/                        # Workshop Stage 1 (Rabu, 23 September 2026)
-│       ├── info_dan_poster.md              # Informasi poster, jadwal sesi, link Zoom, form presensi
-│       ├── notulensi_lengkap_sesi_1_indra_purnama.md # NOTULENSI LENGKAP & MENYELURUH (Transkrip B)
-│       └── notulensi_sesi_2_design_thinking.md # Notulensi & kerangka kerja (Dr. Iwan Iwut Tritoasmoro)
+│   ├── assets/                             # Poster resmi kegiatan workshop
+│   └── workshop-01/                        # Workshop Stage 1 (23 & 26 September 2026)
+│       ├── info_dan_poster.md              # Informasi poster Sesi 1 & 2 (23 September 2026)
+│       ├── info_dan_poster_sesi_3.md       # Informasi poster & Zoom Sesi 3 (26 September 2026)
+│       ├── notulensi_lengkap_sesi_1_indra_purnama.md # Masterclass Sesi 1 (Customer Discovery)
+│       ├── notulensi_sesi_2_design_thinking.md # Masterclass Sesi 2 (Dr. Iwan Iwut Tritoasmoro)
+│       ├── notulensi_lengkap_sesi_3_muhammad_nur_awaludin.md # Masterclass Sesi 3 (Problem Validation & VPC)
+│       └── sesi-03-problem-validation-dan-vpc/ # Modul Terstruktur Sesi 3 (10 berkas materi lengkap)
 │
 ├── 📁 05-laporan-data-crawling/            # Intelijen Data Crawling, Laporan Final & 2 Referensi Utama
 │   ├── README.md                           # Hub navigasi utama modul riset & data crawling
@@ -124,13 +128,17 @@ Solusi kami berdiri di atas data empiris yang kuat, bukan dugaan subjektif semat
 ---
 
 ### 4. 🎓 Notulensi Workshop Stage 1 (Masterclass Eksklusif BTP)
-Dokumentasi workshop pembuka stage 1 yang dilaksanakan pada **Rabu, 23 September 2026**:
-* **Sesi 1 (Pagi): *"Customer Discovery & Market Size"* (Sub-Tema: *"Discover the Problem, Understand the Customer"*)**  
+Dokumentasi workshop pembuka stage 1 yang dilaksanakan pada **Rabu, 23 September 2026** dan **Sabtu, 26 September 2026**:
+* **Sesi 1 (Rabu Pagi, 23 Sep 2026): *"Customer Discovery & Market Size"* (Sub-Tema: *"Discover the Problem, Understand the Customer"*)**  
   Oleh **Indra Purnama, S.T., M.T.** (Innovator in Chief : VINOV, Direktur PT. Bara Praja Indonesia, eks Executive Director Bandung Digital Valley / Indigo Incubator Telkom).  
   *Transkrip komprehensif sesi ini telah kami olah menjadi panduan terstruktur 29 bab yang membedah studi kasus Segway vs Brompton, krisis Dot-Com Bubble ($2.7 Miliar kerugian 10 startup), pilar produk dicintai sebelum skala, pemetaan 4 jenis Jobs to be Done (JTBD), analisis 6 dimensi Pain & Gain, panduan wawancara eksploratif 6 pertanyaan emas, Persona Canvas 8 blok (studi kasus Rizky Ramadhan UMKM Kuliner & PLN Mobile EV), hingga metode kalkulasi Market Size (TAM, SAM, SOM) secara Top-Down dan Bottom-Up.*
-* **Sesi 2 (Sore): *"Design Thinking Startup"***  
+* **Sesi 2 (Rabu Sore, 23 Sep 2026): *"Design Thinking Startup"***  
   Oleh **Dr. Iwan Iwut Tritoasmoro, S.T., M.T.** (Direktur Bandung Techno Park) mengenai pendekatan human-centered design (Empathize, Define, Ideate, Prototype, Test).
-* 📄 *Notulensi masterclass:* [04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md) | [04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md)
+* **Sesi 3 (Sabtu Pagi, 26 Sep 2026): *"Problem Validation and Value Proposition Canvas"* (Sub-Tema: *"Dari Masalah Hingga Solusi — Bangun Startup yang Berdampak"*)**  
+  Oleh **Muhammad Nur Awaludin** (Co-Founder & CEO of Fammy.ly / FAMI, Founder Kakatu, akrab disapa Kak Mumu).  
+  *Membahas prinsip utama validasi startup: memahami customer dan masalah sebelum teknologi, membedakan Vitamin vs Painkiller, teknik Customer Discovery tanpa mendominasi percakapan (aturan 80/20), pengujian prototipe (30–50 end consumers, 3–5 B2B decision makers) dengan skor 1–10 dan probing kualitatif, 3 pilar bisnis (Desire, Feasibility, Viability), kriteria Repositioning vs Pivot, serta 9 studi kasus riil (Saku Medis, Kakatu, Fammy.ly, boiler industri, guru personal).*
+* 📄 *Notulensi masterclass:* [Sesi 1](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md) | [Sesi 2](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md) | [Sesi 3 (Lengkap)](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_3_muhammad_nur_awaludin.md) | [Modul Terstruktur Sesi 3](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/sesi-03-problem-validation-dan-vpc/README.md)
+* 📢 *Informasi & Poster Sesi 3:* [04-notulensi-workshop/workshop-01/info_dan_poster_sesi_3.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/info_dan_poster_sesi_3.md)
 * 🎥 *Rekaman Video & Materi Sesi 1:* [Google Drive Folder Rekaman Sesi 1 Full + Slide Materi](https://drive.google.com/drive/folders/1j8U5erDJC5L9DNMKrfCQ2n1XJ9d-L-DK?usp=sharing)
 
 ---
