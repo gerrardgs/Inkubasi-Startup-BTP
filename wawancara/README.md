@@ -78,6 +78,9 @@ pie title Distribusi Target Wawancara Awal (Minimal 30 Responden B2C + 5 B2B/B2G
 3. **Calon Pengantin (Catin)**: Segmen intervensi pranikah. Memvalidasi efektivitas bimbingan KUA/Puskesmas, kepatuhan skrining anemia, persepsi tanggung jawab calon ayah, serta format edukasi digital yang menarik bagi generasi muda.
 4. **Tenaga Kesehatan & Kader Posyandu (ILP)**: Segmen operasional lapangan (*field champions*). Memvalidasi beban administrasi pelaporan berlapis (e-PPGBM / ASIK), akurasi antropometri kit, kendala koneksi *blank spot*, serta resistensi komunikasi saat menyampaikan status gizi warga.
 
+> 💡 **Update Penajaman Fokus Mentoring Sesi 1 (8 Oktober 2026 - Mentor Wulan Fitriani):**  
+> Berdasarkan evaluasi kritis sesi mentoring perdana (lihat [`mentoring/8-Oktober-2026.md`](file:///Users/sinitygs/Projects21/mentoring/8-Oktober-2026.md)), tim mengarahkan prioritas utama wawancara secara homogen ke **minimal 15–20 Ibu Balita dengan anak *weight faltering / underweight / garis kuning KMS*** guna mencegah bias data dan membuktikan *Problem-Solution Fit* secara presisi sebelum merambah segmen hulu (Catin & Bumil umum). Tenaga kesehatan diposisikan sebagai *validator eksternal*, bukan end-user dengan beban input data.
+
 ---
 
 ## 🎯 Hubungan Integratif dengan Deliverables SRL-0 BTP

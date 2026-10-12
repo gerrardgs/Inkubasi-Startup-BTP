@@ -124,5 +124,16 @@ Aktivitas survei, wawancara, dan observasi langsung akan dijalankan di 8 titik w
 
 ## 9. Target Progres Data & Integrasi Sekunder
 
-* **Target Data Primer Awal:** Mengumpulkan minimal **21 data responden valid** (kombinasi ibu balita, ibu hamil, catin, dan kader posyandu) sebagai *baseline sample* pertama.
+* **Target Data Primer Awal:** Mengumpulkan minimal **21 data responden valid** sebagai *baseline sample* pertama.
 * **Target Data Sekunder:** Mengunduh dan menelaah publikasi data resmi **Badan Pusat Statistik (BPS)** untuk memperkuat data pembanding demografi wilayah di 8 lokasi tersebut.
+
+---
+
+## 10. 🔄 Penyelarasan Strategis Mentoring 1 BTP (8 Oktober 2026)
+
+Berdasarkan hasil evaluasi kritis pada sesi **Mentoring 1 BTP bersama Mentor Wulan Fitriani** (lihat dokumentasi lengkap di [`mentoring/8-Oktober-2026.md`](file:///Users/sinitygs/Projects21/mentoring/8-Oktober-2026.md)), rencana aksi di atas diselaraskan sebagai berikut:
+1. **Penajaman Fokus Segmen:** Segmen Calon Pengantin (Catin) dan Remaja Putri pranikah ditunda sementara dari pengujian awal guna menghindari bias data. Seluruh fokus validasi dialihkan ke **Ibu balita usia 6–24 bulan yang anaknya mengalami weight faltering / underweight / hampir stunting**.
+2. **Kriteria Screening Narasumber:** Rekrutmen 15–20 narasumber difokuskan pada ibu yang mengalami masalah nyata (GTM parah, kurva KMS kuning/merah) melalui pintu masuk kader posyandu, bidan desa, dan komunitas MPASI Instagram/TikTok.
+3. **Diferensiasi Solusi (Value Gap):** Platform tidak sekadar menduplikasi KMS digital (TB/BB), melainkan mengunggulkan **AI-Driven Personalized MPASI Action Plan & Intervensi Nutrisi Presisi**.
+4. **Peran Nakes:** Tenaga kesehatan dan kader posyandu diposisikan sebagai **advisor & validator**, bukan pengguna yang dibebani input data harian.
+

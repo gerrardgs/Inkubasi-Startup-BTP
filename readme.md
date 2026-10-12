@@ -28,7 +28,7 @@ Kami mendedikasikan repositori ini secara terbuka (*public*) sebagai wujud trans
 
 ## 🗺️ Peta Navigasi & Direktori Proyek
 
-Seluruh kebutuhan inkubasi telah kami kelompokkan secara rapi ke dalam 4 folder pilar utama dan modul kesiapan startup (*Startup Readiness Level*):
+Seluruh kebutuhan inkubasi telah kami kelompokkan secara rapi ke dalam 7 folder pilar utama dan modul kesiapan startup (*Startup Readiness Level*):
 
 ```
 Projects21 / Inkubasi-Startup-BTP
@@ -77,6 +77,15 @@ Projects21 / Inkubasi-Startup-BTP
 │   ├── informed_consent_dan_protokol_etika.md # Naskah persetujuan lisan/tertulis, UU PDP, & mitigasi risiko
 │   └── matriks_sampling_dan_wilayah_riset.md # Matriks 5 Sel (Sel A-E), 8 wilayah Jatim, & stopping rule
 │
+├── 📁 mentoring/                           # NOTULENSI RESMI & BERITA ACARA MENTORING BTP BATCH 24
+│   ├── README.md                           # Hub navigasi & rekapitulasi seluruh sesi mentoring
+│   ├── 8-Oktober-2026.md                   # Notulensi LENGKAP Sesi 1: Wulan Fitriani (Problem Validation)
+│   ├── Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf # Arsip PDF resmi Berita Acara Mentoring Sesi 1
+│   ├── Mentoring Genystuntcare.pdf         # Salinan berkas PDF Berita Acara Mentoring Sesi 1
+│   ├── BAHASA_M1 - L4 Analyze Problems - Indonesian.pdf # Materi BTP Module 1 Lesson 4 (Analyze Problems)
+│   ├── Kanvas Pernyataan Masalah.jpeg      # Kerangka resmi Kanvas Pernyataan Masalah BTP
+│   └── competitor-analysis.md              # Salinan analisis kompetitor platform parenting & anak
+│
 ├── 📁 SRL 0/ s.d. 📁 SRL 9/                # Modul Panduan Startup Readiness Level (SRL) BTP
 │   ├── SRL 0: Competencies & Target Market Analysis
 │   ├── SRL 1: Problem Validation (Understand Before Solution)
@@ -90,13 +99,14 @@ Projects21 / Inkubasi-Startup-BTP
 │   └── SRL 9: Sustainable Growth & Exit Strategy
 │
 ├── 📊 Inkubasi-BTP.pptx                    # Slide materi resmi pengantar inkubasi BTP
+├── 📑 competitor-analysis.md               # Analisis komprehensif 4 platform parenting & child health
 ├── 📝 Notulensi-mentah.md                  # Catatan awal bootcamp pembukaan Kepala BTP
 └── 📘 README.md                            # Panduan utama repositori (Dokumen ini)
 ```
 
 ---
 
-## 💡 Rangkuman 6 Pilar Utama Ekosistem BTP
+## 💡 Rangkuman 7 Pilar Utama Ekosistem BTP
 
 ### 1. 💼 Tata Kelola Dana Operasional (*Operational Funding*)
 Setiap startup yang terpilih mendapatkan fasilitas dana operasional tahap awal untuk validasi lapangan dan pengembangan prototipe.
@@ -170,6 +180,15 @@ Panduan operasional dan instrumen komprehensif wawancara mendalam bebas bias (*i
 * **Triangulasi Saintifik & Matriks Sampling 5 Sel:** Penerapan sampling purposif Sel A (Miskin Stunting), Sel B (Miskin Sehat / *Positive Deviance*), Sel C (Mampu Stunting), Sel D (Mampu Sehat), dan Sel E (Kader/Nakes) di 8 titik wilayah Jawa Timur (Sidoarjo, Malang, Surabaya, Banyuwangi, Magetan, Jember).
 * **Kepatuhan Etika & UU PDP:** Protokol informed consent lisan/tertulis, enkripsi kode unik responden (`IB-01`, `NK-01`), dan perlindungan kerahasiaan data medis balita.
 * 📄 *Instrumen lengkap:* [Folder wawancara : Panduan & Instrumen Customer Discovery](file:///Users/sinitygs/Projects21/wawancara/README.md) | [76 Pertanyaan Wawancara](file:///Users/sinitygs/Projects21/wawancara/pertanyaan_wawancara.md) | [Goals & Interpretasi](file:///Users/sinitygs/Projects21/wawancara/goals_wawancara.md) | [Template Lembar Rekap](file:///Users/sinitygs/Projects21/wawancara/template_lembar_rekap_narasumber.md) | [Protokol Etika & Consent](file:///Users/sinitygs/Projects21/wawancara/informed_consent_dan_protokol_etika.md) | [Matriks Sampling](file:///Users/sinitygs/Projects21/wawancara/matriks_sampling_dan_wilayah_riset.md)
+ 
+---
+ 
+### 7. 🤝 Notulensi Mentoring 1-on-1 BTP (Folder mentoring & Berita Acara)
+Dokumentasi konsultasi intensif 1-on-1 bersama mentor resmi inkubasi Bandung Techno Park:
+* **Mentoring Sesi 1 (Kamis, 8 Oktober 2026): *"Evaluasi Target Pengguna, Problem Validation & Penajaman Solusi"***  
+  Oleh **Wulan Fitriani** (Mentor Inkubasi Bandung Techno Park).  
+  *Membahas dekonstruksi kritis target pengguna (mengeliminasi catin & bumil umum demi fokus mutlak pada 1 segmen inti: **Ibu balita faltering/underweight/stunting usia 6–24 bulan**), metodologi validasi 15–20 narasumber serupa via The Mom Test, taktik menjangkau narasumber via rujukan kader posyandu & komunitas MPASI Instagram/TikTok, audit kompetitor 4 platform (PrimaKu, Tentang Anak, Teman Bumil, Kinedu) untuk menemukan celah solusi (**AI + Kurva Pertumbuhan + Personalized Action Plan MPASI**), kebutuhan dewan penasihat medis (dokter anak & ahli gizi), positioning nakes sebagai validator non-beban, serta disiplin menolak feature creep.*
+* 📄 *Notulensi & Berita Acara:* [Folder mentoring](file:///Users/sinitygs/Projects21/mentoring/README.md) | [Notulensi Lengkap Sesi 1 (8 Okt 2026)](file:///Users/sinitygs/Projects21/mentoring/8-Oktober-2026.md) | [Berita Acara Resmi (PDF)](file:///Users/sinitygs/Projects21/mentoring/Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf) | [Materi BTP M1-L4 Analyze Problems (PDF)](file:///Users/sinitygs/Projects21/mentoring/BAHASA_M1%20-%20L4%20Analyze%20Problems%20-%20Indonesian.pdf) | [Kanvas Pernyataan Masalah](file:///Users/sinitygs/Projects21/mentoring/Kanvas%20Pernyataan%20Masalah.jpeg) | [Analisis Kompetitor](file:///Users/sinitygs/Projects21/competitor-analysis.md)
 
 ---
 
