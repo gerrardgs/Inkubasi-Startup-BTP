@@ -187,6 +187,26 @@ graph TD
 
 ---
 
+### KLASTER E: Rekomendasi Relasi Pakar Gizi Klinis, Kriteria Sampel Balita, & Metodologi Populasi Riset
+
+#### ❓ Pertanyaan E.8: Rekomendasi Jaringan Ahli Gizi Klinis / Dietisien (AsDI/PERSAGI) & Kolega Riset UB Malang
+* **Redaksi Pertanyaan:**  
+  *"Prof. Heti, untuk memvalidasi algoritma penyusunan MPASI padat kalori dan substitusi bahan pangan lokal secara klinis, kami memerlukan review berkala dari Ahli Gizi Klinis (Registered Dietitian / AsDI) dan akademisi gizi anak. Apakah Ibu memiliki rekomendasi kolega pakar gizi di Universitas Brawijaya Malang, Poltekkes Malang/Surabaya, atau Poltekkes Kemenkes Palangka Raya yang bereputasi dan terbuka untuk kami jadikan validator ahli, mitra riset, atau co-author publikasi ilmiah bersama?"*
+* **Konteks & Rasionalitas:** Membuka pintu ke jaringan dietisien akademis di Jawa Timur (Fase 1) dan Kalimantan Tengah (Fase 2).
+* **Target Insight:** Nama kontak spesifik pakar gizi klinis, afiliasi kampus, dan kesediaan introduksi (*warm introduction*).
+
+#### ❓ Pertanyaan E.9: Purifikasi Data Sampel: Kriteria Inklusi & Eksklusi Balita Faltering
+* **Redaksi Pertanyaan:**  
+  *"Tantangan metodologis terbesar dalam intervensi gizi balita usia 6–24 bulan adalah memisahkan antara balita faltering primer (murni karena defisit asupan & pola asuh) dengan faltering sekunder akibat penyakit organik (seperti TB anak, penyakit jantung bawaan/PJB, atau infeksi saluran kemih kronis). Menurut kaidah epidemiologi klinis Ibu, bagaimana kriteria inklusi dan eksklusi populasi yang harus kami kunci di aplikasi agar data hasil evaluasi intervensi kami murni dan tidak bias oleh penyakit penyerta?"*
+* **Target Insight:** Checklist variabel penyaring medis pada tahap *onboarding* profil balita.
+
+#### ❓ Pertanyaan E.10: Desain Besar Sampel (Power Sample) & Koordinasi Komite Etik Multi-Center
+* **Redaksi Pertanyaan:**  
+  *"Karena validasi empiris kami dimulai di Jawa Timur lalu direplikasi di Kalimantan Tengah, berapa jumlah sampel minimal balita faltering (*power sample size*) per klaster posyandu yang Ibu rekomendasikan agar data kami memiliki signifikansi statistik (*p-value < 0.05*) yang kuat saat dipublikasikan di jurnal internasional? Apakah pengurusan kelaikan etik sebaiknya dipusatkan di satu KEPK induk atau perlu kerja sama etik multi-center?"*
+* **Target Insight:** Formula penentuan ukuran sampel riset intervensi gizi dan strategi clearance etik lintas provinsi.
+
+---
+
 ## 🩺 5. Panduan Pertanyaan untuk dr. Dewi Rama Dewa, M.Kes.
 *(POV: Kabid Kesmas Dinkes Kota Palangka Raya, Surveyor Akreditasi Puskesmas, & Praktisi Dokter)*
 
@@ -245,6 +265,31 @@ graph TD
 
 ---
 
+### KLASTER E: Rekomendasi Dokter Spesialis Anak (IDAI), Nutrisionis Lapangan, Lokasi Faskes, & Akses Populasi Sasaran
+
+#### ❓ Pertanyaan E.7: Rekomendasi Dokter Spesialis Anak (IDAI) & Nutrisionis Puskesmas Teladan
+* **Redaksi Pertanyaan:**  
+  *"Dokter Dewi, dalam penanganan klinis stunting dan faltering, Dokter Spesialis Anak (Sp.A) konsultan nutrisi & penyakit metabolik memegang peranan krusial dalam mendiagnosis red-flag dan meresepkan PKMK (Pangan Olahan untuk Keperluan Medis Khusus). Apakah Dokter memiliki rekomendasi kolega Sp.A (anggota IDAI di RSUD Palangka Raya maupun koneksi Dokter di Jawa Timur) yang berpikiran terbuka terhadap digital health dan bersedia kami wawancarai? Serta siapa Tenaga Pelaksana Gizi (TPG / Nutrisionis Puskesmas) teladan yang paling menguasai dinamika konseling MPASI di lapangan?"*
+* **Konteks & Rasionalitas:** Mengamankan jejaring klinis spesialis anak dan praktisi gizi puskesmas untuk memvalidasi algoritma rujukan aplikasi.
+* **Target Insight:** Kontak nama Sp.A konsultan nutrisi dan nutrisionis teladan untuk wawancara ahli lanjutan.
+
+#### ❓ Pertanyaan E.8: Rekomendasi Lokasi Faskes: Wilayah Beban Tinggi (*High Burden*) vs Kesiapan Tinggi (*High Readiness*)
+* **Redaksi Pertanyaan:**  
+  *"Sebagai pejabat Dinkes sekaligus surveyor akreditasi puskesmas yang memahami karakter berbagai faskes: saat menentukan lokus riset percontohan, apakah tim kami sebaiknya menguji coba di wilayah puskesmas dengan prevalensi stunting tertinggi (high-burden, umumnya warga marginal dengan tantangan kepatuhan tinggi) ataukah wilayah dengan kader posyandu yang paling tertib dan melek teknologi (high-readiness)? Menurut Dokter, puskesmas dan kelurahan mana di Palangka Raya yang paling representatif untuk kedua profil tersebut?"*
+* **Target Insight:** Rekomendasi nama puskesmas spesifik (misal Puskesmas Pahandut vs Puskesmas Menteng) beserta pertimbangan demografisnya.
+
+#### ❓ Pertanyaan E.9: Strategi Humanis Mendekati Populasi Ibu Balita Garis Kuning KMS (Bypass Stigma)
+* **Redaksi Pertanyaan:**  
+  *"Di lapangan, banyak ibu balita yang anaknya mengalami garis kuning KMS merasa takut, malu, atau defensif didatangi petugas karena khawatir dicap 'tidak becus mengurus anak'. Dari pengalaman Dokter, bagaimana strategi pendekatan yang paling humanis dan dipercaya agar kami dapat merekrut ibu-ibu tersebut menjadi responden riset tanpa menimbulkan rasa rendah diri? Apakah merangkul Ketua Tim Penggerak PKK lingkungan atau tokoh masyarakat lokal lebih efektif daripada surat resmi kedinasan?"*
+* **Target Insight:** Protokol pendekatan etis (*human-centered recruitment strategy*) untuk menjangkau kelompok rentan.
+
+#### ❓ Pertanyaan E.10: Rekomendasi Relasi ke TPPS (Tim Percepatan Penurunan Stunting) & Bappeda Kota
+* **Redaksi Pertanyaan:**  
+  *"Penanganan stunting terpadu berada di bawah komando TPPS (Tim Percepatan Penurunan Stunting) yang diketuai Wakil Walikota dan beranggotakan lintas dinas (Dinkes, Bappeda, DP3AP2KB/BKKBN). Siapa tokoh atau sekretariat TPPS di Kota Palangka Raya yang paling tepat kami mintai arahan agar inovasi Geny StuntCare ini dapat diselaraskan dengan Rencana Aksi Daerah (RAD) penanganan stunting kota?"*
+* **Target Insight:** Akses jalur advokasi kebijakan publik tingkat kota dan pintu masuk Bappeda.
+
+---
+
 ## 💼 6. Panduan Pertanyaan untuk Bapak Setyohadi
 *(POV: Senior Executive Telkom Group, Pakar Enterprise Sales, CSR Scaling, Rekam Jejak Penugasan Lintas Pulau di Indonesia, & Suami dr. Dewi Rama Dewa)*
 
@@ -299,6 +344,26 @@ graph TD
 
 ---
 
+### KLASTER D: Rekomendasi Ekosistem Digital Health BUMN, Mitra Hardware Antropometri IoT, & Forum CSR Lintas Sektor
+
+#### ❓ Pertanyaan D.8: Rekomendasi Jaringan Ekosistem Digital Health Telkom (Mediv, Yakes, DBT, Indigo)
+* **Redaksi Pertanyaan:**  
+  *"Pak Setyohadi, Telkom Group memiliki unit inovasi dan digital health seperti Telkom Health (Mediv), Yakes Telkom, divisi Digital Business & Technology (DBT), serta program inkubasi Indigo. Apakah Bapak memiliki rekomendasi kontak pimpinan unit atau principal product manager di lingkungan Telkom yang mengawal vertikal kesehatan digital (healthtech) agar Geny StuntCare dapat kami eksplorasi sinergi teknologinya dengan ekosistem BUMN?"*
+* **Konteks & Rasionalitas:** Membuka pintu ke ekosistem corporate venture & digital health Telkom Group.
+* **Target Insight:** Kontak person kunci di Telkom Health / Indigo / DBT untuk pembinaan dan sinergi teknologi.
+
+#### ❓ Pertanyaan D.9: Rekomendasi Jaringan Forum TJSL BUMN Lintas Sektor (Jawa Timur & Kalimantan)
+* **Redaksi Pertanyaan:**  
+  *"Kementerian BUMN memiliki mandat prioritas penanganan stunting. Di Jawa Timur terdapat klaster BUMN besar (seperti Pelindo Regional 3 Surabaya, Semen Indonesia Group Gresik/Tuban, Petrokimia Gresik, dan Telkom TR-5), sementara di Kalimantan terdapat BUMN perkebunan (PTPN) dan pertambangan. Apakah Bapak memiliki relasi di Forum TJSL BUMN atau koordinator CSR kewilayahan yang dapat kami jajaki untuk pendanaan program intervensi balita faltering berbasis CSR?"*
+* **Target Insight:** Jalur pengajuan proposal program TJSL terpadu BUMN peduli stunting.
+
+#### ❓ Pertanyaan D.10: Rekomendasi Mitra Penyedia Hardware Antropometri Kit Berbasis IoT / Bluetooth
+* **Redaksi Pertanyaan:**  
+  *"Untuk menjamin akurasi penimbangan balita dan menghilangkan kesalahan input manual oleh kader posyandu (*zero human error*), roadmap teknologi kami merencanakan integrasi timbangan digital dan alat ukur panjang badan ber-Bluetooth (IoT). Dari jaringan kemitraan Telkom IoT atau ekosistem vendor perangkat keras lokal, apakah ada mitra penyedia antropometri kit terstandar Kemenkes yang dapat kami ajak kolaborasi Proof-of-Concept (PoC)?"*
+* **Target Insight:** Rekomendasi mitra produsen/distributor antropometri kit bersertifikasi Kemenkes untuk integrasi IoT.
+
+---
+
 ## 🌟 7. Skenario Emas Forum Terbuka: Kemitraan Tripartit & Blueprint Dua Fase ("Jawa Timur First ➔ Palangka Raya Grand Pilot")
 
 Pada sesi diskusi bersama (15 menit terakhir), ajukan **Pertanyaan Kunci Tripartit** berikut yang menyatukan peran ketiga pakar dengan peta jalan proyek bertahap:
@@ -333,17 +398,31 @@ Pada sesi diskusi bersama (15 menit terakhir), ajukan **Pertanyaan Kunci Tripart
 
 Pastikan seluruh butir di bawah ini terisi lengkap dalam transkrip catatan pasca-rapat:
 
-- [ ] Rekomendasi Prof. Heti mengenai penyesuaian interpretasi bobot Decision Tree CART (Paper GENY).
-- [ ] Daftar 3 komoditas ikan air tawar / pangan lokal Kalteng untuk resep padat kalori balita faltering.
-- [ ] Kontak KEPK Poltekkes Kemenkes Palangka Raya untuk pengurusan kelaikan etik (*Ethical Clearance*).
-- [ ] Nama Puskesmas di Kota Palangka Raya yang direkomendasikan dr. Dewi sebagai lokus uji coba.
-- [ ] Kalimat komunikasi klinis ramah orang tua untuk notifikasi deteksi risiko stunting di aplikasi.
-- [ ] Format kolom ekspor data balita posyandu yang sesuai dengan e-PPGBM Puskesmas.
-- [ ] Skema pengajuan proposal CSR/TJSL Telkom Group penanganan stunting dari Bapak Setyohadi.
-- [ ] Standar enkripsi dan cloud NeuCentrIX Telkom untuk kepatuhan UU PDP data medis anak.
-- [ ] Kesediaan lisan Prof. Heti Ira Ayue sebagai Scientific & Clinical Advisor Geny StuntCare.
-- [ ] Kesediaan lisan dr. Dewi Rama Dewa sebagai Public Health & Medical Advisory Board.
-- [ ] Kesediaan lisan Bapak Setyohadi sebagai Enterprise & Business Strategic Advisor.
+### A. Validasi Ilmiah, Gizi Klinis, & Metodologi Riset (Prof. Heti Ira Ayue)
+- [ ] Catatan rekomendasi penyesuaian bobot prediktor CART Decision Tree (Paper GENY).
+- [ ] Daftar 3 komoditas ikan air tawar / pangan lokal bernutrisi tinggi untuk MPASI padat kalori.
+- [ ] Kontak/rekomendasi nama Ahli Gizi Klinis (AsDI/PERSAGI) atau periset gizi anak (UB/Poltekkes) untuk validasi formula menu.
+- [ ] Kriteria inklusi dan eksklusi balita faltering (screening TB anak / PJB) untuk purifikasi data sampel.
+- [ ] Estimasi besar sampel minimal (*power sample size*) balita per klaster posyandu untuk signifikansi riset intervensi.
+- [ ] Kontak Sekretariat KEPK Poltekkes Palangka Raya dan strategi pengurusan kelaikan etik (*Ethical Clearance*) multi-center.
+- [ ] Kesediaan lisan Prof. Heti Ira Ayue sebagai **Scientific & Clinical Advisor** Geny StuntCare.
+
+### B. Kebijakan Faskes, Rujukan Klinis, & Populasi Sasaran (dr. Dewi Rama Dewa)
+- [ ] Format baku kolom ekspor data balita posyandu yang kompatibel dengan e-PPGBM Puskesmas (*Zero Data-Entry Burden*).
+- [ ] Panduan kalimat komunikasi klinis empati non-stigma untuk notifikasi deteksi risiko di aplikasi.
+- [ ] Kontak/rekomendasi Dokter Spesialis Anak (Sp.A IDAI) konsultan nutrisi metabolik dan Tenaga Pelaksana Gizi (TPG) teladan.
+- [ ] Rekomendasi nama Puskesmas dan Kelurahan spesifik di Palangka Raya (kategori *high-burden* vs *high-readiness*) sebagai lokus uji coba Fase 2.
+- [ ] Protokol pendekatan humanis ke ibu balita garis kuning KMS melalui jejaring Ibu-Ibu Penggerak PKK dan kader akar rumput.
+- [ ] Pintu masuk advokasi program ke Sekretariat TPPS (Tim Percepatan Penurunan Stunting) & Bappeda Kota Palangka Raya.
+- [ ] Kesediaan lisan dr. Dewi Rama Dewa sebagai **Public Health & Medical Advisory Board** Geny StuntCare.
+
+### C. Enterprise B2B/B2G, Infrastruktur IoT, & Sinergi Telkom (Bapak Setyohadi)
+- [ ] Strategi penyusunan proposal program TJSL/CSR BUMN penanganan stunting dan indikator SROI.
+- [ ] Kontak person pimpinan atau PIC strategis di unit Digital Health Telkom (Mediv / Yakes / DBT / Indigo).
+- [ ] Akses penjajakan kemitraan ke Forum TJSL BUMN wilayah Jawa Timur (Telkom TR-5, Pelindo, SIG) dan Kalimantan.
+- [ ] Rekomendasi rekanan vendor perangkat antropometri kit terstandar Kemenkes berbasis IoT / Bluetooth untuk PoC.
+- [ ] Checklist kepatuhan standar keamanan enkripsi dan utilisasi cloud NeuCentrIX Telkom (UU PDP No. 27/2022).
+- [ ] Kesediaan lisan Bapak Setyohadi sebagai **Enterprise & Business Strategic Advisor** Geny StuntCare.
 
 ---
 
