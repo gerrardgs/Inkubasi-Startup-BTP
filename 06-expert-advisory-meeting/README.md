@@ -81,7 +81,20 @@ Pertemuan strategis pada **Selasa, 13 Oktober 2026** mempertemukan tim pendiri G
 Hubungan pernikahan antara **dr. Dewi Rama Dewa (Kabid Kesmas Dinkes Palangka Raya)** dan **Bapak Setyohadi (Senior Executive Telkom Group)** merupakan **kekuatan strategis luar biasa (*power-couple synergy*)** bagi Geny StuntCare:
 1. **Sinergi Kebijakan Publik & Anggaran Korporat:** dr. Dewi memegang lokus masalah, data balita posyandu, dan kebutuhan faskes di lapangan, sementara Bapak Setyohadi memahami bagaimana korporasi telekomunikasi (Telkom TJSL/CSR) dapat mendanai program intervensi sosial melalui skema kemitraan resmi.
 2. **Kredibilitas Ganda:** Rekomendasi medis dari dr. Dewi menjamin kepatuhan klinis Kemenkes, sedangkan restu bisnis dari Bapak Setyohadi memastikan arsitektur cloud, skalabilitas enterprise, dan keamanan data anak sesuai standar BUMN Telkom.
-3. **Pintu Masuk Pilot Project:** Pasangan ini memiliki akses langsung untuk menyetujui dan memfasilitasi *pilot project* percontohan di salah satu Puskesmas percontohan Kota Palangka Raya (misal Puskesmas Pahandut, Jekan Raya, atau Menteng).
+3. **Pintu Masuk Pilot Project:** Pasangan ini memiliki akses langsung untuk memfasilitasi dan menyetujui uji coba di puskesmas-puskesmas Kota Palangka Raya.
+
+---
+
+### 🌏 2.1. Rekam Jejak Mobilitas Nasional (Jawa $\leftrightarrow$ Kalimantan $\leftrightarrow$ Lintas Pulau) & Strategi "Jawa Timur First"
+
+Salah satu aset intelijen paling berharga dari ketiga pakar ini adalah **jam terbang penugasan dan mobilitas geografis yang sangat tinggi di tingkat nasional**:
+* **Mobilitas Lintas Pulau:** Ketiganya memiliki riwayat berpindah-pindah domisili dan penugasan strategis antara **Kalimantan** dan **Jawa**, bahkan beberapa kali dipercaya mengemban amanah di berbagai **pulau lain di Indonesia** (seperti penugasan surveyor faskes Kemenkes oleh dr. Dewi, penugasan rotasi manajemen Telkom Group oleh Bpk. Setyohadi, dan studi doktoral Prof. Heti di UB Malang), sebelum akhirnya saat ini menetap dan berdomisili di **Palangka Raya, Kalimantan Tengah**.
+* **Fokus Proyek Saat Ini: Validasi Lapangan di JAWA TIMUR DULU (Fase 1):**  
+  Meskipun ketiga pakar saat ini menetap di Palangka Raya, **fokus riset dan pengujian empiris Geny StuntCare pada Stage 1 Inkubasi BTP berpusat secara mutlak di JAWA TIMUR DULU** (mencakup 8 titik wilayah: Kota Surabaya, Kota Malang, Siwalanpanji Sidoarjo, Turen Kab. Malang, Gondanglegi Kab. Malang, Kabupaten Banyuwangi, Kota Jember, dan Kabupaten Magetan).
+* **Keunggulan Perspektif Komparatif (*The Dual-Lens Advantage*):**  
+  Pengalaman hidup dan kerja ketiga pakar di Jawa dan luar Jawa memberikan sudut pandang komparatif yang sangat tajam:
+  1. Mereka memahami betul karakteristik kultural, pola konsumsi gizi, daya beli, dan kepadatan faskes di **Jawa Timur** (yang menjadi lokus validasi awal tim).
+  2. Mereka mampu menguji apakah solusi yang berhasil divalidasi di Jawa Timur memiliki ketahanan model untuk nantinya di-scale up (*direplikasi*) ke daerah luar Jawa (seperti Kalimantan Tengah) yang memiliki tantangan geografis sungai, keterbatasan sinyal, dan rantai pasok pangan yang berbeda.
 
 ---
 
@@ -152,6 +165,12 @@ graph TD
   *"Diferensiasi utama Geny StuntCare adalah menyediakan 'Personalized Action Plan MPASI Padat Kalori'. Di Kalimantan Tengah dengan kekayaan daerah aliran sungai (DAS Kahayan, Kapuas, Barito), komoditas ikan air tawar lokal apa (seperti ikan gabus/haruan, seluang, baung, atau patin) yang memiliki densitas albumin, protein, dan bioavailabilitas tertinggi untuk memulihkan balita faltering? Bagaimana formulasi takaran lemak tambahan lokal yang aman agar tidak memicu gangguan pencernaan pada balita?"*
 * **Target Insight:** Resep terstandar berbasis kearifan lokal Kalteng yang dapat langsung dimasukkan ke dalam basis data aplikasi.
 
+#### ❓ Pertanyaan C.6: Komparasi Epidemiologi Stunting Jawa Timur vs Kalimantan Tengah
+* **Redaksi Pertanyaan:**  
+  *"Prof. Heti, mengingat Ibu menempuh pendidikan doktoral (S3) di Universitas Brawijaya Malang dan mendalami data balita Kalteng, sementara fokus riset validasi lapangan Geny StuntCare saat ini berfokus di Jawa Timur (8 titik: Surabaya, Sidoarjo, Malang, Banyuwangi, Magetan, Jember): bagaimana perbandingan pola determinan stunting antara Jawa Timur dan Kalimantan? Apakah model intervensi menu MPASI yang kami validasi di Jawa Timur nantinya dapat langsung diadaptasi ke Kalimantan Tengah dengan penyesuaian komoditas lokal, ataukah ada perbedaan mendasar dalam pola perilaku makan keluarga?"*
+* **Konteks & Rasionalitas:** Menjembatani riset Jawa Timur saat ini dengan rencana ekspansi masa depan ke Kalimantan Tengah.
+* **Target Insight:** Peta komparasi faktor risiko: Jawa Timur lebih dipengaruhi disparitas *urban slum*, sanitasi padat, dan pola asuh ibu pekerja pabrik; sementara Kalimantan lebih dipengaruhi keterisolasian geografis, akses air bersih DAS, dan variasi pangan sungai.
+
 ---
 
 ### KLASTER D: Kelaikan Etik (Ethical Clearance) & Permohonan Sebagai Advisor
@@ -185,6 +204,11 @@ graph TD
 * **Redaksi Pertanyaan:**  
   *"Di ruang periksa dokter maupun saat monev posyandu, mengapa masih banyak ibu balita di perkotaan Palangka Raya yang enggan membawa anaknya ke posyandu atau merasa malu saat anaknya dinyatakan kurang gizi / garis kuning KMS? Bagaimana dokter mengomunikasikan diagnosis gagal tumbuh agar ibu tidak merasa dihakimi, dan bagaimana antarmuka aplikasi Geny StuntCare harus menyusun kata-kata notifikasi agar memotivasi ibu tanpa menimbulkan stigma?"*
 * **Target Insight:** Standar bahasa komunikasi medis (*empathic clinical phrasing*) untuk teks UI/UX aplikasi.
+
+#### ❓ Pertanyaan A.3: Kesiapan Faskes Primer: Komparasi Jawa Timur vs Luar Jawa
+* **Redaksi Pertanyaan:**  
+  *"Sebagai seorang Surveyor Akreditasi Puskesmas Kemenkes yang berpengalaman mengaudit faskes di berbagai pulau di Indonesia, bagaimana pandangan Dokter mengenai disparitas kesiapan faskes dan kader posyandu antara Jawa Timur (lokus validasi awal kami saat ini) dibandingkan wilayah luar Jawa seperti Kalimantan? Mengapa keberhasilan membuktikan Problem-Solution Fit di Jawa Timur terlebih dahulu dinilai sebagai fondasi metodologis yang paling kokoh sebelum mereplikasinya ke Palangka Raya?"*
+* **Target Insight:** Justifikasi strategis metodologi bertahap: Jawa Timur sebagai *stress-test* volume tinggi dan literasi digital tinggi, disusul Kalimantan Tengah sebagai adaptasi geografis dan ketahanan logistik.
 
 ---
 
@@ -222,7 +246,7 @@ graph TD
 ---
 
 ## 💼 6. Panduan Pertanyaan untuk Bapak Setyohadi
-*(POV: Senior Executive Telkom Group, Pakar Enterprise Sales, CSR Scaling, & Suami dr. Dewi Rama Dewa)*
+*(POV: Senior Executive Telkom Group, Pakar Enterprise Sales, CSR Scaling, Rekam Jejak Penugasan Lintas Pulau di Indonesia, & Suami dr. Dewi Rama Dewa)*
 
 ---
 
@@ -239,16 +263,22 @@ graph TD
   *"Di action plan SLR-1, kami merencanakan pengujian ahli dengan Yayasan Kesehatan Telkom (Yakes). Bagaimana tata kelola kemitraan korporat di Telkom Group untuk menguji coba platform ini pada klinik Yakes Telkom (khususnya memantau balita karyawan Telkom di Kalimantan atau Jawa Timur)? Siapa pejabat kunci di Yakes yang paling tepat kami mintai audiensi awal?"*
 * **Target Insight:** Kontak atau jalur disposisi ke pimpinan Yakes Telkom untuk validasi B2B corporate wellness.
 
+#### ❓ Pertanyaan A.3: Sinergi Enterprise & CSR Lintas Regional: Telkom Regional V (Jatim) ke Regional VI (Kalimantan)
+* **Redaksi Pertanyaan:**  
+  *"Mengingat pengalaman Bapak bertugas di berbagai wilayah pulau di Indonesia (Jawa, Kalimantan, dan wilayah lainnya): fokus validasi lapangan Geny StuntCare saat ini ditargetkan tuntas terlebih dahulu di Jawa Timur (Fase 1 bersama Telkom University Surabaya & Innovillage Sidoarjo) sebelum nantinya berekspansi ke Palangka Raya Kalimantan Tengah (Fase 2). Bagaimana strategi membangun sinergi antara Telkom Regional V (Jawa Timur) dan Telkom Regional VI (Kalimantan) agar portofolio validasi B2G/CSR yang kami rintis di Jawa Timur dapat langsung di-leverage secara mulus ketika kami mengajukan pilot di Palangka Raya?"*
+* **Konteks & Rasionalitas:** Mengoptimalkan jaringan networking korporat Telkom di Jawa Timur untuk mendukung validasi saat ini, lalu membukakan jalan menuju Kalimantan.
+* **Target Insight:** Jalur koordinasi antar-Regional Telkom (TR-5 Jatim ke TR-6 Kalimantan) dan skema program inkubasi/TJSL terintegrasi.
+
 ---
 
 ### KLASTER B: Infrastruktur Jaringan Pedalaman Kalteng & Keamanan Data (UU PDP)
 
-#### ❓ Pertanyaan B.3: Arsitektur Offline-First Menghadapi Blank Spot Kalimantan
+#### ❓ Pertanyaan B.4: Arsitektur Offline-First Menghadapi Blank Spot Luar Jawa
 * **Redaksi Pertanyaan:**  
-  *"Berdasarkan pengalaman Bapak memimpin pemasaran dan operasional Telkom di wilayah Kalimantan Tengah dan Timur, disparitas sinyal telekomunikasi antar-kecamatan masih menjadi tantangan nyata. Bagaimana platform kami harus mempersiapkan arsitektur teknologi agar tetap dapat digunakan ibu di wilayah perkebunan atau pinggiran sungai yang minim sinyal? Apakah arsitektur lokal-database (offline-first) dengan sinkronisasi otomatis saat mendeteksi jaringan 4G Telkomsel dinilai paling feasible secara teknis?"*
+  *"Berdasarkan pengalaman Bapak memimpin pemasaran dan operasional Telkom di berbagai daerah kepulauan Indonesia, terdapat kesenjangan tajam infrastruktur digital antara Jawa Timur (yang surplus serat optik dan BTS 4G/5G) dengan pedalaman luar Jawa seperti pinggiran sungai dan perkebunan Kalimantan. Bagaimana platform kami harus mempersiapkan arsitektur teknologi agar tetap tangguh: apakah arsitektur offline-first dengan database lokal di ponsel kader/ibu yang otomatis tersinkronisasi saat mendeteksi sinyal Telkomsel merupakan arsitektur yang paling direkomendasikan standar IT Telkom?"*
 * **Target Insight:** Validasi kebutuhan teknis arsitektur *offline-first sync* untuk implementasi luar Jawa.
 
-#### ❓ Pertanyaan B.4: Standar Keamanan Data Anak & Kepatuhan UU PDP No. 27/2022
+#### ❓ Pertanyaan B.5: Standar Keamanan Data Anak & Kepatuhan UU PDP No. 27/2022
 * **Redaksi Pertanyaan:**  
   *"Platform Geny StuntCare mengelola data rekam pertumbuhan balita dan profil keluarga rentan. Dari standar enterprise Telkom dan regulasi UU Pelindungan Data Pribadi (UU PDP), sertifikasi keamanan data, enkripsi, dan tata kelola cloud lokal (seperti NeuCentrIX Telkom) apa yang wajib kami siapkan sejak tahap awal agar tidak tersandung masalah hukum saat scaling skala nasional?"*
 * **Target Insight:** Checklist kepatuhan UU PDP untuk data medis anak balita dan rekomendasi fasilitas inkubasi cloud Telkom.
@@ -257,29 +287,32 @@ graph TD
 
 ### KLASTER C: Navigasi Inkubasi BTP & Permohonan Sebagai Business Advisor
 
-#### ❓ Pertanyaan C.5: Standar Pembuktian Traction di Mata Reviewer Inkubasi BTP
+#### ❓ Pertanyaan C.6: Standar Pembuktian Traction di Mata Reviewer Inkubasi BTP
 * **Redaksi Pertanyaan:**  
   *"Sebagai bagian dari keluarga besar Telkom Group dan ekosistem Telkom University, menurut Bapak, bukti traksi dan validasi seperti apa yang paling dicari oleh komite reviewer Bandung Techno Park di akhir Stage 1? Apakah Letter of Intent (LoI) kerja sama dari Dinas Kesehatan Kota Palangka Raya sudah cukup menjadi bukti validasi pasar yang sangat kuat untuk meloloskan kami ke Stage 2?"*
 * **Target Insight:** Strategi memenangkan evaluasi reviewer inkubasi BTP dan kriteria penilaian kelayakan investasi lanjutan.
 
-#### ❓ Pertanyaan C.6: Permohonan Kesediaan Menjadi Business & Strategic Advisor
+#### ❓ Pertanyaan C.7: Permohonan Kesediaan Menjadi Business & Strategic Advisor
 * **Redaksi Pertanyaan:**  
-  *"Pak Setyohadi, kami sangat membutuhkan arahan bisnis dan bimbingan kepemimpinan dari sosok senior Telkom Group seperti Bapak. Apakah Bapak berkenan menjadi Business & Strategic Advisor resmi bagi Geny StuntCare untuk mendampingi kami mematangkan model enterprise B2G dan scaling korporat?"*
+  *"Pak Setyohadi, kami sangat membutuhkan arahan bisnis dan bimbingan kepemimpinan dari sosok senior Telkom Group seperti Bapak yang memahami dinamika bisnis di Jawa maupun luar pulau. Apakah Bapak berkenan menjadi Business & Strategic Advisor resmi bagi Geny StuntCare untuk mendampingi kami mematangkan model enterprise B2G dan scaling korporat?"*
 * **Target Output:** Komitmen kesediaan menjadi penasihat bisnis resmi startup.
 
 ---
 
-## 🌟 7. Skenario Emas Forum Terbuka: Kemitraan Tripartit Palangka Raya
+## 🌟 7. Skenario Emas Forum Terbuka: Kemitraan Tripartit & Blueprint Dua Fase ("Jawa Timur First ➔ Palangka Raya Grand Pilot")
 
-Pada sesi diskusi bersama (15 menit terakhir), ajukan **Pertanyaan Kunci Tripartit** berikut yang menyatukan peran ketiga pakar:
+Pada sesi diskusi bersama (15 menit terakhir), ajukan **Pertanyaan Kunci Tripartit** berikut yang menyatukan peran ketiga pakar dengan peta jalan proyek bertahap:
 
-> 💬 **Pertanyaan Emas Forum Bersama (The Grand Palangka Raya Pilot Scenario):**  
-> *"Ibu Heti, Dokter Dewi, dan Pak Setyohadi—kami melihat sebuah peluang kolaborasi bersejarah yang luar biasa. Jika kita menyatukan keahlian ketiga tokoh di ruangan ini:  
-> 1. **Prof. Heti (Poltekkes Kemenkes / UB)** memimpin validasi protokol klinis gizi dan mengawal pengurusan Ethical Clearance;  
-> 2. **dr. Dewi (Dinkes Kota Palangka Raya)** membuka lokus Puskesmas percontohan dan mengintegrasikan alur rujukan kader di Kota Palangka Raya;  
-> 3. **Pak Setyohadi (Telkom Group)** memfasilitasi dukungan infrastruktur cloud terenkripsi dan menjembatani akses pendanaan CSR BUMN;  
-> Sementara **Geny StuntCare (Telkom University / BTP)** menyediakan mesin teknologi AI dan aplikasi mobile-nya...  
-> **Apakah kita bisa merumuskan sebuah Pilot Project Resmi Penurunan Stunting Berbasis AI di Kota Palangka Raya sebagai percontohan nasional pertama hasil sinergi Pemda, Kampus, dan BUMN?** Langkah konkrit apa yang harus tim kami persiapkan dalam 2 minggu ke depan untuk mewujudkan inisiatif ini?"*
+> 💬 **Pertanyaan Emas Forum Bersama (The Two-Phase Grand Pilot Blueprint):**  
+> *"Ibu Heti, Dokter Dewi, dan Pak Setyohadi—kami sangat bersyukur dapat berdiskusi dengan tiga tokoh yang tidak hanya memiliki otoritas tertinggi di bidangnya masing-masing, namun juga memiliki pemahaman mendalam tentang realitas lapangan di Jawa maupun di luar Jawa:  
+> 
+> * **Fase 1 (Saat Ini - Jawa Timur First):** Riset lapangan dan pembuktian *Problem-Solution Fit* Geny StuntCare difokuskan secara ketat di **Jawa Timur** (Surabaya, Sidoarjo, Malang, Banyuwangi, Magetan, Jember) untuk menguji algoritma AI, kepatuhan MPASI, dan validasi kader posyandu di bawah inkubasi BTP Telkom University.  
+> * **Fase 2 (Skalabilitas - Palangka Raya Grand Pilot):** Setelah model di Jawa Timur terbukti solid, kita melangkah bersama mereplikasikannya ke **Kota Palangka Raya, Kalimantan Tengah** sebagai *showcase* percontohan nasional pertama hasil sinergi tripartit:  
+>   1. **Prof. Heti (Poltekkes Kemenkes / UB):** Mengawal protokol klinis gizi lokal dan rekomendasi komparasi epidemiologi;  
+>   2. **dr. Dewi (Dinkes Kota Palangka Raya):** Membuka lokus Puskesmas percontohan dan integrasi alur rujukan faskes;  
+>   3. **Pak Setyohadi (Telkom Group):** Menjembatani dukungan cloud NeuCentrIX dan pendanaan program CSR/TJSL BUMN;  
+> 
+> **Apakah rancangan blueprint dua fase (Jawa Timur First ➔ Palangka Raya Grand Pilot) ini menurut Bapak dan Ibu merupakan strategi yang paling realistis dan meyakinkan untuk memenangkan inkubasi BTP sekaligus memberikan dampak nyata bagi penurunan stunting nasional?** Langkah konkret apa yang harus kami siapkan dalam 2 minggu ke depan untuk mengunci komitmen bersama ini?"*
 
 ---
 
