@@ -28,7 +28,7 @@ Kami mendedikasikan repositori ini secara terbuka (*public*) sebagai wujud trans
 
 ## 🗺️ Peta Navigasi & Direktori Proyek
 
-Seluruh kebutuhan inkubasi telah kami kelompokkan secara rapi ke dalam 7 folder pilar utama dan modul kesiapan startup (*Startup Readiness Level*):
+Seluruh kebutuhan inkubasi telah kami kelompokkan secara rapi ke dalam 8 folder pilar utama dan modul kesiapan startup (*Startup Readiness Level*):
 
 ```
 Projects21 / Inkubasi-Startup-BTP
@@ -69,6 +69,9 @@ Projects21 / Inkubasi-Startup-BTP
 │   ├── 📁 references/                      # Berkas sumber asli (PDF Buku TA, Paper GENY, Laporan Final, CSV)
 │   └── 📁 assets/                          # Grafik visualisasi data terverifikasi (chart1 s.d. chart7)
 │
+├── 📁 06-expert-advisory-meeting/          # PANDUAN STRATEGIS & MATRIKS PERTANYAAN RAPAT DEWAN PAKAR
+│   └── README.md                           # Master guide 3 pakar: Heti Ira Ayue, dr. Dewi Rama, Bpk. Setyohadi
+│
 ├── 📁 wawancara/                           # INSTRUMEN LENGKAP WAWANCARA CUSTOMER DISCOVERY LAPANGAN
 │   ├── README.md                           # Hub master metodologi, arsitektur 2 tahap, & integrasi SRL-0
 │   ├── pertanyaan_wawancara.md             # 76 Pertanyaan emas 4 persona (Hamil, Balita, Catin, Kader)
@@ -106,7 +109,7 @@ Projects21 / Inkubasi-Startup-BTP
 
 ---
 
-## 💡 Rangkuman 7 Pilar Utama Ekosistem BTP
+## 💡 Rangkuman 8 Pilar Utama Ekosistem BTP
 
 ### 1. 💼 Tata Kelola Dana Operasional (*Operational Funding*)
 Setiap startup yang terpilih mendapatkan fasilitas dana operasional tahap awal untuk validasi lapangan dan pengembangan prototipe.
@@ -189,6 +192,18 @@ Dokumentasi konsultasi intensif 1-on-1 bersama mentor resmi inkubasi Bandung Tec
   Oleh **Wulan Fitriani** (Mentor Inkubasi Bandung Techno Park).  
   *Membahas dekonstruksi kritis target pengguna (mengeliminasi catin & bumil umum demi fokus mutlak pada 1 segmen inti: **Ibu balita faltering/underweight/stunting usia 6–24 bulan**), metodologi validasi 15–20 narasumber serupa via The Mom Test, taktik menjangkau narasumber via rujukan kader posyandu & komunitas MPASI Instagram/TikTok, audit kompetitor 4 platform (PrimaKu, Tentang Anak, Teman Bumil, Kinedu) untuk menemukan celah solusi (**AI + Kurva Pertumbuhan + Personalized Action Plan MPASI**), kebutuhan dewan penasihat medis (dokter anak & ahli gizi), positioning nakes sebagai validator non-beban, serta disiplin menolak feature creep.*
 * 📄 *Notulensi & Berita Acara:* [Folder mentoring](file:///Users/sinitygs/Projects21/mentoring/README.md) | [Notulensi Lengkap Sesi 1 (8 Okt 2026)](file:///Users/sinitygs/Projects21/mentoring/8-Oktober-2026.md) | [Berita Acara Resmi (PDF)](file:///Users/sinitygs/Projects21/mentoring/Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf) | [Materi BTP M1-L4 Analyze Problems (PDF)](file:///Users/sinitygs/Projects21/mentoring/BAHASA_M1%20-%20L4%20Analyze%20Problems%20-%20Indonesian.pdf) | [Kanvas Pernyataan Masalah](file:///Users/sinitygs/Projects21/mentoring/Kanvas%20Pernyataan%20Masalah.jpeg) | [Analisis Kompetitor](file:///Users/sinitygs/Projects21/competitor-analysis.md)
+ 
+---
+ 
+### 8. 🎯 Panduan Strategis Konsultasi Rapat Dewan Pakar (Folder 06-expert-advisory-meeting)
+Panduan wawancara mendalam tingkat tinggi (*high-level expert consultation guide*) menjelang pertemuan strategis bersama 3 tokoh pakar lintas disiplin pada 13 Oktober 2026:
+* **Heti Ira Ayue, S.Kep., M.Kep., Sp.Kep.Anak** (Dosen Poltekkes Kemenkes Kalteng, S3 Ilmu Kedokteran Universitas Brawijaya Malang, pemohon resmi Data Mikro SKI 2023 Kemenkes):  
+  *Membedah validitas saintifik model Decision Tree CART (Paper GENY) dan Fuzzy Sugeno Kalteng (Buku TA), patofisiologi weight faltering & GTM balita usia 6–24 bulan, formulasi menu MPASI lokal padat kalori, audit instrumen 76 pertanyaan, prosedur kelaikan etik (Ethical Clearance KEPK), serta aliansi riset kolaboratif Poltekkes-UB-Telkom University.*
+* **dr. Dewi Rama Dewa** (Praktisi Medis Aktif & Pegawai/Pejabat Dinas Kesehatan):  
+  *Membedah realitas psikologis ibu di meja periksa dokter, pola resistensi stigma stunting, bahaya suplemen/vitamin bebas untuk GTM, SOP alur rujukan berjenjang stunting desa (Posyandu ➔ Puskesmas ➔ RSUD) dan titik sumbatannya, zero data-entry burden nakes, kepatuhan SatuSehat Kemenkes, serta strategi pendekatan kemitraan B2G ke pimpinan Dinas Kesehatan (BOK, DAK Non-Fisik).*
+* **Bapak Setyohadi** (Eksekutif Senior / Profesional Sukses Telkom Group):  
+  *Membedah pintu masuk sinergi dengan Yayasan Kesehatan Telkom (Yakes), skema pendanaan TJSL/CSR BUMN penanganan stunting, validasi model bisnis enterprise (B2G Pemda & B2B konsesi), standar keamanan cloud berstandar ISO 27001 & kepatuhan UU Pelindungan Data Pribadi (UU PDP No. 27/2022), milestone kelulusan Stage 1 BTP, serta pemanfaatan jaringan strategis korporat.*
+* 📄 *Panduan lengkap:* [06-expert-advisory-meeting/README.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/README.md)
 
 ---
 
