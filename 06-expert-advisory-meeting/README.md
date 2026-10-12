@@ -1,5 +1,5 @@
-# 🎯 Panduan Strategis & Matriks Pertanyaan Rapat Dewan Pakar
-## Konsultasi Tingkat Tinggi: Validasi Medis, Regulasi Pemerintah & Scale-Up Korporat
+# 🎯 Master Panduan Strategis & Matriks Pertanyaan Rapat Dewan Pakar
+## Konsultasi Tingkat Tinggi: Validasi Saintifik, Kebijakan Dinas Kesehatan & Scale-Up Korporat
 ### Startup Geny StuntCare — Program Inkubasi Bisnis Startup Batch 24 Bandung Techno Park (Telkom University)
 
 ---
@@ -8,346 +8,312 @@
   <img src="https://img.shields.io/badge/Dokumen-Master%20Advisory%20Guide-red?style=for-the-badge&logo=googledocs" alt="Master Guide" />
   <img src="https://img.shields.io/badge/Tahap-SRL--1%20Problem%20Validation-orange?style=for-the-badge" alt="SRL-1" />
   <img src="https://img.shields.io/badge/Institusi-Bandung%20Techno%20Park-blue?style=for-the-badge&logo=telkom" alt="BTP" />
-  <img src="https://img.shields.io/badge/Panel-3%20Pakar%20Kunci-emerald?style=for-the-badge" alt="3 Pakar" />
-  <img src="https://img.shields.io/badge/Platform-genystuntcare.com-blueviolet?style=for-the-badge" alt="Website" />
+  <img src="https://img.shields.io/badge/Lokus%20Pakar-Palangka%20Raya%2C%20Kalteng-emerald?style=for-the-badge" alt="Palangka Raya" />
+  <img src="https://img.shields.io/badge/Platform-genystuntcare.com-blueviolet?style=for-the-badge&logo=googlechrome" alt="Website" />
 </p>
 
 ---
 
-## 📌 1. Metadata Pertemuan & Profil Mendalam Panel Pakar
+## 🗺️ 1. Peta Perjalanan & Riwayat Progres Proyek (*Project Trajectory Tracker*)
 
-Dokumen ini disusun sebagai instrumen panduan wawancara mendalam tingkat tinggi (*in-depth expert consultation guide*) untuk pertemuan strategis yang dijadwalkan pada **Selasa, 13 Oktober 2026**. Pertemuan ini menghadirkan tiga tokoh kunci lintas disiplin ilmu yang memiliki keahlian mendalam, pengalaman lapangan puluhan tahun, serta jejaring institusional yang luas:
+Sebelum melangkah ke sesi konsultasi dewan pakar, berikut adalah rekapitulasi komprehensif perjalanan riset, validasi, dan pengembangan teknologi **Geny StuntCare** sejak awal pembentukan hingga titik saat ini:
 
-| Profil Ahli / Pakar | Latar Belakang Pendidikan & Jabatan | Relevansi Kunci & Domain Kontribusi untuk Geny StuntCare |
-| :--- | :--- | :--- |
-| **Heti Ira Ayue, S.Kep., M.Kep., Sp.Kep.Anak** | • Dosen Jurusan Keperawatan, **Poltekkes Kemenkes Palangka Raya** (Kalimantan Tengah)<br>• **Lulusan / Kandidat Doktor (S3) Ilmu Kedokteran**, Fakultas Kedokteran **Universitas Brawijaya (UB) Malang**<br>• Pemohon Resmi Akses Data Mikro **Survei Kesehatan Indonesia (SKI) 2023** Kemenkes RI | • **Pakar Saintifik Epidemiologi & Keperawatan Anak**<br>• Validator metodologi analisis data mikro SKI 2023 yang menjadi fondasi *Paper GENY* (IBITeC 2026) dan *Buku Tugas Akhir* pemantauan stunting Kalteng.<br>• Rujukan ilmiah intervensi gagal tumbuh (*weight faltering*), gizi buruk, pola asuh, dan *Ethical Clearance* penelitian medis. |
-| **dr. Dewi Rama Dewa** | • Praktisi Medis Aktif (**Dokter Praktik Mandiri / Fasilitas Pelayanan Kesehatan**)<br>• Pejabat / Fungsional Tenaga Medis di lingkungan **Dinas Kesehatan (Dinkes)** | • **Pakar Medis Klinis & Regulasi Kebijakan Kesehatan Daerah**<br>• Menguasai dinamika nyata ruang periksa dokter: psikologi ibu yang defensif, penanganan anak susah makan (GTM), dan peresepan suplemen.<br>• Memahami arsitektur birokrasi Dinkes: alur rujukan berjenjang penanganan stunting, alokasi dana BOK/DAK, serta beban kerja nakes terkait sistem Kemenkes (e-PPGBM/ASIK). |
-| **Bapak Setyohadi** | • Profesional Sukses / Eksekutif Senior di lingkungan **Telkom Group**<br>• Berpengalaman luas dalam kepemimpinan korporasi teknologi, kemitraan strategis B2B/B2G, dan pengembangan ekosistem digital | • **Pakar Tata Kelola Korporasi, Scaling Bisnis & Jaringan Strategis**<br>• Membimbing model komersialisasi B2G (ke Pemda/Dinkes) dan B2B (ke korporat melalui CSR/TJSL penanganan stunting BUMN).<br>• Membuka jembatan sinergi dengan **Yayasan Kesehatan Telkom (Yakes)**, ekosistem **Bandung Techno Park**, serta kesiapan infrastruktur cloud terenkripsi (*compliance* UU PDP & ISO 27001). |
+```mermaid
+timeline
+    title PETA PERJALANAN & PROGRES STARTUP GENY STUNTCARE (2025 - 2026)
+    section Fondasi Riset Saintifik (2025 - Pertengahan 2026)
+        Inisiasi & Riset Lapangan : Program Innovillage 2025 di Desa Siwalanpanji Sidoarjo
+        Paper GENY (IEEE IBITeC 2026) : Pengolahan Data Mikro SKI 2023 (304.193 balita) dengan Decision Tree CART (Akurasi 75,57%)
+        Buku Tugas Akhir 160 Hlm : Sistem Monitoring Stunting 14 Kab/Kota Kalteng berbasis Fuzzy Sugeno & Genetic Algorithm (Gerrard Sebastian)
+        Audit & Crawling Konsensus : Ekstraksi 102 hlm Consensus AI, telaah 20 paper UCD, sintesis determinan stunting (Laporan Final 27 hlm)
+    section Inkubasi BTP Stage 1 (September 2026)
+        Bootcamp Pembukaan BTP : Seleksi resmi Inkubasi Startup Batch 24 Bandung Techno Park
+        Masterclass Sesi 1 & 2 : Customer Discovery (Indra Purnama) & Design Thinking (Dr. Iwan Iwut Tritoasmoro)
+        Masterclass Sesi 3 : Problem Validation & VPC (Muhammad Nur Awaludin / Kak Mumu)
+        Spesifikasi Arsitektur API : Perancangan RESTful API Z-Score WHO, modul deteksi prediktif, & integrasi SatuSehat
+    section Penajaman Validasi Lapangan (Awal Oktober 2026)
+        Instrumen Wawancara 76 Soal : Penyusunan pedoman wawancara 4 persona & matriks sampling purposif 5 Sel (8 titik Jatim)
+        Mentoring 1 BTP (8 Okt 2026) : Evaluasi kritis Mentor Wulan Fitriani (Pivot fokus ke balita faltering 6-24 bln, diferensiasi MPASI, zero-burden nakes)
+        Rapat Dewan Pakar (13 Okt 2026) : Triangulasi 3 Pakar Palangka Raya Kalteng (Prof. Heti, dr. Dewi Rama Dewa, Bpk. Setyohadi)
+```
+
+### Rekapitulasi Status Kesiapan Startup Saat Ini:
+* **Status SRL (Startup Readiness Level):** Memasuki gerbang akhir **SRL-1 (Problem Validation)** menuju pengujian prototipe **SRL-2 (Solution Validation)**.
+* **Aset Teknologi Aktif:** Platform web purwarupa ([genystuntcare.com](https://genystuntcare.com)), model komputasi CART Decision Tree (Paper IBITeC 2026), model Fuzzy Sugeno (Buku TA Kalteng), dan dokumen spesifikasi API.
+* **Tantangan Validasi yang Sedang Diselesaikan:** Mengonfirmasi batasan klinis fenomena *weight faltering* balita usia 6–24 bulan, merumuskan formula intervensi gizi MPASI lokal, memastikan arsitektur *zero data-entry burden* bagi nakes, serta mengunci dukungan kemitraan pemerintah (Dinkes) dan korporasi (Telkom Group).
 
 ---
 
-## 🧭 2. Arsitektur Triangulasi Strategis: 3 Sudut Pandang (3 POVs)
+## 📌 2. Profil Mendalam & Rekam Jejak (*Track Record Dossier*) 3 Pakar Kunci
 
-Pertemuan ini dirancang untuk membedah titik temu (*sweet spot*) antara **Kebenaran Saintifik Medis**, **Kelayakan Operasional Birokrasi Pemerintah**, dan **Viabilitas Bisnis Korporasi Teknologi**:
+Pertemuan strategis pada **Selasa, 13 Oktober 2026** mempertemukan tim pendiri Geny StuntCare dengan tiga figur berpengaruh di **Kota Palangka Raya, Provinsi Kalimantan Tengah**. Ketiganya memiliki irisan riset, jabatan birokrasi, dan kepemimpinan industri yang sangat relevan:
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                              DOSIR REKAM JEJAK & DINAMIKA STRATEGIS PANEL PAKAR                        │
+├───────────────────────────────────┬───────────────────────────────────┬────────────────────────────────┤
+│ Prof. / Dr. Heti Ira Ayue, S.ST., │ dr. Dewi Rama Dewa, M.Kes.        │ Bapak Setyohadi                │
+│ M.Keb.                            │ (Istri dari Bapak Setyohadi)      │ (Suami dari dr. Dewi Rama D.)  │
+├───────────────────────────────────┼───────────────────────────────────┼────────────────────────────────┤
+│ JABATAN & INSTITUSI:              │ JABATAN & INSTITUSI:              │ JABATAN & INSTITUSI:           │
+│ • Dosen Jurusan Kebidanan,        │ • Kepala Bidang Kesehatan         │ • Eksekutif Senior / Mantan    │
+│   Poltekkes Kemenkes Palangka Raya│   Masyarakat (Kabid Kesmas),      │   Manager Marketing Telkom     │
+│ • Lulusan Program Doktor (S3)     │   Dinas Kesehatan Kota Palangka   │   Kalimantan Timur & Tengah    │
+│   Ilmu Kedokteran, Universitas    │   Raya                            │ • Tokoh Senior Manajemen Bisnis│
+│   Brawijaya (UB) Malang           │ • Dokter Praktik Mandiri / Klinik │   & Kemitraan Telkom Group     │
+│ • Pemohon Resmi Akses Data Mikro  │ • Tim Surveyor Akreditasi         │   Palangka Raya                │
+│   SKI 2023 Kemenkes RI (Surat FK  │   Puskesmas Kemenkes RI           │                                │
+│   UB No. 06361/2024)              │                                   │                                │
+├───────────────────────────────────┼───────────────────────────────────┼────────────────────────────────┤
+│ REKAM JEJAK RISET & KEPAKARAN:    │ REKAM JEJAK RISET & KEPAKARAN:    │ REKAM JEJAK RISET & KEPAKARAN: │
+│ • Penulis Utama Paper Bereputasi  │ • Pemegang otoritas teknis &      │ • Berpengalaman puluhan tahun  │
+│   Internasional (PubMed/Scopus):  │   anggaran program percepatan     │   dalam penetrasi pasar B2B &  │
+│   "Exploring the multifactorial   │   penurunan stunting di seluruh   │   B2G telco/enterprise Kalteng │
+│   predictors of stunting in       │   Puskesmas Kota Palangka Raya    │ • Paham struktur pendanaan     │
+│   children under five" (2024)     │ • Menguasai sistem Posyandu ILP,  │   TJSL/CSR BUMN penanganan     │
+│ • Pelopor program Kelompok        │   distribusi PMT, & alur rujukan  │   stunting serta ekosistem BTP │
+│   Pendukung ASI (KP-ASI) & KIE    │ • Berhadapan langsung dengan ibu  │ • Menguasai tantangan jaringan │
+│   Digital maternal di Kalteng     │   balita GTM di meja periksa      │   telekomunikasi 3T Kalteng    │
+└───────────────────────────────────┴───────────────────────────────────┴────────────────────────────────┘
+```
+
+### 💡 Analisis Dinamika Khusus Pasangan Suami-Istri (dr. Dewi Rama Dewa & Bpk. Setyohadi):
+Hubungan pernikahan antara **dr. Dewi Rama Dewa (Kabid Kesmas Dinkes Palangka Raya)** dan **Bapak Setyohadi (Senior Executive Telkom Group)** merupakan **kekuatan strategis luar biasa (*power-couple synergy*)** bagi Geny StuntCare:
+1. **Sinergi Kebijakan Publik & Anggaran Korporat:** dr. Dewi memegang lokus masalah, data balita posyandu, dan kebutuhan faskes di lapangan, sementara Bapak Setyohadi memahami bagaimana korporasi telekomunikasi (Telkom TJSL/CSR) dapat mendanai program intervensi sosial melalui skema kemitraan resmi.
+2. **Kredibilitas Ganda:** Rekomendasi medis dari dr. Dewi menjamin kepatuhan klinis Kemenkes, sedangkan restu bisnis dari Bapak Setyohadi memastikan arsitektur cloud, skalabilitas enterprise, dan keamanan data anak sesuai standar BUMN Telkom.
+3. **Pintu Masuk Pilot Project:** Pasangan ini memiliki akses langsung untuk menyetujui dan memfasilitasi *pilot project* percontohan di salah satu Puskesmas percontohan Kota Palangka Raya (misal Puskesmas Pahandut, Jekan Raya, atau Menteng).
+
+---
+
+## 🧭 3. Arsitektur Triangulasi Strategis: "Segitiga Emas Palangka Raya"
 
 ```mermaid
 graph TD
-    subgraph Panel_Pakar["TRIANGULASI 3 SUDUT PANDANG (3 POVs)"]
-        A["Heti Ira Ayue, S3 UB<br><b>(Akademisi & Riset Klinis)</b><br>• Validitas Model AI & Data SKI<br>• Mekanisme Weight Faltering<br>• Pangan Lokal & Etika Riset"]
-        B["dr. Dewi Rama Dewa<br><b>(Praktisi Dokter & Dinkes)</b><br>• Realitas Meja Praktik & GTM<br>• Alur Rujukan Stunting Desa<br>• Interoperabilitas e-PPGBM/ASIK"]
-        C["Bapak Setyohadi<br><b>(Eksekutif Telkom Group)</b><br>• Monetisasi B2G/B2B & CSR<br>• Kemitraan Yakes Telkom<br>• Keamanan Data & Skalabilitas"]
+    subgraph Segitiga_Emas["SEGITIGA EMAS PALANGKA RAYA (KALTENG)"]
+        A["<b>Prof./Dr. Heti Ira Ayue</b><br>(Poltekkes Kemenkes / S3 UB)<br>• Validasi Saintifik Model AI<br>• Prediktor Multifaktorial Stunting<br>• Pangan Lokal & Ethical Clearance"]
+        B["<b>dr. Dewi Rama Dewa, M.Kes.</b><br>(Kabid Kesmas Dinkes Palangka Raya)<br>• Kebijakan Intervensi Stunting Kota<br>• Realitas Pasien GTM & Rujukan<br>• Zero-Burden Data Nakes Posyandu"]
+        C["<b>Bapak Setyohadi</b><br>(Eksekutif Senior Telkom Group)<br>• Pendanaan TJSL/CSR BUMN Stunting<br>• Sinergi Yakes & Telkomsel IoT<br>• Keamanan Data Anak & Skalabilitas"]
     end
 
-    subgraph Sweet_Spot["TITIK TEMU SOLUSI GENY STUNTCARE"]
-        D["<b>Problem-Solution Fit Teruji</b><br>1. AI Triase Hand-Executable<br>2. Intervensi Menu MPASI Lokal Padat Kalori<br>3. Zero Data-Entry Burden untuk Nakes<br>4. Kredibilitas Dewan Penasihat Medis"]
+    subgraph Solusi_Geny["PLATFORM GENY STUNTCARE"]
+        D["<b>Problem-Solution Fit Tervalidasi</b><br>1. AI Triase Hand-Executable (SKI 2023)<br>2. Action Plan Menu MPASI Lokal Padat Kalori<br>3. Pilot Project Puskesmas Kota Palangka Raya<br>4. Dewan Penasihat Medis & Bisnis Resmi"]
     end
 
+    A <-->|Kolaborasi Riset Klinis & Etik| B
+    B <-->|Sinergi Suami-Istri: Dinkes x CSR Telkom| C
+    A <-->|Pemanfaatan Data Mikro & Komputasi| C
     A --> D
     B --> D
     C --> D
 ```
 
-### Konteks Khusus Masukan Mentor Wulan Fitriani (Mentoring BTP Sesi 1, 8 Okt 2026):
-Pertemuan ini adalah wahana utama untuk menindaklanjuti dan memvalidasi arahan kritis dari Mentor BTP Wulan Fitriani:
-1. **Penajaman Segmen:** Mengonfirmasi apakah membatasi target pada **Ibu balita faltering/underweight usia 6–24 bulan** adalah keputusan klinis dan bisnis yang paling tepat.
-2. **Diferensiasi Solusi:** Menguji apakah formula **AI Prediksi + Data Pertumbuhan + Personalized Action Plan MPASI Lokal** mampu memecahkan celah pasar yang ditinggalkan PrimaKu, Tentang Anak, dan Teman Bumil.
-3. **Kredibilitas Medis:** Mengajak Heti Ira Ayue dan dr. Dewi Rama Dewa untuk berkenan menjadi **Dewan Penasihat Medis (*Medical Advisory Board*)** independen Geny StuntCare.
-4. **Anti-Feature Creep:** Menolak fitur-fitur yang tidak berdampak langsung terhadap pemulihan berat badan balita.
+---
+
+## 🔬 4. Panduan Pertanyaan untuk Prof. / Dr. Heti Ira Ayue
+*(POV: Akademisi Keperawatan Anak, Peneliti Utama Disertasi S3 UB, & Pakar Prediktor Multifaktorial Stunting)*
 
 ---
 
-## 🔬 3. Panduan Pertanyaan untuk Heti Ira Ayue (POV Akademisi & Riset Klinis)
+### KLASTER A: Validasi Saintifik Model Decision Tree (Paper GENY) & Data SKI 2023
 
-> **Fokus Utama:** Validitas saintifik model machine learning, mekanisme biologis gagal tumbuh (*growth faltering*), densitas nutrisi MPASI lokal, metodologi instrumen wawancara, dan kepatuhan etika riset kesehatan.
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER A: VALIDASI MODEL MACHINE LEARNING & METODOLOGI DATA SKI 2023                       │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan A.1: Interpretasi Klinis Bobot Fitur pada Model Decision Tree (Paper GENY)
+#### ❓ Pertanyaan A.1: Resolusi Bobot Fitur vs Konsep Prediktor Multifaktorial
 * **Redaksi Pertanyaan:**  
-  *"Ibu Heti, pada Paper GENY yang kami susun berbasis data mikro SKI 2023 (304.193 balita), model Decision Tree CART kami menunjukkan bahwa tinggi/panjang badan dan usia mendominasi 98,23% feature importance, sementara variabel non-antropometri (sanitasi, ASI eksklusif, edukasi ibu, BBLR) memiliki bobot sangat kecil di pohon biner. Dari sudut pandang ilmu kedokteran dan epidemiologi anak, bagaimana Ibu memandang fenomena ini? Apakah model prediktif berbasis antropometri murni ini sudah cukup kuat untuk skrining awal di posyandu, ataukah variabel determinan lingkungan tetap wajib diintegrasikan sebagai penentu skor risiko sekunder?"*
-* **Konteks & Rasionalitas:** Paper GENY mencatat macro F1 anjlok ke 0,3565 jika tinggi badan dan usia dihilangkan. Tim butuh konfirmasi ahli epidemiologi agar publikasi dan model AI tidak dituduh melakukan simplifikasi berlebihan.
-* **Target Insight:** Batasan klaim algoritma (*algorithmic boundary*), rekomendasi integrasi variabel determinan sosial-ekonomi ke dalam skor risiko triase.
-* **Probing:** *"Jika seorang kader melihat anak dengan tinggi badan berada di ambang batas z-score -1.9 SD (hampir stunting), variabel lingkungan apa dari data SKI yang paling mendesak dijadikan pertimbangan intervensi darurat?"*
+  *"Prof. Heti, dalam publikasi terbaru Ibu di Journal of Public Health Research (2024) yang mengulas 'Multifactorial predictors of stunting in children under five', Ibu menegaskan bahwa stunting dipicu oleh interaksi kompleks gizi, sanitasi, infeksi, dan pengasuhan. Namun, pada [Paper GENY](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/03_referensi_utama_1_paper_geny.md) kami berbasis data mikro SKI 2023 yang Ibu ajukan ke Kemenkes, model Decision Tree CART kami menemukan bahwa tinggi/panjang badan dan usia mendominasi 98,23% feature importance. Dari sudut pandang metodologi penelitian kedokteran, bagaimana kami harus menyandingkan temuan pohon biner ini dengan teori multifaktorial Ibu agar sistem triase kami tidak dianggap menyederhanakan determinan biologis anak?"*
+* **Rasionalitas Data:** Mempertahankan keabsahan Paper IBITeC 2026 dan menyelaraskannya dengan disertasi S3 Prof. Heti di UB.
+* **Target Insight:** Justifikasi bahwa model CART berfungsi sebagai *alat skrining cepat tingkat pertama (first-line triage)*, sementara determinan multifaktorial berfungsi sebagai *penentu intervensi tingkat kedua (second-line intervention)*.
+* **Probing:** *"Jika anak terdeteksi berada di ambang batas z-score -1.9 SD (hampir stunting), prediktor non-antropometri apa dari kuesioner SKI yang menurut Ibu paling mendesak dihitung sebagai skor risiko pendukung?"*
 
-#### Pertanyaan A.2: Validitas Konsep Trayektori Ganda (Buku TA Fuzzy Kalteng)
+#### ❓ Pertanyaan A.2: Evaluasi Trayektori Ganda Dinamis (Buku TA Fuzzy Kalteng)
 * **Redaksi Pertanyaan:**  
-  *"Dalam penelitian Buku Tugas Akhir kami mengenai stunting di Kalimantan Tengah, kami menemukan kelemahan diagnosis konvensional posyandu yang bersifat statis (hanya melihat titik z-score saat diukur). Kami merancang Fuzzy Inference System Sugeno yang mengevaluasi trayektori ganda: membandingkan panjang badan lahir (PBL) dengan pertumbuhan saat pengukuran untuk mendeteksi 'catch-up growth' vs 'growth faltering'. Menurut Ibu, apakah pendekatan trayektori dinamis ini selaras dengan konsep klinis pemantauan anak di faskes, dan bagaimana cara terbaik menerapkannya dalam antarmuka aplikasi sederhana bagi ibu balita?"*
-* **Konteks & Rasionalitas:** Buku TA Gerrard Sebastian membuktikan anak lahir normal bisa mengalami *faltering*, dan anak BBLR bisa mengejar pertumbuhan jika intervensi tepat.
-* **Target Insight:** Validasi ilmiah model dinamis dan panduan klasifikasi klinis balita untuk algoritma Geny StuntCare.
-* **Probing:** *"Di Kalimantan Tengah dengan karakteristik geografis perairan/pedalaman, seberapa sering Ibu menemui kasus anak yang lahir normal namun jatuh stunting setelah usia 6 bulan saat mulai MPASI?"*
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER B: VALIDASI KLINIS FENOMENA WEIGHT FALTERING & USIA MPASI (6–24 BULAN)              │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan B.3: Urgensi Periode Emas 6–24 Bulan sebagai Fokus Tunggal Startup
-* **Redaksi Pertanyaan:**  
-  *"Mentor inkubasi kami dari Bandung Techno Park (Ibu Wulan Fitriani) memberikan arahan tajam agar kami berhenti menyasar calon pengantin (catin) dan ibu hamil umum, melainkan fokus 100% pada satu persona: Ibu dengan balita usia 6–24 bulan yang mengalami weight faltering (berat badan seret) atau berada di garis kuning KMS. Dari kacamata keperawatan anak dan riset disertasi S3 Ibu, apakah pembatasan segmen ini merupakan titik intervensi biologis yang paling tepat dan paling krusial untuk mencegah stunting permanen?"*
-* **Konteks & Rasionalitas:** Menjustifikasi keputusan pivot penajaman segmen dengan literatur kedokteran terkini.
-* **Target Insight:** Konfirmasi patofisiologi bahwa *growth faltering* pada usia 6–24 bulan adalah gerbang utama stunting yang masih bersifat reversibel (dapat dipulihkan).
-* **Probing:** *"Berapa lama rata-rata jendela waktu toleransi pemulihan berat badan (catch-up) sebelum kegagalan kenaikan BB anak berdampak permanen pada perlambatan panjang badan (linier growth arrest) dan retardasi kognitif?"*
-
-#### Pertanyaan B.4: Fenomena Gerakan Tutup Mulut (GTM) dan Masalah Perilaku Makan
-* **Redaksi Pertanyaan:**  
-  *"Berdasarkan pengalaman klinis dan pengamatan lapangan Ibu pada ibu-ibu balita, apa faktor pemicu utama anak mengalami GTM berkepanjangan pada usia 6–12 bulan? Apakah mayoritas murni karena kesalahan tekstur/rasa menu MPASI, kurangnya protein hewani, atau akibat infeksi subklinis (seperti ISPA berulang, anemia defisiensi besi, atau infeksi saluran kemih)?"*
-* **Konteks & Rasionalitas:** Menentukan apakah fitur Geny StuntCare cukup berfokus pada panduan resep menu atau harus menyertakan skrining gejala infeksi penyerta.
-* **Target Insight:** Pemetaan akar masalah GTM untuk dimasukkan ke dalam algoritma triase cerdas.
-* **Probing:** *"Bagaimana aplikasi digital dapat membedakan anak yang mogok makan karena 'fase perkembangan perilaku' biasa dengan anak yang mengalami anoreksia akibat penyakit kronis?"*
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER C: FORMULASI INTERVENSI NUTRISI MPASI BERBASIS PANGAN LOKAL                         │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan C.5: Standar Densitas Energi & Protein Hewani Pangan Lokal
-* **Redaksi Pertanyaan:**  
-  *"Salah satu nilai pembeda utama Geny StuntCare yang kami kembangkan adalah 'Personalized Action Plan MPASI Padat Kalori'. Kami ingin menghindari menu yang mahal atau sulit diakses warga. Berdasarkan riset nutrisi anak di Indonesia (khususnya komparasi wilayah Kalteng dan Jawa Timur), bahan pangan lokal hewani apa saja yang terbukti memiliki densitas protein dan asam amino esensial tertinggi, paling mudah diserap tubuh anak, namun harganya sangat terjangkau bagi keluarga miskin/menengah bawah?"*
-* **Konteks & Rasionalitas:** Mengisi basis data resep pada platform `genystuntcare.com` agar berbasis bukti saintifik nutrisi anak (*evidence-based pediatric nutrition*).
-* **Target Insight:** Daftar komoditas unggulan pangan lokal (misal: ikan gabus/haruan, lele, telur ayam ras, hati ayam) beserta rasio makronutrien ideal untuk balita *faltering*.
-* **Probing:** *"Bagaimana takaran penambahan lemak tambahan (seperti minyak kelapa, santan, atau minyak ayam) yang aman untuk mendongkrak kalori balita faltering tanpa memicu diare?"*
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER D: AUDIT INSTRUMEN WAWANCARA (76 PERTANYAAN) & ETHICAL CLEARANCE                   │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan D.6: Telaah Beban Psikologis & Bias Bahasa pada Kuesioner Wawancara
-* **Redaksi Pertanyaan:**  
-  *"Kami telah menyusun instrumen 76 pertanyaan wawancara lapangan (folder wawancara) untuk menggali kebutuhan ibu balita. Kami menerapkan prinsip larangan menyebut kata 'stunting' di awal wawancara untuk mencegah rasa malu/stigma. Dari sudut pandang etika penelitian keperawatan, bagaimana telaah Ibu terhadap sensitivitas pertanyaan seputar kepatuhan makan dan kondisi ekonomi? Adakah pertanyaan yang berpotensi memicu rasa bersalah (mom guilt) dan bagaimana kami harus memitigasinya?"*
-* **Konteks & Rasionalitas:** Memastikan kepatuhan etika penelitian dan melindungi kesejahteraan psikologis responden ibu balita.
-* **Target Insight:** Rekomendasi perbaikan redaksional kuesioner dan protokol empati saat wawancara mendalam.
-* **Probing:** *"Apa tanda-tanda non-verbal di lapangan yang menunjukkan bahwa ibu merasa dihakimi, dan bagaimana teknik probing yang elegan untuk mengembalikan rasa percaya responden?"*
-
-#### Pertanyaan D.7: Alur Pengajuan Kelaikan Etik (Ethical Clearance)
-* **Redaksi Pertanyaan:**  
-  *"Untuk keperluan validasi klinis platform dan publikasi ilmiah di jurnal internasional bereputasi, riset kami mensyaratkan persetujuan etik (Ethical Clearance). Bagaimana prosedur dan syarat pengajuan kelaikan etik melalui Komisi Etik Penelitian Kesehatan (KEPK) di institusi Ibu (Poltekkes Kemenkes) atau FK UB untuk pengujian intervensi aplikasi mHealth seperti Geny StuntCare?"*
-* **Konteks & Rasionalitas:** Mempersiapkan landasan hukum dan saintifik sebelum aplikasi diuji coba secara luas pada kelompok rentan.
-* **Target Insight:** Estimasi waktu pengurusan, biaya, dokumen proposal, serta lembar persetujuan (*Informed Consent*) yang disyaratkan KEPK.
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER E: KESEDIAAN MENJADI ADVISOR & RENCANA RISET KOLABORATIF                           │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan E.8: Permohonan Kesediaan Menjadi Dewan Penasihat Medis (Medical Advisor)
-* **Redaksi Pertanyaan:**  
-  *"Ibu Heti, sebagai bagian dari inkubasi Bandung Techno Park dan pengembangan platform ini menuju implementasi riil, kami sangat membutuhkan bimbingan pakar yang memiliki integritas ilmiah tinggi seperti Ibu. Apakah Ibu berkenan untuk bergabung sebagai Medical & Research Advisor resmi Geny StuntCare guna mengawal validitas model komputasi dan panduan nutrisi kami? Serta apakah terbuka peluang riset kolaboratif antara tim kami di Telkom University dengan Poltekkes Kemenkes Kalteng?"*
-* **Target Output:** Komitmen lisan/tertulis sebagai Scientific Advisor, membuka peluang *joint research* dan pengujian lapangan di Kalimantan Tengah.
+  *"Dalam [Buku Tugas Akhir](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/04_referensi_utama_2_buku_ta_stunting.md) kami mengenai stunting di 14 Kabupaten/Kota Kalimantan Tengah, kami menemukan kelemahan mendasar posyandu yang hanya mendiagnosis secara statis pada satu titik waktu. Kami merancang logika Fuzzy Sugeno yang membandingkan Panjang Badan Lahir (PBL) dengan kondisi saat pengukuran untuk membedakan balita 'catch-up growth' vs 'growth faltering'. Berdasarkan pengamatan klinis Ibu di Kalimantan Tengah, seberapa besar proporsi balita yang lahir dengan panjang normal namun mengalami 'growth faltering' drastis setelah memasuki usia MPASI (6–12 bulan)?"*
+* **Target Insight:** Konfirmasi klinis bahwa keterlambatan tumbuh di Kalteng mayoritas terjadi pada fase MPASI akibat kesalahan pola asuh/asupan, bukan murni faktor genetik bawaan.
 
 ---
 
-## 🩺 4. Panduan Pertanyaan untuk dr. Dewi Rama Dewa (POV Praktisi Klinis & Dinkes)
+### KLASTER B: Validasi Klinis Fokus Tunggal Balita Faltering 6–24 Bulan & GTM
 
-> **Fokus Utama:** Realitas psikologis pasien di meja praktik, deteksi GTM, alur birokrasi rujukan stunting (Puskesmas ➔ RSUD), interoperabilitas sistem kesehatan pemerintah (e-PPGBM/ASIK), dan strategi pitching kemitraan B2G Dinas Kesehatan.
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER A: REALITAS RUANG PERIKSA DOKTER & PERILAKU IBU BALITA                              │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan A.1: Hambatan Komunikasi Klinis & Resistensi Ibu Terhadap Stunting
+#### ❓ Pertanyaan B.3: Menjustifikasi Arahan Mentor BTP (Wulan Fitriani)
 * **Redaksi Pertanyaan:**  
-  *"Dokter Dewi, dalam pengalaman praktik sehari-hari berhadapan dengan orang tua, seberapa sering Ibu balita datang dengan kesadaran bahwa anaknya mengalami gagal tumbuh atau kurva KMS-nya mendatar? Mengapa di lapangan sangat sulit menemukan ibu yang secara jujur mengakui anaknya berisiko stunting? Bagaimana cara Dokter mengomunikasikan diagnosis faltering atau risiko stunting tanpa membuat ibu merasa tersinggung, takut, atau menutup diri?"*
-* **Konteks & Rasionalitas:** Mengatasi masalah validasi yang diidentifikasi Mentor Wulan Fitriani: ibu sulit ditemukan karena merasa anaknya tidak bermasalah.
-* **Target Insight:** Pola bahasa komunikasi medis (*clinical phrasing*) yang ramah pengguna untuk diadopsi pada notifikasi antarmuka Geny StuntCare.
-* **Probing:** *"Kata atau frasa apa yang terbukti paling bisa diterima oleh ibu saat diberitahu bahwa berat badan anaknya perlu dikejar, tanpa menggunakan istilah medis yang menakutkan?"*
+  *"Mentor BTP kami menginstruksikan agar Geny StuntCare berhenti melebar ke calon pengantin dan ibu hamil, melainkan fokus 100% pada satu persona: Ibu balita usia 6–24 bulan yang mengalami weight faltering (berat badan seret/tidak naik) atau garis kuning KMS. Apakah pembatasan segmen ini selaras dengan fokus intervensi keperawatan anak, dan mengapa periode 6–24 bulan ini disebut sebagai 'last golden window' sebelum kerusakan fisik stunting menjadi ireversibel?"*
+* **Target Insight:** Dasar teori patofisiologi untuk mempertahankan fokus produk pada Stage 1 Inkubasi.
+* **Probing:** *"Berapa bulan toleransi berat badan stagnan pada anak usia 6–12 bulan sebelum terjadi perlambatan laju panjang badan (linier growth arrest) yang memicu stunting?"*
 
-#### Pertanyaan A.2: Pola Perilaku Orang Tua Menghadapi GTM & Maraknya Suplemen Ilegal
+#### ❓ Pertanyaan B.4: Akar Penyebab Gerakan Tutup Mulut (GTM) Balita Kalteng
 * **Redaksi Pertanyaan:**  
-  *"Ketika balita mengalami GTM kronis dan berat badannya seret, apa yang biasanya dilakukan ibu sebelum akhirnya memutuskan datang ke dokter? Seberapa sering Dokter menemui ibu yang membeli vitamin penambah nafsu makan, madu penggemuk anak, atau jamu secara mandiri lewat media sosial tanpa resep? Apa bahaya medis dari perilaku ini, dan bagaimana aplikasi kami dapat mengedukasi ibu agar kembali ke intervensi makanan bergizi?"*
-* **Konteks & Rasionalitas:** Menguji pain point finansial orang tua yang membuang uang untuk suplemen tidak efektif.
-* **Target Insight:** Validasi bahwa suplemen bebas adalah *wrong alternative solution* yang sedang digunakan pasar, membuka celah nilai (*value proposition*) bagi Geny StuntCare.
-* **Probing:** *"Kapan sebuah suplemen seperti zat besi (Iron) atau Zinc mutlak diperlukan secara medis, dan kapan anak cukup diintervensi dengan modifikasi menu MPASI?"*
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER B: ALUR RUJUKAN RESMI STUNTING & TITIK SUMBATAN DI LAPANGAN (BOTTLENECK)           │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan B.3: Rekonstruksi Standar Operasional Alur Rujukan Stunting
-* **Redaksi Pertanyaan:**  
-  *"Dari sudut pandang Dinas Kesehatan, bagaimana Standar Operasional Prosedur (SOP) alur resmi penanganan balita stunting di desa dari hulu ke hilir? Mulai dari penemuan di Posyandu ➔ penanganan Bidan Desa ➔ evaluasi Dokter di Puskesmas ➔ Pemberian Makanan Tambahan Pemulihan (PMT Lokal / PKMK / F100) ➔ hingga rujukan ke Dokter Spesialis Anak (Sp.A) di RSUD? Di mana titik sumbatan (bottleneck) terbesar yang sering menyebabkan anak terlambat ditangani hingga usianya lewat 2 tahun?"*
-* **Konteks & Rasionalitas:** Memastikan fitur Geny StuntCare mendukung alur rujukan resmi Kemenkes dan tidak membuat "sistem tandingan" yang membingungkan kader.
-* **Target Insight:** Peta alur rujukan riil beserta titik-titik kegagalan eskalasi (misal: rujukan BPJS macet, kuota PKMK Puskesmas habis, ibu menolak dirujuk ke RS).
-* **Probing:** *"Mengapa program Pemberian Makanan Tambahan (PMT) lokal sering dilaporkan kurang efektif di lapangan? Apakah karena menu tidak disukai anak, tidak dimakan anak melainkan dimakan keluarga lain, atau masalah ketepatan sasaran?"*
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER C: SISTEM DIGITAL KEMENKES (e-PPGBM/ASIK) & ZERO-BURDEN DESIGN UNTUK NAKES          │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan C.4: Mengapa Tenaga Kesehatan Menolak Aplikasi Tambahan?
-* **Redaksi Pertanyaan:**  
-  *"Mentor kami mencatat bahwa tenaga kesehatan (nakes) dan kader posyandu di lapangan sering menolak keras kehadiran aplikasi baru karena sudah sangat kelelahan dengan sistem wajib pemerintah (seperti e-PPGBM, ASIK, SatuSehat, dan Simpus). Bagaimana kondisi riil beban entri data kader dan bidan saat ini di dinas kesehatan? Menurut Dokter, bagaimana posisi terbaik Geny StuntCare agar tidak menjadi beban kerja baru, melainkan menjadi alat bantu yang meringankan pekerjaan mereka?"*
-* **Konteks & Rasionalitas:** Menyelesaikan dilema desain pengguna: Geny StuntCare dirancang untuk keluarga, bukan menambah beban nakes.
-* **Target Insight:** Konfirmasi batasan integrasi sistem. Nakes hanya sebagai penerima laporan ringkas atau validator rujukan, bukan operator input data harian.
-* **Probing:** *"Jika aplikasi kami menyediakan fitur ekspor rekapitulasi data balita berisiko dalam format standar Excel/CSV yang sesuai dengan kolom e-PPGBM, apakah itu akan disambut positif oleh kader dan puskesmas?"*
-
-#### Pertanyaan C.5: Kepatuhan Standar SatuSehat & Rekam Medis Elektronik (RME)
-* **Redaksi Pertanyaan:**  
-  *"Seiring dengan mandat transformasi digital Kemenkes melalui platform SatuSehat, apa standar regulasi dan interoperabilitas yang harus dipersiapkan startup kesehatan swasta agar suatu saat datanya dapat disinkronkan dengan rekam medis puskesmas atau klinik pratama? Apa batasan data yang boleh diakses dan wajib dijaga kerahasiaannya?"*
-* **Target Insight:** Gambaran teknis integrasi HL7 FHIR SatuSehat Kemenkes dan aturan perlindungan kerahasiaan rekam medis balita.
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER D: STRATEGI PITCHING & KEMITRAAN B2G DINAS KESEHATAN                               │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan D.6: Masalah Terbesar Kepala Dinas Kesehatan Terkait Stunting
-* **Redaksi Pertanyaan:**  
-  *"Jika tim kami ingin beraudiensi dengan pimpinan Dinas Kesehatan (misal di Jawa Timur atau Kalimantan Tengah), cara pendekatan apa yang paling elegan? Masalah apa yang saat ini paling membuat Kepala Dinas Kesehatan pusing terkait indikator stunting (apakah angka prevalensi yang tidak kunjung turun, data D/S penimbangan yang rendah, atau anggaran penanganan stunting yang sulit dipertanggungjawabkan efektivitasnya)?"*
-* **Konteks & Rasionalitas:** Menerapkan nasihat mentor: datang ke Dinkes dengan mendengarkan masalah mereka, bukan langsung menjual software.
-* **Target Insight:** Rumusan *pain point* birokrasi pemerintah daerah yang dapat diselesaikan oleh analitik Geny StuntCare.
-* **Probing:** *"Metrik apa yang paling dicari oleh Dinkes untuk membuktikan ke pimpinan daerah (Bupati/Walikota) bahwa intervensi stunting mereka berhasil?"*
-
-#### Pertanyaan D.7: Jalur Anggaran Legal untuk Pilot Project di Faskes Daerah
-* **Redaksi Pertanyaan:**  
-  *"Pos anggaran apa di tingkat pemerintah daerah atau puskesmas yang secara regulasi legal dan memungkinkan untuk mendanai uji coba (pilot project) atau adopsi teknologi kesehatan digital pencegahan stunting? Apakah memungkinkan melalui Bantuan Operasional Kesehatan (BOK) Puskesmas, Dana Bagi Hasil Cukai Tembakau (DBHCT), atau pos DAK Non-Fisik?"*
-* **Target Insight:** Pemetaan skema penganggaran pemerintah untuk kelayakan model bisnis B2G Geny StuntCare di Stage 2 Inkubasi.
+  *"Dalam riset dan pengabdian masyarakat Ibu terkait Kelompok Pendukung ASI (KP-ASI) di Palangka Raya, apa faktor pemicu utama balita mengalami GTM parah saat masa transisi MPASI? Apakah lebih dominan akibat defisiensi zat besi subklinis (anemia), tekstur yang tidak sesuai tahapan usia, atau menu yang monoton tanpa protein hewani yang memadai?"*
+* **Target Insight:** Variabel skrining tambahan pada platform untuk membedakan GTM psikologis biasa vs GTM patologis akibat penyakit.
 
 ---
 
-## 💼 5. Panduan Pertanyaan untuk Bapak Setyohadi (POV Eksekutif Telkom Group & Scaling)
+### KLASTER C: Intervensi Menu MPASI Berbasis Pangan Lokal Kalimantan Tengah
 
-> **Fokus Utama:** Kemitraan strategis Telkom Group (Yakes, TJSL/CSR), model bisnis B2B/B2G yang *sustainable*, arsitektur cloud terenkripsi & kepatuhan UU PDP, milestone kelulusan inkubasi BTP, dan pemanfaatan jejaring korporat.
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER A: SINERGI EKOSISTEM TELKOM GROUP & YAYASAN KESEHATAN TELKOM (YAKES)                │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan A.1: Pintu Masuk Kemitraan dengan Yakes Telkom
+#### ❓ Pertanyaan C.5: Pemanfaatan Ikan Sungai & Pangan Lokal Kalteng untuk Catch-Up Growth
 * **Redaksi Pertanyaan:**  
-  *"Pak Setyohadi, dalam dokumen action plan validasi masalah kami, kami menargetkan Yayasan Kesehatan Telkom (Yakes) sebagai mitra validasi ahli dan potensial partner faskes. Berdasarkan pengalaman Bapak di Telkom Group, bagaimana tata kelola dan pintu masuk yang paling tepat untuk menjajaki pilot project pemantauan tumbuh kembang anak karyawan Telkom di klinik-klinik Yakes? Siapa divisi pengambil keputusan yang harus kami temui terlebih dahulu?"*
-* **Konteks & Rasionalitas:** Mengubah rencana uji ahli Yakes di dokumen SLR-1 menjadi aksi nyata berbiaya rendah dan berdaya ungkit tinggi.
-* **Target Insight:** Jalur birokrasi internal Telkom, pengenalan ke pengambil keputusan Yakes Telkom atau Divisi Human Capital Telkom.
-* **Probing:** *"Apakah di Telkom Group saat ini terdapat inisiatif 'Wellbeing & Family Healthcare' untuk karyawan muda yang memiliki balita yang dapat disinergikan dengan platform kami?"*
-
-#### Pertanyaan A.2: Skema Pendanaan TJSL/CSR BUMN Penanganan Stunting
-* **Redaksi Pertanyaan:**  
-  *"BUMN saat ini memiliki program prioritas Tanggung Jawab Sosial dan Lingkungan (TJSL) untuk percepatan penurunan stunting nasional. Bagaimana mekanisme startup binaan kampus Telkom University dapat berkolaborasi dengan program CSR Telkom Group atau Satgas Stunting BUMN? Format proposal seperti apa yang dinilai akuntabel dan menarik bagi pengelola dana TJSL Telkom?"*
-* **Konteks & Rasionalitas:** Solusi atas rendahnya daya beli B2C keluarga miskin stunting: korporat bertindak sebagai *payer* (pembayar) melalui dana CSR, sementara warga menjadi *user*.
-* **Target Insight:** Peluang pengajuan dana hibah implementasi/pilot project desa binaan Telkom (misal desa binaan di Jawa Timur atau Jawa Barat).
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER B: VALIDASI MODEL BISNIS ENTERPRISE & SKALABILITAS FINANSIAL                        │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan B.3: Model Bisnis B2G vs B2B untuk Pasar Kesehatan Piramida Bawah
-* **Redaksi Pertanyaan:**  
-  *"Hasil riset crawling dan lapangan kami menunjukkan fenomena 'Tahu Tapi Tidak Mampu': keluarga yang berisiko tinggi stunting justru berada di kuintil ekonomi terbawah yang tidak sanggup membayar biaya langganan aplikasi bulanan (B2C paywall). Dari kacamata enterprise sales Telkom, model bisnis apa yang paling tangguh untuk platform semacam ini? Apakah model B2G lisensi per desa/puskesmas, atau B2B ke perusahaan perkebunan/tambang yang wajib mengurus kesehatan warga sekitar konsesi?"*
-* **Konteks & Rasionalitas:** Mencegah kegagalan model monetisasi sebelum masuk ke tahap pembuatan MVP final (SRL-3 & SRL-5).
-* **Target Insight:** Rekomendasi struktur penetapan harga (*pricing model*), kontrak tahunan B2G vs B2B, dan unit economics yang realistis.
-* **Probing:** *"Berapa kisaran harga per lisensi puskesmas atau per desa yang dinilai wajar dan tidak memberatkan pos anggaran daerah?"*
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER C: ARSITEKTUR CLOUD, KEAMANAN DATA SENSITIF & KEPATUHAN UU PDP                      │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan C.4: Kepatuhan UU Pelindungan Data Pribadi (UU PDP) & Data Anak
-* **Redaksi Pertanyaan:**  
-  *"Platform Geny StuntCare menyimpan data sensitif: rekam pertumbuhan antropometri balita, foto kondisi anak, dan profil ekonomi keluarga. Mengingat UU Pelindungan Data Pribadi (UU PDP) nomor 27 tahun 2022 memberikan perlindungan sangat ketat terhadap data anak dan data kesehatan spesifik, standar arsitektur cloud, enkripsi, dan data sovereignty seperti apa yang wajib kami siapkan? Apakah startup seperti kami dapat memanfaatkan fasilitas cloud/data center Telkom (seperti NeuCentrIX) dengan skema inkubasi?"*
-* **Konteks & Rasionalitas:** Memastikan kepatuhan hukum penuh terhadap keamanan data medis sebelum meluncurkan versi produksi komersial.
-* **Target Insight:** Kebutuhan sertifikasi (ISO 27001), enkripsi database (AES-256), serta program dukungan kredit cloud bagi startup binaan Telkom.
-* **Probing:** *"Dokumen kebijakan privasi dan persetujuan orang tua (parental consent) seperti apa yang wajib ada di aplikasi agar terhindar dari sanksi hukum di masa depan?"*
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ KLASTER D: NAVIGASI PROGRAM INKUBASI BTP & TAHAPAN VENTURE ACCELERATION                    │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-#### Pertanyaan D.5: Ekspektasi Komite Reviewer BTP & Standar Kelulusan Stage 1
-* **Redaksi Pertanyaan:**  
-  *"Sebagai startup binaan Bandung Techno Park yang sedang menyelesaikan Stage 1 (Problem Validation), menurut pandangan Bapak, apa bukti paling kuat yang harus ditunjukkan oleh tim founder untuk meyakinkan komite reviewer dan calon investor bahwa masalah yang kami angkat benar-benar tervalidasi? Apakah komitmen Letter of Intent (LoI) dari faskes, traksi awal ratusan pengguna aktif, atau pembuktian retensi penggunaan?"*
-* **Konteks & Rasionalitas:** Memastikan tim fokus menghasilkan *deliverables* yang dinilai tinggi saat sesi *evaluation pitching* Stage 1 BTP.
-* **Target Insight:** Kriteria penilaian komite juri Telkom/BTP dan tips mengamankan pendanaan lanjutan ke Stage 2 dan Stage 3.
-* **Probing:** *"Kesalahan paling umum apa yang sering Bapak lihat pada startup berbasis riset mahasiswa/dosen saat mempresentasikan produk ke jajaran eksekutif korporat?"*
-
-#### Pertanyaan D.6: Pemanfaatan Jaringan & Rekomendasi Ekosistem
-* **Redaksi Pertanyaan:**  
-  *"Pak Setyohadi, dengan jaringan luas yang Bapak miliki di lingkungan Telkom Group dan ekosistem bisnis digital, apakah Bapak bersedia menjadi Business & Strategic Advisor bagi Geny StuntCare? Serta adakah pihak di jajaran Telkom Regional (misal Jawa Timur) atau mitra CSR yang dapat Bapak hubungkan dengan kami untuk uji coba awal lapangan?"*
-* **Target Output:** Komitmen sebagai Business Advisor, perkenalan ke jejaring Witel/Regional Telkom atau pengelola program CSR stunting.
+  *"Diferensiasi utama Geny StuntCare adalah menyediakan 'Personalized Action Plan MPASI Padat Kalori'. Di Kalimantan Tengah dengan kekayaan daerah aliran sungai (DAS Kahayan, Kapuas, Barito), komoditas ikan air tawar lokal apa (seperti ikan gabus/haruan, seluang, baung, atau patin) yang memiliki densitas albumin, protein, dan bioavailabilitas tertinggi untuk memulihkan balita faltering? Bagaimana formulasi takaran lemak tambahan lokal yang aman agar tidak memicu gangguan pencernaan pada balita?"*
+* **Target Insight:** Resep terstandar berbasis kearifan lokal Kalteng yang dapat langsung dimasukkan ke dalam basis data aplikasi.
 
 ---
 
-## 🌟 6. Matriks Pertanyaan Sintesis Lintas Sektor (Cross-Domain Synthesis)
+### KLASTER D: Kelaikan Etik (Ethical Clearance) & Permohonan Sebagai Advisor
 
-Pertanyaan-pertanyaan ini diajukan pada sesi diskusi terbuka (*open forum*) di mana ketiga pakar hadir bersama, guna memicu kolaborasi lintas keahlian:
+#### ❓ Pertanyaan D.6: Prosedur Ethical Clearance di KEPK Poltekkes Palangka Raya
+* **Redaksi Pertanyaan:**  
+  *"Untuk memastikan platform kami memenuhi standar etika medis sebelum diuji coba pada keluarga balita dan dipublikasikan secara internasional, kami membutuhkan Ethical Clearance. Bagaimana alur pengajuan persetujuan etik melalui KEPK di Poltekkes Kemenkes Palangka Raya atau FK UB untuk aplikasi intervensi gizi mHealth seperti Geny StuntCare?"*
+* **Target Insight:** Jadwal sidang etik, syarat berkas, dan estimasi waktu terbitnya sertifikat etik.
 
-```mermaid
-flowchart TD
-    Q1["PERTANYAAN SINTESIS 1: DILEMA PENGUKURAN DI POSYANDU<br>Human Error Timbangan vs Kebutuhan Data Presisi AI"]
-    Q2["PERTANYAAN SINTESIS 2: EKOSISTEM INTERVENSI BERKELANJUTAN<br>Sinergi Pangan Lokal (Medis) + Anggaran B2G/CSR (Korporat) + AI Tracking"]
-    Q3["PERTANYAAN SINTESIS 3: SUSTAINABILITY & LEGAL ENTITY<br>Bentuk Badan Usaha Startup Sosial vs Kemitraan Institusi Pemerintah"]
-```
-
-1. **Sintesis Medis vs Komputasi (Heti Ira Ayue $\leftrightarrow$ dr. Dewi Rama Dewa):**  
-   *"Timbangan posyandu di lapangan terkenal memiliki variasi tinggi (dacin vs timbangan digital klinik). Jika orang tua menimbang mandiri di rumah atau posyandu dengan deviasi $\pm 300\text{ gram}$, bagaimana model AI kami harus mentoleransi noise data ini agar tidak memicu alarm palsu (false alarm) yang membuat ibu panik atau dokter kewalahan menerima rujukan yang salah?"*
-2. **Sintesis Medis vs Bisnis (Heti Ira Ayue $\leftrightarrow$ Bpk. Setyohadi):**  
-   *"Ibu Heti meriset bahan pangan lokal unggulan padat kalori, sementara Pak Setyohadi memahami rantai pasok dan CSR korporat. Mungkinkah Geny StuntCare tidak hanya merekomendasikan resep di aplikasi, tetapi bermitra dengan UMKM pangan lokal atau BUMN Pangan untuk menyalurkan paket bahan mentah MPASI terstandar melalui pendanaan CSR?"*
-3. **Sintesis Birokrasi vs Enterprise (dr. Dewi Rama Dewa $\leftrightarrow$ Bpk. Setyohadi):**  
-   *"dr. Dewi memahami bagaimana anggaran stunting berputar di APBD/BOK, sementara Pak Setyohadi memahami kontrak pengadaan teknologi skala B2G. Bagaimana format penawaran kerja sama tripartit (Startup Telkom University + Dinas Kesehatan + Telkom Group) yang secara hukum paling aman dari audit BPK dan menguntungkan kedua belah pihak?"*
+#### ❓ Pertanyaan D.7: Permohonan Resmi Bergabung Sebagai Scientific & Clinical Advisor
+* **Redaksi Pertanyaan:**  
+  *"Prof. Heti, riset ini berakar dari data mikro yang Ibu perjuangkan aksesnya dan penelitian Tugas Akhir balita Kalteng. Dalam proses inkubasi di Bandung Techno Park, kami sangat memohon kesediaan Ibu untuk menjadi Scientific & Clinical Advisor resmi Geny StuntCare guna mengawal integritas ilmiah produk ini. Apakah Ibu berkenan mendampingi kami?"*
+* **Target Output:** Komitmen kesediaan menjadi penasihat ilmiah resmi startup.
 
 ---
 
-## ⏱️ 7. Protokol Eksekusi Rapat & Manajemen Waktu (Timeboxing)
-
-Untuk memastikan rapat berjalan dinamis, profesional, dan seluruh poin penting terjawab dalam durasi **75–90 menit**, gunakan struktur pembagian waktu berikut:
-
-| Sesi | Durasi | Alokasi Waktu | Aktivitas & Sasaran Utama | Penanggung Jawab |
-| :---: | :---: | :---: | :--- | :--- |
-| **I** | **5 Menit** | 00.00 – 00.05 | **Pembukaan & Salam Hormat:** Pengenalan singkat profil tim Geny StuntCare, apresiasi kehadiran para pakar, dan penegasan tujuan pertemuan (meminta arahan ahli, bukan berjualan). | Gerrard Sebastian |
-| **II** | **7 Menit** | 00.05 – 00.12 | **Elevator Pitch Masalah (Anti-Pitching):** Memaparkan temuan Paper GENY, Buku TA Kalteng, masukan Mentor BTP Wulan Fitriani, dan fokus ke balita *faltering* 6–24 bulan. | Gerrard Sebastian |
-| **III** | **25 Menit** | 00.12 – 00.37 | **Penyelaman Sesi 1: Heti Ira Ayue (Saintifik & Klinis):** Membedah Klaster A s.d. E (Model SKI, GTM, Pangan Lokal, KEPK). | Tim & Heti Ira Ayue |
-| **IV** | **25 Menit** | 00.37 – 01.02 | **Penyelaman Sesi 2: dr. Dewi Rama Dewa (Praktik & Dinkes):** Membedah Klaster A s.d. D (Psikologi Pasien, Alur Rujukan, e-PPGBM, Pitching Dinkes). | Tim & dr. Dewi Rama Dewa |
-| **V** | **20 Menit** | 01.02 – 01.22 | **Penyelaman Sesi 3: Bapak Setyohadi (Telkom & Enterprise):** Membedah Klaster A s.d. D (Yakes, CSR, Model Bisnis, UU PDP, Inkubasi BTP). | Tim & Bpk. Setyohadi |
-| **VI** | **8 Menit** | 01.22 – 01.30 | **Diskusi Terbuka Sintesis & Permohonan Komitmen:** Mengajukan pertanyaan triangulasi, merangkum poin konsensus, dan meminta kesediaan resmi bergabung sebagai Dewan Penasihat (*Advisory Board*). | Seluruh Peserta |
-
-### Aturan Emas Pertemuan (*Golden Rules of Engagement*):
-1. **Prinsip 80/20:** Tim berbicara maksimal 20% waktu. Biarkan ketiga pakar mengekspresikan pandangan, kritik, dan pengalaman mereka sebanyak 80% waktu.
-2. **Catat Verbatim & Rekam:** Seluruh kutipan emosional, istilah birokrasi, dan saran medis wajib dicatat secara harfiah (*verbatim*) atau direkam atas persetujuan para pakar.
-3. **Dilarang Bersikap Defensif:** Jika ada aspek teknologi atau model bisnis yang dikritik tajam oleh pakar, jangan berdebat. Catat kritik tersebut sebagai risiko validasi (*validation risk*) yang berharga.
+## 🩺 5. Panduan Pertanyaan untuk dr. Dewi Rama Dewa, M.Kes.
+*(POV: Kabid Kesmas Dinkes Kota Palangka Raya, Surveyor Akreditasi Puskesmas, & Praktisi Dokter)*
 
 ---
 
-## 📋 8. Matriks Kebutuhan Proyek (*Project Needs Checklist*)
+### KLASTER A: Realitas Kebijakan Stunting Kota Palangka Raya & Ruang Periksa
 
-Gunakan lembar kendali berikut saat rapat berlangsung untuk memastikan tidak ada celah informasi yang terlewat:
+#### ❓ Pertanyaan A.1: Peta Riil Stunting & Pencapaian D/S di Kota Palangka Raya
+* **Redaksi Pertanyaan:**  
+  *"Dokter Dewi, selaku Kepala Bidang Kesmas Dinas Kesehatan Kota Palangka Raya, bagaimana potret riil situasi stunting di wilayah Palangka Raya saat ini (antara data survei SKI dengan data pencatatan rutin e-PPGBM Puskesmas)? Puskesmas mana di Palangka Raya (misal Pahandut, Jekan Raya, Menteng, atau Kereng Bangkirai) yang memiliki tantangan angka stunting atau tingkat partisipasi penimbangan posyandu (D/S) paling menantang?"*
+* **Konteks & Rasionalitas:** Mengidentifikasi calon lokus *pilot project* di Kota Palangka Raya.
+* **Target Insight:** Data baseline riil kecamatan sasaran dan peta masalah operasional posyandu kota.
 
-| Komponen Kebutuhan Proyek | Target Temuan dari Pertemuan | Status Verifikasi | Ahli Terkait |
-| :--- | :--- | :---: | :---: |
-| **Validasi Model AI (Paper GENY)** | Kepastian apakah model pohon CART cukup andal tanpa data laboratorium | [ ] Terjawab | Heti Ira Ayue |
-| **Definisi Klinis Weight Faltering** | Kriteria batas penurunan berat badan sebelum intervensi wajib dimulai | [ ] Terjawab | Heti Ira Ayue / dr. Dewi |
-| **Formula Menu MPASI Lokal** | Daftar 3 komoditas protein hewani lokal termurah & paling padat nutrisi | [ ] Terjawab | Heti Ira Ayue |
-| **Penanganan Psikologis Ibu GTM** | Kalimat komunikasi non-menghakimi untuk antarmuka aplikasi | [ ] Terjawab | dr. Dewi Rama Dewa |
-| **Titik Hambatan Rujukan Puskesmas** | Alasan mengapa rujukan balita stunting sering gagal di lapangan | [ ] Terjawab | dr. Dewi Rama Dewa |
-| **Format Laporan Ekspor Nakes** | Format tabel rekap yang disukai nakes agar aplikasi bersifat *zero-burden* | [ ] Terjawab | dr. Dewi Rama Dewa |
-| **Pintu Masuk Pilot Project Yakes** | Nama divisi atau PIC di Yakes Telkom untuk pengajuan proposal uji coba | [ ] Terjawab | Bapak Setyohadi |
-| **Model Penetapan Harga B2G/CSR** | Angka acuan biaya lisensi per desa/faskes yang realistis diserap anggaran | [ ] Terjawab | Bapak Setyohadi |
-| **Kepatuhan Regulasi UU PDP** | Ketentuan enkripsi data anak dan lokasi server lokal (NeuCentrIX) | [ ] Terjawab | Bapak Setyohadi |
-| **Komitmen Dewan Penasihat** | Kesediaan minimal 2 dari 3 pakar menjadi Advisor resmi Geny StuntCare | [ ] Terjawab | Semua Pakar |
+#### ❓ Pertanyaan A.2: Psikologi Orang Tua & Stigma Menghadiri Posyandu
+* **Redaksi Pertanyaan:**  
+  *"Di ruang periksa dokter maupun saat monev posyandu, mengapa masih banyak ibu balita di perkotaan Palangka Raya yang enggan membawa anaknya ke posyandu atau merasa malu saat anaknya dinyatakan kurang gizi / garis kuning KMS? Bagaimana dokter mengomunikasikan diagnosis gagal tumbuh agar ibu tidak merasa dihakimi, dan bagaimana antarmuka aplikasi Geny StuntCare harus menyusun kata-kata notifikasi agar memotivasi ibu tanpa menimbulkan stigma?"*
+* **Target Insight:** Standar bahasa komunikasi medis (*empathic clinical phrasing*) untuk teks UI/UX aplikasi.
+
+---
+
+### KLASTER B: Alur Rujukan Resmi Stunting di Lapangan & Titik Sumbatan (Bottleneck)
+
+#### ❓ Pertanyaan B.3: Di Mana Titik Putus Rujukan Balita Berisiko di Faskes Palangka Raya?
+* **Redaksi Pertanyaan:**  
+  *"Bagaimana SOP alur resmi rujukan penanganan balita faltering/stunting di Kota Palangka Raya: mulai dari penemuan kader di Posyandu ➔ pemeriksaan Bidan Kelurahan ➔ evaluasi Dokter di Puskesmas ➔ pemberian PMT Pemulihan/PKMK ➔ rujukan ke Dokter Spesialis Anak (Sp.A) di RSUD Doris Sylvanus atau RSUD Kota Palangka Raya? Di mana titik sumbatan (bottleneck) terbesar yang sering membuat penanganan balita terlambat?"*
+* **Target Insight:** Pemetaan titik rujukan yang putus (misal: orang tua menolak rujukan RS karena kendala transportasi/biaya hidup, stok pangan olahan untuk keperluan medis khusus / PKMK di puskesmas kosong).
+* **Probing:** *"Bagaimana Geny StuntCare dapat menjadi 'jembatan pengingat' bagi ibu agar patuh menyelesaikan rujukan puskesmas hingga tuntas?"*
+
+---
+
+### KLASTER C: Zero Data-Entry Burden untuk Tenaga Kesehatan & Integrasi Puskesmas
+
+#### ❓ Pertanyaan C.4: Menghilangkan Beban Tambahan Nakes dan Kader Posyandu
+* **Redaksi Pertanyaan:**  
+  *"Mentor inkubasi kami menekankan bahwa nakes menolak aplikasi baru karena sudah sangat kelelahan menginput data ke e-PPGBM, ASIK Kemenkes, dan Simpus. Selaku Kabid Kesmas, bagaimana kami harus mendesain Geny StuntCare agar sama sekali TIDAK MEMBEBANI nakes? Jika aplikasi kami fokus digunakan mandiri oleh ibu balita di rumah, lalu menyediakan tombol 'Ekspor Rekap Laporan Bulanan' yang format tabelnya sudah persis sesuai kolom e-PPGBM Puskesmas, apakah inovasi ini akan sangat membantu meringankan kerja kader dan bidan?"*
+* **Target Insight:** Validasi prinsip *Zero Data-Entry Burden*: nakes hanya sebagai penerima manfaat data terstruktur, bukan operator penginput data.
+
+#### ❓ Pertanyaan C.5: Sudut Pandang Surveyor Akreditasi Puskesmas Kemenkes
+* **Redaksi Pertanyaan:**  
+  *"Sebagai seorang Surveyor Akreditasi Puskesmas Kemenkes, instrumen penilaian akreditasi pada bab Upaya Kesehatan Masyarakat (UKM) sangat menekankan inovasi penurunan stunting dan kepuasan masyarakat. Apakah kehadiran inovasi mHealth seperti Geny StuntCare di wilayah kerja puskesmas dapat menjadi nilai tambah (poin inovasi) yang mendongkrak penilaian akreditasi Puskesmas menjadi Paripurna?"*
+* **Target Insight:** Nilai jual strategis (*selling point*) bagi Kepala Puskesmas untuk mau mengadopsi Geny StuntCare.
+
+---
+
+### KLASTER D: Peluang Pilot Project & Kemitraan Dinas Kesehatan Kota Palangka Raya
+
+#### ❓ Pertanyaan D.6: Skema Pilot Project Kemitraan Dinkes Palangka Raya
+* **Redaksi Pertanyaan:**  
+  *"Dokter Dewi, jika kami ingin mengajukan Kota Palangka Raya sebagai Lokus Pilot Project Resmi Geny StuntCare (misal di 1 kelurahan atau 1 wilayah kerja puskesmas terpadat), bagaimana mekanisme birokrasi dan administrasi yang harus kami tempuh di Dinas Kesehatan? Apakah memungkinkan dibuatkan Perjanjian Kerja Sama (PKS) atau uji coba inovasi daerah?"*
+* **Target Insight:** Prosedur audiensi resmi, dokumen proposal inovasi, dan syarat persetujuan Kepala Dinas Kesehatan.
+
+---
+
+## 💼 6. Panduan Pertanyaan untuk Bapak Setyohadi
+*(POV: Senior Executive Telkom Group, Pakar Enterprise Sales, CSR Scaling, & Suami dr. Dewi Rama Dewa)*
+
+---
+
+### KLASTER A: Sinergi CSR BUMN & Solusi Finansial Keluarga Menengah-Bawah
+
+#### ❓ Pertanyaan A.1: Skema Pendanaan TJSL/CSR BUMN untuk Pilot Project Stunting
+* **Redaksi Pertanyaan:**  
+  *"Pak Setyohadi, hasil riset kami menemukan paradoks bahwa keluarga berisiko stunting terbanyak berada di kalangan menengah-bawah yang tidak sanggup membayar biaya langganan aplikasi bulanan (B2C paywall). Sebagai eksekutif Telkom Group, bagaimana mekanisme mengawinkan kebutuhan Dinkes Kota Palangka Raya (yang dipimpin dr. Dewi) dengan program Tanggung Jawab Sosial dan Lingkungan (TJSL/CSR) Telkom atau BUMN Peduli Stunting? Format proposal dan KPI seperti apa yang dicari oleh unit TJSL Telkom agar bersedia membiayai pengadaan lisensi/paket intervensi Geny StuntCare bagi warga miskin?"*
+* **Konteks & Rasionalitas:** Memanfaatkan posisi unik pasangan suami-istri untuk merancang pilot project terpadu: **Dinkes menyediakan lokus & nakes, Telkom TJSL mendanai operasional/gawai/pangan, Geny StuntCare menyediakan sistem monitoring AI**.
+* **Target Insight:** Skema penganggaran CSR BUMN, metrik *Social Return on Investment (SROI)*, dan alur disposisi proposal ke Telkom Community Development Center (CDC).
+
+#### ❓ Pertanyaan A.2: Pintu Masuk Kolaborasi dengan Yakes Telkom
+* **Redaksi Pertanyaan:**  
+  *"Di action plan SLR-1, kami merencanakan pengujian ahli dengan Yayasan Kesehatan Telkom (Yakes). Bagaimana tata kelola kemitraan korporat di Telkom Group untuk menguji coba platform ini pada klinik Yakes Telkom (khususnya memantau balita karyawan Telkom di Kalimantan atau Jawa Timur)? Siapa pejabat kunci di Yakes yang paling tepat kami mintai audiensi awal?"*
+* **Target Insight:** Kontak atau jalur disposisi ke pimpinan Yakes Telkom untuk validasi B2B corporate wellness.
+
+---
+
+### KLASTER B: Infrastruktur Jaringan Pedalaman Kalteng & Keamanan Data (UU PDP)
+
+#### ❓ Pertanyaan B.3: Arsitektur Offline-First Menghadapi Blank Spot Kalimantan
+* **Redaksi Pertanyaan:**  
+  *"Berdasarkan pengalaman Bapak memimpin pemasaran dan operasional Telkom di wilayah Kalimantan Tengah dan Timur, disparitas sinyal telekomunikasi antar-kecamatan masih menjadi tantangan nyata. Bagaimana platform kami harus mempersiapkan arsitektur teknologi agar tetap dapat digunakan ibu di wilayah perkebunan atau pinggiran sungai yang minim sinyal? Apakah arsitektur lokal-database (offline-first) dengan sinkronisasi otomatis saat mendeteksi jaringan 4G Telkomsel dinilai paling feasible secara teknis?"*
+* **Target Insight:** Validasi kebutuhan teknis arsitektur *offline-first sync* untuk implementasi luar Jawa.
+
+#### ❓ Pertanyaan B.4: Standar Keamanan Data Anak & Kepatuhan UU PDP No. 27/2022
+* **Redaksi Pertanyaan:**  
+  *"Platform Geny StuntCare mengelola data rekam pertumbuhan balita dan profil keluarga rentan. Dari standar enterprise Telkom dan regulasi UU Pelindungan Data Pribadi (UU PDP), sertifikasi keamanan data, enkripsi, dan tata kelola cloud lokal (seperti NeuCentrIX Telkom) apa yang wajib kami siapkan sejak tahap awal agar tidak tersandung masalah hukum saat scaling skala nasional?"*
+* **Target Insight:** Checklist kepatuhan UU PDP untuk data medis anak balita dan rekomendasi fasilitas inkubasi cloud Telkom.
+
+---
+
+### KLASTER C: Navigasi Inkubasi BTP & Permohonan Sebagai Business Advisor
+
+#### ❓ Pertanyaan C.5: Standar Pembuktian Traction di Mata Reviewer Inkubasi BTP
+* **Redaksi Pertanyaan:**  
+  *"Sebagai bagian dari keluarga besar Telkom Group dan ekosistem Telkom University, menurut Bapak, bukti traksi dan validasi seperti apa yang paling dicari oleh komite reviewer Bandung Techno Park di akhir Stage 1? Apakah Letter of Intent (LoI) kerja sama dari Dinas Kesehatan Kota Palangka Raya sudah cukup menjadi bukti validasi pasar yang sangat kuat untuk meloloskan kami ke Stage 2?"*
+* **Target Insight:** Strategi memenangkan evaluasi reviewer inkubasi BTP dan kriteria penilaian kelayakan investasi lanjutan.
+
+#### ❓ Pertanyaan C.6: Permohonan Kesediaan Menjadi Business & Strategic Advisor
+* **Redaksi Pertanyaan:**  
+  *"Pak Setyohadi, kami sangat membutuhkan arahan bisnis dan bimbingan kepemimpinan dari sosok senior Telkom Group seperti Bapak. Apakah Bapak berkenan menjadi Business & Strategic Advisor resmi bagi Geny StuntCare untuk mendampingi kami mematangkan model enterprise B2G dan scaling korporat?"*
+* **Target Output:** Komitmen kesediaan menjadi penasihat bisnis resmi startup.
+
+---
+
+## 🌟 7. Skenario Emas Forum Terbuka: Kemitraan Tripartit Palangka Raya
+
+Pada sesi diskusi bersama (15 menit terakhir), ajukan **Pertanyaan Kunci Tripartit** berikut yang menyatukan peran ketiga pakar:
+
+> 💬 **Pertanyaan Emas Forum Bersama (The Grand Palangka Raya Pilot Scenario):**  
+> *"Ibu Heti, Dokter Dewi, dan Pak Setyohadi—kami melihat sebuah peluang kolaborasi bersejarah yang luar biasa. Jika kita menyatukan keahlian ketiga tokoh di ruangan ini:  
+> 1. **Prof. Heti (Poltekkes Kemenkes / UB)** memimpin validasi protokol klinis gizi dan mengawal pengurusan Ethical Clearance;  
+> 2. **dr. Dewi (Dinkes Kota Palangka Raya)** membuka lokus Puskesmas percontohan dan mengintegrasikan alur rujukan kader di Kota Palangka Raya;  
+> 3. **Pak Setyohadi (Telkom Group)** memfasilitasi dukungan infrastruktur cloud terenkripsi dan menjembatani akses pendanaan CSR BUMN;  
+> Sementara **Geny StuntCare (Telkom University / BTP)** menyediakan mesin teknologi AI dan aplikasi mobile-nya...  
+> **Apakah kita bisa merumuskan sebuah Pilot Project Resmi Penurunan Stunting Berbasis AI di Kota Palangka Raya sebagai percontohan nasional pertama hasil sinergi Pemda, Kampus, dan BUMN?** Langkah konkrit apa yang harus tim kami persiapkan dalam 2 minggu ke depan untuk mewujudkan inisiatif ini?"*
+
+---
+
+## ⏱️ 8. Rundown Waktu & Manajemen Pertemuan (Timeboxing 80 Menit)
+
+| Waktu | Durasi | Agenda Utama Pertemuan | Sasaran Output (*Key Deliverable*) |
+| :---: | :---: | :--- | :--- |
+| **00.00 – 00.05** | 5 Menit | **Pembukaan & Apresiasi:** Menyampaikan rasa hormat dan mengutarakan maksud konsultasi ahli (mendengarkan arahan, bukan berjualan). | Tercipta suasana hangat, santun, dan cair (*rapport building*). |
+| **00.05 – 00.12** | 7 Menit | **Elevator Pitch Masalah (Anti-Pitching):** Memaparkan temuan Paper GENY, Buku TA Kalteng, masukan Mentor Wulan Fitriani, dan fokus ke balita *faltering* 6–24 bulan. | Ketiga pakar memahami konteks posisi startup saat ini. |
+| **00.12 – 00.35** | 23 Menit | **Sesi Mendalam 1 — Prof. Heti Ira Ayue:** Validasi model SKI, mekanisme biologis faltering, pangan lokal Kalteng, dan kelaikan etik (KEPK). | Catatan validasi saintifik, nama komoditas pangan lokal, & alur etik. |
+| **00.35 – 00.58** | 23 Menit | **Sesi Mendalam 2 — dr. Dewi Rama Dewa:** Realitas stunting Palangka Raya, alur rujukan, puskesmas akreditasi, & zero-burden nakes. | Pemetaan birokrasi Dinkes, bahasa UI non-stigma, & peluang lokus puskesmas. |
+| **00.58 – 01.15** | 17 Menit | **Sesi Mendalam 3 — Bapak Setyohadi:** Monetisasi B2G/CSR, arsitektur offline Kalimantan, UU PDP, & navigasi BTP. | Strategi proposal CSR Telkom & checklist kepatuhan data anak. |
+| **01.15 – 01.25** | 10 Menit | **Diskusi Forum Bersama & Skenario Grand Pilot:** Mengajukan pertanyaan kemitraan tripartit dan permohonan resmi dewan penasihat (*Advisory Board*). | **Kesediaan 3 pakar menjadi Dewan Penasihat Resmi & komitmen tindak lanjut pilot project.** |
+
+---
+
+## 📋 9. Lembar Kendali Pasca-Pertemuan (*Deliverables Checklist*)
+
+Pastikan seluruh butir di bawah ini terisi lengkap dalam transkrip catatan pasca-rapat:
+
+- [ ] Rekomendasi Prof. Heti mengenai penyesuaian interpretasi bobot Decision Tree CART (Paper GENY).
+- [ ] Daftar 3 komoditas ikan air tawar / pangan lokal Kalteng untuk resep padat kalori balita faltering.
+- [ ] Kontak KEPK Poltekkes Kemenkes Palangka Raya untuk pengurusan kelaikan etik (*Ethical Clearance*).
+- [ ] Nama Puskesmas di Kota Palangka Raya yang direkomendasikan dr. Dewi sebagai lokus uji coba.
+- [ ] Kalimat komunikasi klinis ramah orang tua untuk notifikasi deteksi risiko stunting di aplikasi.
+- [ ] Format kolom ekspor data balita posyandu yang sesuai dengan e-PPGBM Puskesmas.
+- [ ] Skema pengajuan proposal CSR/TJSL Telkom Group penanganan stunting dari Bapak Setyohadi.
+- [ ] Standar enkripsi dan cloud NeuCentrIX Telkom untuk kepatuhan UU PDP data medis anak.
+- [ ] Kesediaan lisan Prof. Heti Ira Ayue sebagai Scientific & Clinical Advisor Geny StuntCare.
+- [ ] Kesediaan lisan dr. Dewi Rama Dewa sebagai Public Health & Medical Advisory Board.
+- [ ] Kesediaan lisan Bapak Setyohadi sebagai Enterprise & Business Strategic Advisor.
 
 ---
 
 <p align="center">
-  <em>Disusun dengan standar metodologi riset ilmiah dan tata kelola startup inkubasi Bandung Techno Park (Telkom University).</em>
+  <em>Disusun dengan standar integritas ilmiah kedokteran, metodologi riset human-centered design, dan tata kelola startup inkubasi Bandung Techno Park (Telkom University).</em>
 </p>
