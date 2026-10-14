@@ -45,7 +45,8 @@ timeline
 > 🎬 **Pembaruan Hasil Eksekusi Wawancara Dewan Pakar (14 Oktober 2026):**  
 > Sesi konsultasi mendalam bersama **dr. Dewi Rama Dewa, M.Kes.** dan **Bapak Setyohadi** telah tuntas dilaksanakan (Durasi: ~1 Jam 3 Menit).  
 > * 📹 **Tautan Rekaman YouTube:** [https://youtu.be/-jGlQGCjEwI](https://youtu.be/-jGlQGCjEwI)  
-> * 📄 **Dokumen Notulensi & Rangkuman Lengkap:** [hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md)
+> * 📘 **README Terstruktur Notulensi Resmi:** [notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md)  
+> * 📄 **Salinan Berkas Markdown:** [hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md)
 
 ---
 
