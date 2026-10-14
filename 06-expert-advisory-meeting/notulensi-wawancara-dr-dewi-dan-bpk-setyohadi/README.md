@@ -86,14 +86,14 @@ Berikut adalah indeks penanda waktu langsung ke rekaman video YouTube untuk memu
 
 ```mermaid
 graph TD
-  A[<b>Hasil Wawancara Dewan Pakar</b>] --> B[<b>1. e-PPGBM Puskesmas</b><br/>Input oleh nutrisionis puskesmas, data mentah kader baru sering salah ukur]
-  A --> C[<b>2. Paradoks Gizi Buruk</b><br/>Garis merah di Palangka Raya mayoritas pendatang KTP Jawa]
-  A --> D[<b>3. Akar Stunting Lapangan</b><br/>Pola asuh nenek, MPASI pentol/sosis/mie, asap rokok ayah, KEK bumil]
-  A --> E[<b>4. BAPPEDA Leading Sector</b><br/>70% Non-Kesehatan (PU, Perikanan, Pertanian, Kemenag) vs 30% Dinkes]
-  A --> F[<b>5. Alur Rujukan & Bottleneck</b><br/>Posyandu ILP ➔ PMT Puskesmas 3 Bulan. Terhambat: Denial & BPJS]
-  A --> G[<b>6. Nakes App Fatigue</b><br/>Terbebani e-PPGBM/ASIK/SIMPUS/Rematri. Geny StuntCare WAJIB terintegrasi 1 pintu]
-  A --> H[<b>7. Lokus Palangka Raya</b><br/>PILIH: Menteng/Bukit Hindu/Kayon (ASN). HINDARI: Pahandut/Panarung (Pasar)]
-  A --> I[<b>8. Jejaring Kunci Terbuka</b><br/>Ketua IDAI Kalteng dr. Made Sp.A, PERSAGI, Stunting Action Hub Telkom]
+  A["<b>Hasil Wawancara Dewan Pakar</b>"] --> B["<b>1. e-PPGBM Puskesmas</b><br/>Input oleh nutrisionis puskesmas, data mentah kader baru sering salah ukur"]
+  A --> C["<b>2. Paradoks Gizi Buruk</b><br/>Garis merah di Palangka Raya mayoritas pendatang KTP Jawa"]
+  A --> D["<b>3. Akar Stunting Lapangan</b><br/>Pola asuh nenek, MPASI pentol/sosis/mie, asap rokok ayah, KEK bumil"]
+  A --> E["<b>4. BAPPEDA Leading Sector</b><br/>70% Non-Kesehatan (PU, Perikanan, Pertanian, Kemenag) vs 30% Dinkes"]
+  A --> F["<b>5. Alur Rujukan dan Bottleneck</b><br/>Posyandu ILP ke PMT Puskesmas 3 Bulan. Terhambat: Denial dan BPJS"]
+  A --> G["<b>6. Nakes App Fatigue</b><br/>Terbebani e-PPGBM/ASIK/SIMPUS/Rematri. Geny StuntCare WAJIB terintegrasi 1 pintu"]
+  A --> H["<b>7. Lokus Palangka Raya</b><br/>PILIH: Menteng/Bukit Hindu/Kayon (ASN). HINDARI: Pahandut/Panarung (Pasar)"]
+  A --> I["<b>8. Jejaring Kunci Terbuka</b><br/>Ketua IDAI Kalteng dr. Made Sp.A, PERSAGI, Stunting Action Hub Telkom"]
 ```
 
 1. **e-PPGBM Puskesmas Butuh Data Mentah Bersih:** Penginput e-PPGBM adalah petugas gizi puskesmas, tetapi data penimbangan dari posyandu pinggiran kerap bias karena banyak kader baru pasca-COVID belum terlatih. Data balita juga belum di-purge (anak >5 tahun masih tercatat).
@@ -141,12 +141,12 @@ dr. Dewi merumuskan 5 akar penyebab stunting yang paling sering ditemukan di rua
 
 ```mermaid
 graph LR
-  subgraph Determinan_Stunting_Lapangan [5 Akar Masalah Stunting Riil]
-    D1[<b>1. Pola Asuh Nenek</b><br/>Bayi <6 bln disuapi pisang/nasi, ASI eksklusif gagal]
-    D2[<b>2. MPASI Rendah Gizi</b><br/>Disuapi pentol, mie, sosis, nugget berpengawet]
-    D3[<b>3. Asap Rokok Ayah</b><br/>Racun nikotin merusak nafsu makan & picu ISPA anak]
-    D4[<b>4. Sanitasi Jamban Sungai</b><br/>Jamban cemplung sungai Kahayan, tanpa air bersih]
-    D5[<b>5. Bumil Under-Educated</b><br/>Nikah dini SMP, makan seblak/bakso, anemia & KEK]
+  subgraph Determinan_Stunting_Lapangan ["5 Akar Masalah Stunting Riil"]
+    D1["<b>1. Pola Asuh Nenek</b><br/>Bayi usia di bawah 6 bulan disuapi pisang/nasi, ASI eksklusif gagal"]
+    D2["<b>2. MPASI Rendah Gizi</b><br/>Disuapi pentol, mie, sosis, nugget berpengawet"]
+    D3["<b>3. Asap Rokok Ayah</b><br/>Racun nikotin merusak nafsu makan dan picu ISPA anak"]
+    D4["<b>4. Sanitasi Jamban Sungai</b><br/>Jamban cemplung sungai Kahayan, tanpa air bersih"]
+    D5["<b>5. Bumil Under-Educated</b><br/>Nikah dini SMP, makan seblak/bakso, anemia dan KEK"]
   end
 ```
 
@@ -202,10 +202,10 @@ dr. Dewi memberikan panduan pemilihan lokasi uji coba percontohan di Kota Palang
 
 ```mermaid
 graph TD
-  subgraph Lokus_Palangka_Raya [Pemetaan Faskes Kota Palangka Raya]
-    Z1[<b>ZONA EMAS (Direkomendasikan)</b><br/>• Puskesmas Menteng<br/>• Puskesmas Bukit Hindu<br/>• Puskesmas Kayon (Rajawali)<br/><i>Karakter: Warga ASN, terpelajar, melek digital, kader disiplin</i>]
-    Z2[<b>ZONA HINDARI (Resistensi Tinggi)</b><br/>• Puskesmas Pahandut<br/>• Puskesmas Panarung<br/><i>Karakter: Warga pedagang pasar Banjar, mobilitas tinggi, kepatuhan rendah</i>]
-    Z3[<b>ZONA PINGGIRAN (High Burden - Fase Lanjutan)</b><br/>• Puskesmas Marina Permai<br/>• Puskesmas Kereng Bangkirai<br/>• Puskesmas Tangkiling / Rakumpit<br/><i>Karakter: Wilayah sungai luas, kader baru belum terlatih</i>]
+  subgraph Lokus_Palangka_Raya ["Pemetaan Faskes Kota Palangka Raya"]
+    Z1["<b>ZONA EMAS (Direkomendasikan)</b><br/>- Puskesmas Menteng<br/>- Puskesmas Bukit Hindu<br/>- Puskesmas Kayon (Rajawali)<br/>Karakter: Warga ASN, terpelajar, melek digital, kader disiplin"]
+    Z2["<b>ZONA HINDARI (Resistensi Tinggi)</b><br/>- Puskesmas Pahandut<br/>- Puskesmas Panarung<br/>Karakter: Warga pedagang pasar Banjar, mobilitas tinggi, kepatuhan rendah"]
+    Z3["<b>ZONA PINGGIRAN (High Burden - Fase Lanjutan)</b><br/>- Puskesmas Marina Permai<br/>- Puskesmas Kereng Bangkirai<br/>- Puskesmas Tangkiling / Rakumpit<br/>Karakter: Wilayah sungai luas, kader baru belum terlatih"]
   end
 ```
 
@@ -236,13 +236,13 @@ Sesi wawancara ini berhasil membuka kontak langsung dengan para penentu kebijaka
 
 ```mermaid
 graph LR
-  dr_Dewi[dr. Dewi Rama Dewa] --> IDAI[<b>dr. Made, Sp.A</b><br/>Ketua IDAI Kalimantan Tengah]
-  dr_Dewi --> PERSAGI[<b>Pengurus DPC PERSAGI</b><br/>Persatuan Ahli Gizi Palangka Raya]
-  dr_Dewi --> DINKES[<b>Kabid Kesmas & Seksi Gizi</b><br/>Dinas Kesehatan Kota Palangka Raya]
-  dr_Dewi --> FASKES[<b>Bidan & Kader Posyandu</b><br/>Puskesmas Menteng & Bukit Hindu]
+  dr_Dewi["<b>dr. Dewi Rama Dewa</b>"] --> IDAI["<b>dr. Made, Sp.A</b><br/>Ketua IDAI Kalimantan Tengah"]
+  dr_Dewi --> PERSAGI["<b>Pengurus DPC PERSAGI</b><br/>Persatuan Ahli Gizi Palangka Raya"]
+  dr_Dewi --> DINKES["<b>Kabid Kesmas dan Seksi Gizi</b><br/>Dinas Kesehatan Kota Palangka Raya"]
+  dr_Dewi --> FASKES["<b>Bidan dan Kader Posyandu</b><br/>Puskesmas Menteng dan Bukit Hindu"]
 
-  Bpk_Setyohadi[Bpk. Setyohadi] --> ACTIONHUB[<b>Stunting Action Hub</b><br/>Platform Data Stunting Telkom]
-  Bpk_Setyohadi --> CSR_TELKOM[<b>Unit TJSL Digital Field</b><br/>Kantor Pusat Telkom Group]
+  Bpk_Setyohadi["<b>Bpk. Setyohadi</b>"] --> ACTIONHUB["<b>Stunting Action Hub</b><br/>Platform Data Stunting Telkom"]
+  Bpk_Setyohadi --> CSR_TELKOM["<b>Unit TJSL Digital Field</b><br/>Kantor Pusat Telkom Group"]
 ```
 
 1. **dr. Made, Sp.A (Ketua IDAI Kalteng):** dr. Dewi bersedia memfasilitasi pertemuan langsung dengan dr. Made untuk mengaudit algoritma rujukan klinis dan batasan *red-flags* balita faltering.

@@ -23,14 +23,14 @@
 
 ```mermaid
 graph TD
-  A[<b>Hasil Wawancara Pakar</b><br/>dr. Dewi & Bpk. Setyohadi] --> B[<b>1. Realitas e-PPGBM</b><br/>Kader pinggiran belum terlatih, data pasca-COVID belum purge]
-  A --> C[<b>2. Karakteristik Kasus</b><br/>Gizi buruk/merah terbanyak pendatang KTP Jawa]
-  A --> D[<b>3. Akar Masalah Stunting</b><br/>Pola Asuh Nenek, MPASI Instan/Pentol, Sanitasi/Rokok Ayah, KEK Bumil]
-  A --> E[<b>4. BAPPEDA Leading Sector</b><br/>70% Non-Kesehatan vs 30% Dinkes]
-  A --> F[<b>5. Alur Rujukan & Bottleneck</b><br/>Posyandu ILP ➔ Puskesmas PMT 3 Bln. Hambatan: Denial & BPJS]
-  A --> G[<b>6. Nakes Fatigue & Solusi</b><br/>Overwhelmed banyak aplikasi. Geny StuntCare WAJIB 1 Pintu e-PPGBM]
-  A --> H[<b>7. Lokus Palangka Raya</b><br/>Pilih Menteng/Bukit Hindu/Kayon. HINDARI Pahandut/Panarung]
-  A --> I[<b>8. Jejaring Terbuka</b><br/>Ketua IDAI Kalteng dr. Made Sp.A, PERSAGI, Telkom Action Hub]
+  A["<b>Hasil Wawancara Pakar</b><br/>dr. Dewi dan Bpk. Setyohadi"] --> B["<b>1. Realitas e-PPGBM</b><br/>Kader pinggiran belum terlatih, data pasca-COVID belum purge"]
+  A --> C["<b>2. Karakteristik Kasus</b><br/>Gizi buruk/merah terbanyak pendatang KTP Jawa"]
+  A --> D["<b>3. Akar Masalah Stunting</b><br/>Pola Asuh Nenek, MPASI Instan/Pentol, Sanitasi/Rokok Ayah, KEK Bumil"]
+  A --> E["<b>4. BAPPEDA Leading Sector</b><br/>70% Non-Kesehatan vs 30% Dinkes"]
+  A --> F["<b>5. Alur Rujukan dan Bottleneck</b><br/>Posyandu ILP ke PMT Puskesmas 3 Bulan. Terhambat: Denial dan BPJS"]
+  A --> G["<b>6. Nakes Fatigue dan Solusi</b><br/>Overwhelmed banyak aplikasi. Geny StuntCare WAJIB 1 Pintu e-PPGBM"]
+  A --> H["<b>7. Lokus Palangka Raya</b><br/>PILIH: Menteng/Bukit Hindu/Kayon (ASN). HINDARI: Pahandut/Panarung (Pasar)"]
+  A --> I["<b>8. Jejaring Terbuka</b><br/>Ketua IDAI Kalteng dr. Made Sp.A, PERSAGI, Telkom Action Hub"]
 ```
 
 1. **Kendala Nyata e-PPGBM di Puskesmas:** Penginput data e-PPGBM adalah **petugas gizi puskesmas**, namun data mentahnya bergantung pada kader posyandu. Banyak kader baru pasca-COVID belum terlatih menimbang/mengukur tinggi badan. Terjadi masalah data: anak usia >5 tahun masih tercatat di sistem karena belum dibersihkan (*data purging*).
@@ -101,18 +101,18 @@ sequenceDiagram
   participant P as Petugas Faskes di Posyandu
   participant D as Dokter Puskesmas
   participant G as Tim Gizi Puskesmas
-  participant S as Dokter Spesialis Anak (Sp.A RSUD)
-  participant I as Ibu Balita (Pasien)
+  participant S as "Dokter Spesialis Anak (Sp.A RSUD)"
+  participant I as "Ibu Balita (Pasien)"
 
   K->>P: Deteksi Balita Gizi Kurang / Garis Kuning KMS
   P->>I: Rujukan ke Puskesmas Wilayah
-  Note over I: BOTTLENECK 1: Denial, Malu, & Tak Punya BPJS
+  Note over I: BOTTLENECK 1 - Denial, Malu, dan Tak Punya BPJS
   I->>D: Pemeriksaan Fisik Lengkap di Puskesmas
   D->>G: Over-Rujuk Internal ke Poli Gizi
-  G->>I: Asuhan Gizi & Pemberian PMT Pemulihan (3 Bulan Penuh)
+  G->>I: Asuhan Gizi dan Pemberian PMT Pemulihan (3 Bulan Penuh)
   alt Ada Penyakit Penyerta (TB Anak / PJB)
     D->>S: Rujukan Eksternal ke Spesialis Anak di RSUD
-    Note over I: BOTTLENECK 2: Biaya Transportasi & Anggapan Remeh
+    Note over I: BOTTLENECK 2 - Biaya Transportasi dan Anggapan Remeh
   else Murni Malnutrisi
     G->>I: Monitoring Berat Badan Berkala
   end
@@ -153,16 +153,16 @@ Hasil wawancara ini berhasil membuka akses langsung ke stakeholder kunci:
 
 ```mermaid
 graph LR
-  subgraph Akses_Langsung_dr_Dewi [Pintu Jejaring via dr. Dewi Rama Dewa]
-    IDAI[<b>dr. Made, Sp.A</b><br/>Ketua IDAI Kalimantan Tengah]
-    PERSAGI[<b>Pengurus DPC PERSAGI</b><br/>Persatuan Ahli Gizi Palangka Raya]
-    DINKES[<b>Kabid Kesmas & Seksi Gizi</b><br/>Dinas Kesehatan Kota Palangka Raya]
-    FASKES[<b>Bidan & Kader Posyandu</b><br/>Puskesmas Menteng / Bukit Hindu]
+  subgraph Akses_Langsung_dr_Dewi ["Pintu Jejaring via dr. Dewi Rama Dewa"]
+    IDAI["<b>dr. Made, Sp.A</b><br/>Ketua IDAI Kalimantan Tengah"]
+    PERSAGI["<b>Pengurus DPC PERSAGI</b><br/>Persatuan Ahli Gizi Palangka Raya"]
+    DINKES["<b>Kabid Kesmas dan Seksi Gizi</b><br/>Dinas Kesehatan Kota Palangka Raya"]
+    FASKES["<b>Bidan dan Kader Posyandu</b><br/>Puskesmas Menteng / Bukit Hindu"]
   end
 
-  subgraph Akses_Bpk_Setyohadi [Pintu Ekosistem Telkom Group]
-    HUB[<b>Stunting Action Hub</b><br/>Platform Data Stunting Telkom]
-    CSR[<b>TJSL Digital Field</b><br/>Sponsorship BUMN Terpusat]
+  subgraph Akses_Bpk_Setyohadi ["Pintu Ekosistem Telkom Group"]
+    HUB["<b>Stunting Action Hub</b><br/>Platform Data Stunting Telkom"]
+    CSR["<b>TJSL Digital Field</b><br/>Sponsorship BUMN Terpusat"]
   end
 ```
 

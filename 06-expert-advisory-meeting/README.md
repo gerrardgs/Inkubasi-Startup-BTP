@@ -20,19 +20,19 @@ Sebelum melangkah ke sesi konsultasi dewan pakar, berikut adalah rekapitulasi ko
 
 ```mermaid
 timeline
-    title PETA PERJALANAN & PROGRES STARTUP GENY STUNTCARE (2025 - 2026)
+    title PETA PERJALANAN DAN PROGRES STARTUP GENY STUNTCARE (2025 - 2026)
     section Fondasi Riset Saintifik (2025 - Pertengahan 2026)
-        Inisiasi & Riset Lapangan : Program Innovillage 2025 di Desa Siwalanpanji Sidoarjo
+        Inisiasi dan Riset Lapangan : Program Innovillage 2025 di Desa Siwalanpanji Sidoarjo
         Paper GENY (IEEE IBITeC 2026) : Pengolahan Data Mikro SKI 2023 (304.193 balita) dengan Decision Tree CART (Akurasi 75,57%)
-        Buku Tugas Akhir 160 Hlm : Sistem Monitoring Stunting 14 Kab/Kota Kalteng berbasis Fuzzy Sugeno & Genetic Algorithm (Gerrard Sebastian)
-        Audit & Crawling Konsensus : Ekstraksi 102 hlm Consensus AI, telaah 20 paper UCD, sintesis determinan stunting (Laporan Final 27 hlm)
+        Buku Tugas Akhir 160 Hlm : Sistem Monitoring Stunting 14 Kab/Kota Kalteng berbasis Fuzzy Sugeno dan Genetic Algorithm (Gerrard Sebastian)
+        Audit dan Crawling Konsensus : Ekstraksi 102 hlm Consensus AI, telaah 20 paper UCD, sintesis determinan stunting (Laporan Final 27 hlm)
     section Inkubasi BTP Stage 1 (September 2026)
         Bootcamp Pembukaan BTP : Seleksi resmi Inkubasi Startup Batch 24 Bandung Techno Park
-        Masterclass Sesi 1 & 2 : Customer Discovery (Indra Purnama) & Design Thinking (Dr. Iwan Iwut Tritoasmoro)
-        Masterclass Sesi 3 : Problem Validation & VPC (Muhammad Nur Awaludin / Kak Mumu)
-        Spesifikasi Arsitektur API : Perancangan RESTful API Z-Score WHO, modul deteksi prediktif, & integrasi SatuSehat
+        Masterclass Sesi 1 dan 2 : Customer Discovery (Indra Purnama) dan Design Thinking (Dr. Iwan Iwut Tritoasmoro)
+        Masterclass Sesi 3 : Problem Validation dan VPC (Muhammad Nur Awaludin / Kak Mumu)
+        Spesifikasi Arsitektur API : Perancangan RESTful API Z-Score WHO, modul deteksi prediktif, dan integrasi SatuSehat
     section Penajaman Validasi Lapangan (Awal Oktober 2026)
-        Instrumen Wawancara 76 Soal : Penyusunan pedoman wawancara 4 persona & matriks sampling purposif 5 Sel (8 titik Jatim)
+        Instrumen Wawancara 76 Soal : Penyusunan pedoman wawancara 4 persona dan matriks sampling purposif 5 Sel (8 titik Jatim)
         Mentoring 1 BTP (8 Okt 2026) : Evaluasi kritis Mentor Wulan Fitriani (Pivot fokus ke balita faltering 6-24 bln, diferensiasi MPASI, zero-burden nakes)
         Rapat Dewan Pakar (13 Okt 2026) : Triangulasi 3 Pakar Palangka Raya Kalteng (Prof. Heti, dr. Dewi Rama Dewa, Bpk. Setyohadi)
 ```
@@ -108,19 +108,19 @@ Salah satu aset intelijen paling berharga dari ketiga pakar ini adalah **jam ter
 
 ```mermaid
 graph TD
-    subgraph Segitiga_Emas["SEGITIGA EMAS PALANGKA RAYA (KALTENG)"]
-        A["<b>Prof./Dr. Heti Ira Ayue</b><br>(Poltekkes Kemenkes / S3 UB)<br>• Validasi Saintifik Model AI<br>• Prediktor Multifaktorial Stunting<br>• Pangan Lokal & Ethical Clearance"]
-        B["<b>dr. Dewi Rama Dewa, M.Kes.</b><br>(Kabid Kesmas Dinkes Palangka Raya)<br>• Kebijakan Intervensi Stunting Kota<br>• Realitas Pasien GTM & Rujukan<br>• Zero-Burden Data Nakes Posyandu"]
-        C["<b>Bapak Setyohadi</b><br>(Eksekutif Senior Telkom Group)<br>• Pendanaan TJSL/CSR BUMN Stunting<br>• Sinergi Yakes & Telkomsel IoT<br>• Keamanan Data Anak & Skalabilitas"]
+    subgraph Segitiga_Emas ["SEGITIGA EMAS PALANGKA RAYA (KALTENG)"]
+        A["<b>Prof./Dr. Heti Ira Ayue</b><br>(Poltekkes Kemenkes / S3 UB)<br>- Validasi Saintifik Model AI<br>- Prediktor Multifaktorial Stunting<br>- Pangan Lokal dan Ethical Clearance"]
+        B["<b>dr. Dewi Rama Dewa, M.Kes.</b><br>(Kabid Kesmas Dinkes Palangka Raya)<br>- Kebijakan Intervensi Stunting Kota<br>- Realitas Pasien GTM dan Rujukan<br>- Zero-Burden Data Nakes Posyandu"]
+        C["<b>Bapak Setyohadi</b><br>(Eksekutif Senior Telkom Group)<br>- Pendanaan TJSL/CSR BUMN Stunting<br>- Sinergi Yakes dan Telkomsel IoT<br>- Keamanan Data Anak dan Skalabilitas"]
     end
 
-    subgraph Solusi_Geny["PLATFORM GENY STUNTCARE"]
-        D["<b>Problem-Solution Fit Tervalidasi</b><br>1. AI Triase Hand-Executable (SKI 2023)<br>2. Action Plan Menu MPASI Lokal Padat Kalori<br>3. Pilot Project Puskesmas Kota Palangka Raya<br>4. Dewan Penasihat Medis & Bisnis Resmi"]
+    subgraph Solusi_Geny ["PLATFORM GENY STUNTCARE"]
+        D["<b>Problem-Solution Fit Tervalidasi</b><br>1. AI Triase Hand-Executable (SKI 2023)<br>2. Action Plan Menu MPASI Lokal Padat Kalori<br>3. Pilot Project Puskesmas Kota Palangka Raya<br>4. Dewan Penasihat Medis dan Bisnis Resmi"]
     end
 
-    A <-->|Kolaborasi Riset Klinis & Etik| B
-    B <-->|Sinergi Suami-Istri: Dinkes x CSR Telkom| C
-    A <-->|Pemanfaatan Data Mikro & Komputasi| C
+    A ---|"Kolaborasi Riset Klinis dan Etik"| B
+    B ---|"Sinergi Suami-Istri: Dinkes x CSR Telkom"| C
+    A ---|"Pemanfaatan Data Mikro dan Komputasi"| C
     A --> D
     B --> D
     C --> D
