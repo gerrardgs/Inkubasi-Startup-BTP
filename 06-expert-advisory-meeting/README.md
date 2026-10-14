@@ -42,6 +42,11 @@ timeline
 * **Aset Teknologi Aktif:** Platform web purwarupa ([genystuntcare.com](https://genystuntcare.com)), model komputasi CART Decision Tree (Paper IBITeC 2026), model Fuzzy Sugeno (Buku TA Kalteng), dan dokumen spesifikasi API.
 * **Tantangan Validasi yang Sedang Diselesaikan:** Mengonfirmasi batasan klinis fenomena *weight faltering* balita usia 6–24 bulan, merumuskan formula intervensi gizi MPASI lokal, memastikan arsitektur *zero data-entry burden* bagi nakes, serta mengunci dukungan kemitraan pemerintah (Dinkes) dan korporasi (Telkom Group).
 
+> 🎬 **Pembaruan Hasil Eksekusi Wawancara Dewan Pakar (14 Oktober 2026):**  
+> Sesi konsultasi mendalam bersama **dr. Dewi Rama Dewa, M.Kes.** dan **Bapak Setyohadi** telah tuntas dilaksanakan (Durasi: ~1 Jam 3 Menit).  
+> * 📹 **Tautan Rekaman YouTube:** [https://youtu.be/-jGlQGCjEwI](https://youtu.be/-jGlQGCjEwI)  
+> * 📄 **Dokumen Notulensi & Rangkuman Lengkap:** [hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md)
+
 ---
 
 ## 📌 2. Profil Mendalam & Rekam Jejak (*Track Record Dossier*) 3 Pakar Kunci
@@ -407,22 +412,24 @@ Pastikan seluruh butir di bawah ini terisi lengkap dalam transkrip catatan pasca
 - [ ] Kontak Sekretariat KEPK Poltekkes Palangka Raya dan strategi pengurusan kelaikan etik (*Ethical Clearance*) multi-center.
 - [ ] Kesediaan lisan Prof. Heti Ira Ayue sebagai **Scientific & Clinical Advisor** Geny StuntCare.
 
-### B. Kebijakan Faskes, Rujukan Klinis, & Populasi Sasaran (dr. Dewi Rama Dewa)
-- [ ] Format baku kolom ekspor data balita posyandu yang kompatibel dengan e-PPGBM Puskesmas (*Zero Data-Entry Burden*).
-- [ ] Panduan kalimat komunikasi klinis empati non-stigma untuk notifikasi deteksi risiko di aplikasi.
-- [ ] Kontak/rekomendasi Dokter Spesialis Anak (Sp.A IDAI) konsultan nutrisi metabolik dan Tenaga Pelaksana Gizi (TPG) teladan.
-- [ ] Rekomendasi nama Puskesmas dan Kelurahan spesifik di Palangka Raya (kategori *high-burden* vs *high-readiness*) sebagai lokus uji coba Fase 2.
-- [ ] Protokol pendekatan humanis ke ibu balita garis kuning KMS melalui jejaring Ibu-Ibu Penggerak PKK dan kader akar rumput.
-- [ ] Pintu masuk advokasi program ke Sekretariat TPPS (Tim Percepatan Penurunan Stunting) & Bappeda Kota Palangka Raya.
-- [ ] Kesediaan lisan dr. Dewi Rama Dewa sebagai **Public Health & Medical Advisory Board** Geny StuntCare.
+### B. Kebijakan Faskes, Rujukan Klinis, & Populasi Sasaran (dr. Dewi Rama Dewa) — *VERIFIED 14 OKT 2026*
+- [x] **Format Integrasi e-PPGBM & Zero Burden:** Disepakati wajib integrasi 1-pintu ke e-PPGBM/SatuSehat; hindari aplikasi terpisah yang memaksa nakes mengetik ulang.
+- [x] **Panduan Komunikasi Klinis Empati:** Tidak boleh langsung melabeli "stunting"; gunakan pertanyaan skrining empati (asupan harian, kebiasaan pentol/mie/sosis, ASI vs sufor, dan paparan asap rokok ayah).
+- [x] **Kontak Dokter Spesialis Anak & Gizi:** Terbuka rekomendasi langsung ke **dr. Made, Sp.A (Ketua IDAI Kalimantan Tengah)** dan pengurus **PERSAGI Palangka Raya**.
+- [x] **Lokus Faskes Percontohan:** Direkomendasikan **Puskesmas Menteng, Bukit Hindu, dan Kayon** (ASN/terdidik); Wajib hindari **Puskesmas Pahandut & Panarung** (pedagang pasar/fluktuatif).
+- [x] **Protokol Pendekatan Komunitas:** Masuk langsung melalui **Bidan Kelurahan & Kader Posyandu ILP**; hindari birokrasi berbelit Ketua TP-PKK Kota.
+- [x] **Pintu Masuk Advokasi Anggaran:** Menjadikan **BAPPEDA Kota** sebagai *leading sector* advokasi (pemegang 70% anggaran stunting lintas dinas) disusul Dinkes (30%).
+- [x] **Komitmen Pendampingan:** dr. Dewi bersedia memfasilitasi audiensi ke staf/mantan anak buah di Dinkes Kota Palangka Raya dan mengawal rujukan ke Ketua IDAI Kalteng.
 
-### C. Enterprise B2B/B2G, Infrastruktur IoT, & Sinergi Telkom (Bapak Setyohadi)
-- [ ] Strategi penyusunan proposal program TJSL/CSR BUMN penanganan stunting dan indikator SROI.
+### C. Enterprise B2B/B2G, Infrastruktur IoT, & Sinergi Telkom (Bapak Setyohadi) — *VERIFIED 14 OKT 2026*
+- [x] **Inisiatif Stunting Telkom:** Konfirmasi keberadaan platform **Stunting Action Hub** berbasis web milik Telkom untuk potensi kolaborasi data training AI.
+- [x] **Tata Kelola CSR/TJSL BUMN:** Konfirmasi sistem CSR Telkom tersentralisasi (*one-door*) di kantor pusat dengan prioritas pada *digital capability / digital field*.
+- [x] **Pemetaan Yakes Telkom:** Konfirmasi Yakes Telkom sudah tidak aktif di Palangka Raya; validasi corporate wellness diarahkan ke Telkom Regional V Jawa Timur.
 - [ ] Kontak person pimpinan atau PIC strategis di unit Digital Health Telkom (Mediv / Yakes / DBT / Indigo).
 - [ ] Akses penjajakan kemitraan ke Forum TJSL BUMN wilayah Jawa Timur (Telkom TR-5, Pelindo, SIG) dan Kalimantan.
 - [ ] Rekomendasi rekanan vendor perangkat antropometri kit terstandar Kemenkes berbasis IoT / Bluetooth untuk PoC.
 - [ ] Checklist kepatuhan standar keamanan enkripsi dan utilisasi cloud NeuCentrIX Telkom (UU PDP No. 27/2022).
-- [ ] Kesediaan lisan Bapak Setyohadi sebagai **Enterprise & Business Strategic Advisor** Geny StuntCare.
+- [x] **Kesediaan Arahan Bisnis:** Bpk. Setyohadi memberikan supervisi mengenai lanskap CSR tersentralisasi dan ekosistem data stunting Telkom.
 
 ---
 

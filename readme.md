@@ -70,7 +70,8 @@ Projects21 / Inkubasi-Startup-BTP
 │   └── 📁 assets/                          # Grafik visualisasi data terverifikasi (chart1 s.d. chart7)
 │
 ├── 📁 06-expert-advisory-meeting/          # PANDUAN STRATEGIS & MATRIKS PERTANYAAN RAPAT DEWAN PAKAR
-│   └── README.md                           # Master guide 3 pakar: Heti Ira Ayue, dr. Dewi Rama, Bpk. Setyohadi
+│   ├── README.md                           # Master guide 3 pakar: Heti Ira Ayue, dr. Dewi Rama, Bpk. Setyohadi
+│   └── hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md # Notulensi LENGKAP & Rangkuman Wawancara dr. Dewi & Bpk. Setyohadi
 │
 ├── 📁 wawancara/                           # INSTRUMEN LENGKAP WAWANCARA CUSTOMER DISCOVERY LAPANGAN
 │   ├── README.md                           # Hub master metodologi, arsitektur 2 tahap, & integrasi SRL-0
@@ -204,6 +205,7 @@ Panduan wawancara mendalam tingkat tinggi (*high-level expert consultation guide
 * **Bapak Setyohadi** (Senior Corporate Leader Telkom Group, Pakar Enterprise Sales, Rekam Jejak Penugasan Lintas Regional Indonesia):  
   *Membedah sinergi Telkom Regional V (Jatim) menuju Regional VI (Kalimantan), skema pendanaan TJSL/CSR BUMN penanganan stunting, jejaring ekosistem Digital Health BUMN (Telkom Health/Mediv, Yakes, Indigo, DBT), kemitraan hardware antropometri kit berbasis IoT/Bluetooth, ketahanan arsitektur offline-first, kepatuhan UU PDP No. 27/2022 & cloud NeuCentrIX, navigasi traksi reviewer BTP, serta permohonan sebagai Business & Strategic Advisor.*
 * 📄 *Panduan lengkap:* [06-expert-advisory-meeting/README.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/README.md)
+* 🎬 *Notulensi & Hasil Wawancara Resmi (14 Okt 2026):* [06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md) (Rekaman: [YouTube Video](https://youtu.be/-jGlQGCjEwI))
 
 ---
 
