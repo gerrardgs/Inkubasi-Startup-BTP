@@ -34,7 +34,8 @@ timeline
     section Penajaman Validasi Lapangan (Awal Oktober 2026)
         Instrumen Wawancara 76 Soal : Penyusunan pedoman wawancara 4 persona dan matriks sampling purposif 5 Sel (8 titik Jatim)
         Mentoring 1 BTP (8 Okt 2026) : Evaluasi kritis Mentor Wulan Fitriani (Pivot fokus ke balita faltering 6-24 bln, diferensiasi MPASI, zero-burden nakes)
-        Rapat Dewan Pakar (13 Okt 2026) : Triangulasi 3 Pakar Palangka Raya Kalteng (Prof. Heti, dr. Dewi Rama Dewa, Bpk. Setyohadi)
+        Rapat Dewan Pakar 1 (14 Okt 2026) : Konsultasi mendalam bersama dr. Dewi Rama Dewa dan Bpk. Setyohadi (Video YouTube 1 Jam 3 Menit)
+        Konsultasi Dewan Pakar 2 (27 Okt 2026) : Validasi strategis asinkron via WhatsApp bersama Prof. Dr. Heti Ira Ayue (Jatim First, Kalteng Roadmap, Eliminasi Psikolog, Lean Fieldwork)
 ```
 
 ### Rekapitulasi Status Kesiapan Startup Saat Ini:
@@ -42,11 +43,16 @@ timeline
 * **Aset Teknologi Aktif:** Platform web purwarupa ([genystuntcare.com](https://genystuntcare.com)), model komputasi CART Decision Tree (Paper IBITeC 2026), model Fuzzy Sugeno (Buku TA Kalteng), dan dokumen spesifikasi API.
 * **Tantangan Validasi yang Sedang Diselesaikan:** Mengonfirmasi batasan klinis fenomena *weight faltering* balita usia 6–24 bulan, merumuskan formula intervensi gizi MPASI lokal, memastikan arsitektur *zero data-entry burden* bagi nakes, serta mengunci dukungan kemitraan pemerintah (Dinkes) dan korporasi (Telkom Group).
 
-> 🎬 **Pembaruan Hasil Eksekusi Wawancara Dewan Pakar (14 Oktober 2026):**  
+> 🎬 **Pembaruan Hasil Eksekusi Sesi 1 Wawancara Dewan Pakar (14 Oktober 2026):**  
 > Sesi konsultasi mendalam bersama **dr. Dewi Rama Dewa, M.Kes.** dan **Bapak Setyohadi** telah tuntas dilaksanakan (Durasi: ~1 Jam 3 Menit).  
 > * 📹 **Tautan Rekaman YouTube:** [https://youtu.be/-jGlQGCjEwI](https://youtu.be/-jGlQGCjEwI)  
 > * 📘 **README Terstruktur Notulensi Resmi:** [notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md)  
 > * 📄 **Salinan Berkas Markdown:** [hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md)
+
+> 📱 **Pembaruan Hasil Konsultasi Sesi 2 Dewan Pakar via WhatsApp (27 Oktober 2026):**  
+> Konsultasi strategis dan validasi terarah bersama **Prof. / Dr. Heti Ira Ayue, S.ST., M.Keb.** (Pemohon Data Mikro SKI 2023 & Dosen Senior Poltekkes Kemenkes Palangka Raya) telah tuntas dilaksanakan secara asinkron via WhatsApp.  
+> * 📄 **Dokumen Resmi Notulensi & Pembedahan:** [hasil-wawancara-bu-heti-27-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-bu-heti-27-oktober-2026.md)  
+> * 🎯 **Keputusan Kunci:** Validasi mutlak strategi *"Jawa Timur First"*, peta jalan ekspansi Kalteng melalui *Pelayanan Kompak* & Puskesmas, keputusan eliminasi keterlibatan psikolog (*anti-scope creep*), serta disiplin alokasi anggaran startup (*prioritas pengembangan aplikasi & lean fieldwork*).
 
 ---
 
@@ -130,6 +136,10 @@ graph TD
 
 ## 🔬 4. Panduan Pertanyaan untuk Prof. / Dr. Heti Ira Ayue
 *(POV: Akademisi Keperawatan Anak, Peneliti Utama Disertasi S3 UB, & Pakar Prediktor Multifaktorial Stunting)*
+
+> 💡 **Status Pembaruan (27 Oktober 2026):**  
+> Konsultasi strategis bersama Prof. / Dr. Heti Ira Ayue telah berhasil dilaksanakan secara asinkron via WhatsApp. Dr. Heti secara resmi mendukung penuh inkubasi BTP, memvalidasi mutlak strategi *"Jawa Timur First"*, menyiapkan pintu masuk Kalteng via Pelayanan Kompak & kerja sama Puskesmas, mengeliminasi persona psikolog (*anti-scope creep*), serta mengarahkan alokasi sumber daya ke pengembangan aplikasi dan penerapan *lean*.  
+> 📄 **Baca Notulensi Lengkap:** [hasil-wawancara-bu-heti-27-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-bu-heti-27-oktober-2026.md)
 
 ---
 
@@ -404,14 +414,16 @@ Pada sesi diskusi bersama (15 menit terakhir), ajukan **Pertanyaan Kunci Tripart
 
 Pastikan seluruh butir di bawah ini terisi lengkap dalam transkrip catatan pasca-rapat:
 
-### A. Validasi Ilmiah, Gizi Klinis, & Metodologi Riset (Prof. Heti Ira Ayue)
-- [ ] Catatan rekomendasi penyesuaian bobot prediktor CART Decision Tree (Paper GENY).
-- [ ] Daftar 3 komoditas ikan air tawar / pangan lokal bernutrisi tinggi untuk MPASI padat kalori.
-- [ ] Kontak/rekomendasi nama Ahli Gizi Klinis (AsDI/PERSAGI) atau periset gizi anak (UB/Poltekkes) untuk validasi formula menu.
-- [ ] Kriteria inklusi dan eksklusi balita faltering (screening TB anak / PJB) untuk purifikasi data sampel.
-- [ ] Estimasi besar sampel minimal (*power sample size*) balita per klaster posyandu untuk signifikansi riset intervensi.
+### A. Validasi Ilmiah, Gizi Klinis, & Metodologi Riset (Prof. Heti Ira Ayue) — *PARTIALLY VERIFIED VIA WHATSAPP 27 OKT 2026*
+- [x] **Dukungan Penuh & Legitimasi Inkubasi BTP:** Dr. Heti resmi mendukung pengembangan Geny StuntCare pada program Inkubasi Startup BTP Batch 24.
+- [x] **Validasi Strategi Geografis ("Jawa Timur First"):** Dr. Heti menginstruksikan fokus penuh di Jawa Timur terlebih dahulu agar validasi dan evaluasi lebih terarah.
+- [x] **Peta Jalan Kemitraan Kalteng (Fase 2):** Disepakati penjajakan bersama via kegiatan *Pelayanan Kompak* dan kerja sama Puskesmas di Palangka Raya pasca-evaluasi tahap 1 Jatim.
+- [x] **Penyelarasan Ruang Lingkup (Eliminasi Psikolog):** Keputusan tegas membatalkan keterlibatan psikolog (*"Ngga usah psikolog kurang relevan"*) demi menjaga ketajaman fokus produk pada balita faltering 6–24 bulan (*anti-scope creep*).
+- [x] **Tata Kelola Anggaran & Operasional Lapangan:** Disiplin anggaran membatasi pelibatan massa mahal (biaya reward, transport lokal, konsumsi); alokasi diprioritaskan untuk pengembangan aplikasi dan penerapan *lean*.
+- [ ] Catatan rekomendasi penyesuaian bobot prediktor CART Decision Tree (Paper GENY) *(Ditunda karena Dr. Heti persiapan akreditasi kampus)*.
+- [ ] Daftar 3 komoditas ikan air tawar / pangan lokal bernutrisi tinggi untuk MPASI padat kalori *(Akan dibahas pada tahap persiapan mitra Kalteng)*.
 - [ ] Kontak Sekretariat KEPK Poltekkes Palangka Raya dan strategi pengurusan kelaikan etik (*Ethical Clearance*) multi-center.
-- [ ] Kesediaan lisan Prof. Heti Ira Ayue sebagai **Scientific & Clinical Advisor** Geny StuntCare.
+- [x] **Kesediaan Pendampingan:** Dr. Heti berkomitmen mendampingi pembahasan bentuk kolaborasi dan persiapan mitra setelah evaluasi tahap awal di Jawa Timur terbit.
 
 ### B. Kebijakan Faskes, Rujukan Klinis, & Populasi Sasaran (dr. Dewi Rama Dewa) — *VERIFIED 14 OKT 2026*
 - [x] **Format Integrasi e-PPGBM & Zero Burden:** Disepakati wajib integrasi 1-pintu ke e-PPGBM/SatuSehat; hindari aplikasi terpisah yang memaksa nakes mengetik ulang.

@@ -71,6 +71,7 @@ Projects21 / Inkubasi-Startup-BTP
 │
 ├── 📁 06-expert-advisory-meeting/          # PANDUAN STRATEGIS & MATRIKS PERTANYAAN RAPAT DEWAN PAKAR
 │   ├── README.md                           # Master guide 3 pakar: Heti Ira Ayue, dr. Dewi Rama, Bpk. Setyohadi
+│   ├── hasil-wawancara-bu-heti-27-oktober-2026.md # Notulensi konsultasi strategis WhatsApp Dr. Heti Ira Ayue
 │   ├── hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md # Salinan berkas notulensi wawancara
 │   └── 📁 notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/ # DOKUMEN RESMI NOTULENSI WAWANCARA DEWAN PAKAR
 │       └── README.md                       # Notulensi LENGKAP & Rangkuman Terstruktur (Timestamps, 8 Temuan, BTP SRL-1)
