@@ -3,7 +3,7 @@
 **Tautan Rekaman Resmi:** [YouTube Video - Wawancara dr. Dewi & Bpk. Setyohadi](https://youtu.be/-jGlQGCjEwI)  
 **Tanggal Pelaksanaan:** Selasa–Rabu, 13–14 Oktober 2026  
 **Durasi Diskusi:** ~1 Jam 3 Menit (Full Session)  
-**Pewawancara / Notulis:** Gerrard Sebastian (Founder / Project Lead Geny StuntCare — Inkubasi BTP Telkom University)  
+**Pewawancara / Notulis:** Gerrard Sebastian (Anggota Tim / AI Engineer Geny StuntCare — Inkubasi BTP Telkom University)  
 **Status Dokumen:** *Verified Expert Advisory Minutes — Highly Actionable*
 
 ---

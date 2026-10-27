@@ -58,7 +58,7 @@ timeline
 
 ## 📌 2. Profil Mendalam & Rekam Jejak (*Track Record Dossier*) 3 Pakar Kunci
 
-Pertemuan strategis pada **Selasa, 13 Oktober 2026** mempertemukan tim pendiri Geny StuntCare dengan tiga figur berpengaruh di **Kota Palangka Raya, Provinsi Kalimantan Tengah**. Ketiganya memiliki irisan riset, jabatan birokrasi, dan kepemimpinan industri yang sangat relevan:
+Pertemuan strategis pada **Selasa, 13 Oktober 2026** mempertemukan tim pengembang Geny StuntCare dengan tiga figur berpengaruh di **Kota Palangka Raya, Provinsi Kalimantan Tengah**. Ketiganya memiliki irisan riset, jabatan birokrasi, dan kepemimpinan industri yang sangat relevan:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐

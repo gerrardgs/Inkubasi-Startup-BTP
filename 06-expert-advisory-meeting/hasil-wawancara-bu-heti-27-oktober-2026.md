@@ -24,7 +24,7 @@
 | **Waktu Pelaksanaan** | Selasa, 27 Oktober 2026 (Pukul 14.28 – 19.36 WIB) |
 | **Media Komunikasi** | Asinkron Resmi via WhatsApp Messenger |
 | **Narasumber Ahli** | **Prof. / Dr. Heti Ira Ayue, S.ST., M.Keb.**<br/>• Dosen Senior Jurusan Kebidanan, Poltekkes Kemenkes Palangka Raya<br/>• Doktor (S3) Ilmu Kedokteran, Fakultas Kedokteran Universitas Brawijaya (UB) Malang<br/>• Pemohon Resmi Akses Data Mikro SKI 2023 Kemenkes RI (Surat FK UB No. 06361/2024)<br/>• Penulis Utama Paper Bereputasi Internasional: *"Exploring the multifactorial predictors of stunting in children under five"* (Journal of Public Health Research, 2024)<br/>• Pelopor Program Kelompok Pendukung ASI (KP-ASI) & Inovasi Gizi Ibu-Anak Kalteng |
-| **Pewawancara / Notulis** | **Gerrard Sebastian** (Founder / Project Lead Geny StuntCare — Mahasiswa Telkom University Surabaya & Tenant Inkubasi BTP Batch 24) |
+| **Pewawancara / Notulis** | **Gerrard Sebastian** (Anggota Tim / AI Engineer Geny StuntCare — Mahasiswa Telkom University Surabaya & Tenant Inkubasi BTP Batch 24) |
 | **Konteks Situasional** | Dr. Heti sedang dalam persiapan intensif Akreditasi Institusi di Poltekkes Kemenkes Palangka Raya, sehingga konsultasi dilaksanakan secara asinkron dengan fokus pada arahan strategis, manajerial, dan validasi arah produk (*high-level tactical guidance*). |
 | **Status Temuan** | *Primary Expert Advisory Intelligence* — Diverifikasi dari transkrip percakapan digital resmi. |
 
@@ -126,17 +126,17 @@ graph TD
 ```mermaid
 sequenceDiagram
   autonumber
-  actor Founder as Tim Geny StuntCare (BTP)
+  actor Team as Tim Geny StuntCare (BTP)
   participant Jatim as Lokus Jawa Timur (Fase 1)
   participant DrHeti as Dr. Heti Ira Ayue
   participant Kalteng as Lokus Kalteng (Fase 2)
 
-  Founder->>Jatim: Eksekusi Wawancara & Evaluasi Lapangan SRL-1
-  Jatim-->>Founder: Laporan Hasil Evaluasi Terarah (Problem-Solution Fit)
-  Founder->>DrHeti: Presentasi Hasil Tahap Awal & Evaluasi Empiris Jatim
-  DrHeti->>Founder: Pembahasan Bentuk Kolaborasi & Persiapan Mitra
+  Team->>Jatim: Eksekusi Wawancara & Evaluasi Lapangan SRL-1
+  Jatim-->>Team: Laporan Hasil Evaluasi Terarah (Problem-Solution Fit)
+  Team->>DrHeti: Presentasi Hasil Tahap Awal & Evaluasi Empiris Jatim
+  DrHeti->>Team: Pembahasan Bentuk Kolaborasi & Persiapan Mitra
   DrHeti->>Kalteng: Fasilitasi Akses via Pelayanan Kompak & Puskesmas
-  Founder->>Kalteng: Replikasi & Field Trial Aplikasi Terintegrasi
+  Team->>Kalteng: Replikasi & Field Trial Aplikasi Terintegrasi
 ```
 
 ---

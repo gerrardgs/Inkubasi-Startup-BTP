@@ -26,7 +26,7 @@
 | **Tautan Rekaman Resmi** | 🎥 **[YouTube: Wawancara dr. Dewi Rama Dewa & Bpk. Setyohadi](https://youtu.be/-jGlQGCjEwI)** |
 | **Narasumber 1** | **dr. Dewi Rama Dewa, M.Kes.** (Pejabat Senior / Mantan Kabid Kesmas Dinkes Kota Palangka Raya, Surveyor Akreditasi Puskesmas Kemenkes, Praktisi Dokter Umum) |
 | **Narasumber 2** | **Bapak Setyohadi** (Senior Corporate Leader Telkom Group, Pakar Pemasaran Enterprise & Kemitraan Digital, Suami dr. Dewi Rama Dewa) |
-| **Pewawancara / Notulis** | **Gerrard Sebastian** (Founder / Project Lead Geny StuntCare — Mahasiswa Telkom University Surabaya & Tenant BTP) |
+| **Pewawancara / Notulis** | **Gerrard Sebastian** (Anggota Tim / AI Engineer Geny StuntCare — Mahasiswa Telkom University Surabaya & Tenant BTP) |
 | **Status Temuan** | *Primary Ground-Truth Intelligence* — Diverifikasi dari rekaman audio-visual asli |
 
 ---
