@@ -131,7 +131,7 @@ Aktivitas survei, wawancara, dan observasi langsung akan dijalankan di 8 titik w
 
 ## 10. 🔄 Penyelarasan Strategis Mentoring 1 BTP (8 Oktober 2026)
 
-Berdasarkan hasil evaluasi kritis pada sesi **Mentoring 1 BTP bersama Mentor Wulan Fitriani** (lihat dokumentasi lengkap di [`mentoring/8-Oktober-2026.md`](file:///Users/sinitygs/Projects21/mentoring/8-Oktober-2026.md)), rencana aksi di atas diselaraskan sebagai berikut:
+Berdasarkan hasil evaluasi kritis pada sesi **Mentoring 1 BTP bersama Mentor Wulan Fitriani** (lihat dokumentasi lengkap di [`mentoring/8-Oktober-2026.md`](../mentoring/8-Oktober-2026.md)), rencana aksi di atas diselaraskan sebagai berikut:
 1. **Penajaman Fokus Segmen:** Segmen Calon Pengantin (Catin) dan Remaja Putri pranikah ditunda sementara dari pengujian awal guna menghindari bias data. Seluruh fokus validasi dialihkan ke **Ibu balita usia 6–24 bulan yang anaknya mengalami weight faltering / underweight / hampir stunting**.
 2. **Kriteria Screening Narasumber:** Rekrutmen 15–20 narasumber difokuskan pada ibu yang mengalami masalah nyata (GTM parah, kurva KMS kuning/merah) melalui pintu masuk kader posyandu, bidan desa, dan komunitas MPASI Instagram/TikTok.
 3. **Diferensiasi Solusi (Value Gap):** Platform tidak sekadar menduplikasi KMS digital (TB/BB), melainkan mengunggulkan **AI-Driven Personalized MPASI Action Plan & Intervensi Nutrisi Presisi**.

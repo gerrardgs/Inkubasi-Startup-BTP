@@ -120,7 +120,7 @@ Setiap startup yang terpilih mendapatkan fasilitas dana operasional tahap awal u
 * **Pengumpulan Data Tim:** Form perwakilan telah disiapkan di [Google Form BTP](https://forms.gle/vyhjX1A8FbGkXJdd6) dengan batas waktu **21 September 2026**.
 * **Aturan Rekening Bank:** Wajib menggunakan **Bank Konvensional** (BCA, Bank Mandiri, BNI, BRI, dll.). Rekening bank digital tidak diperbolehkan oleh sistem perbendaharaan BTP.
 * **Akuntabilitas Nota Pengeluaran:** Seluruh bukti pembelian diarsipkan secara **digital** (foto atau scan faktur/kuitansi jelas) dan dilaporkan di akhir setiap stage melalui [Template Spreadsheet BTP](https://docs.google.com/spreadsheets/d/1VnWEDhuBP0XOYhGb2ZzR6KmRARGEh7lUTR38qiy7fAo/edit?usp=sharing).
-* 📄 *Panduan lengkap:* [01-operasional-funding/panduan_operasional_funding_dan_lpj.md](file:///Users/sinitygs/Projects21/01-operasional-funding/panduan_operasional_funding_dan_lpj.md)
+* 📄 *Panduan lengkap:* [01-operasional-funding/panduan_operasional_funding_dan_lpj.md](01-operasional-funding/panduan_operasional_funding_dan_lpj.md)
 
 ---
 
@@ -130,7 +130,7 @@ Solusi kami berdiri di atas data empiris yang kuat, bukan dugaan subjektif semat
 * **Dataset Nasional 2:** [Prevalensi Stunting pada Balita](https://data.go.id/dataset/dataset/prevalensi-stunting-pada-balita) (Portal Satu Data Indonesia).
 * **Studi Kasus Daerah:** [Publikasi Data Stunting Kota Salatiga (Instagram)](https://www.instagram.com/p/DYCjkQpFJiV/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) sebagai perbandingan implementasi intervensi posyandu tingkat kota.
 * **Integrasi Data BPS:** Analisis sekunder angka kemiskinan, jumlah balita, dan akses sanitasi layak di 7 kabupaten/kota sasaran Jawa Timur.
-* 📄 *Kajian lengkap:* [Folder 02 : Riset & Dataset Stunting](file:///Users/sinitygs/Projects21/02-riset-dan-data-stunting/README.md)
+* 📄 *Kajian lengkap:* [Folder 02 : Riset & Dataset Stunting](02-riset-dan-data-stunting/README.md)
 
 ---
 
@@ -148,8 +148,8 @@ Solusi kami berdiri di atas data empiris yang kuat, bukan dugaan subjektif semat
   * **Pengujian Panel Ahli (*Expert Review*):** Evaluasi holistik antarmuka (UI), kenyamanan alur (UX), dan validitas model data pertumbuhan oleh **Dosen Telkom University** (researcher IT) dan praktisi medis **Yakes Telkom** (Yayasan Kesehatan Telkom).
   * **Cakupan 8 Wilayah Riset Lapangan:** Kota Malang, Kabupaten Banyuwangi, Siwalanpanji (Sidoarjo), Turen (Kab. Malang), Kabupaten Magetan, Gondanglegi (Kab. Malang), Kota Surabaya, dan Kota Jember.
   * **Target Progres:** Menghimpun 21 data responden awal dan triangulasi dengan data resmi BPS.
-* 📄 *Rencana aksi lengkap:* [03-geny-stuntcare/slr1_problem_validation_action_plan.md](file:///Users/sinitygs/Projects21/03-geny-stuntcare/slr1_problem_validation_action_plan.md)
-* 📑 *Spesifikasi Arsitektur API:* [03-geny-stuntcare/api_spesifikasi_platform.md](file:///Users/sinitygs/Projects21/03-geny-stuntcare/api_spesifikasi_platform.md) (Kontrak RESTful, Z-score WHO, deteksi risiko stunting, posyandu digital hub, dan SatuSehat)
+* 📄 *Rencana aksi lengkap:* [03-geny-stuntcare/slr1_problem_validation_action_plan.md](03-geny-stuntcare/slr1_problem_validation_action_plan.md)
+* 📑 *Spesifikasi Arsitektur API:* [03-geny-stuntcare/api_spesifikasi_platform.md](03-geny-stuntcare/api_spesifikasi_platform.md) (Kontrak RESTful, Z-score WHO, deteksi risiko stunting, posyandu digital hub, dan SatuSehat)
 
 ---
 
@@ -163,8 +163,8 @@ Dokumentasi workshop pembuka stage 1 yang dilaksanakan pada **Rabu, 23 September
 * **Sesi 3 (Sabtu Pagi, 26 Sep 2026): *"Problem Validation and Value Proposition Canvas"* (Sub-Tema: *"Dari Masalah Hingga Solusi — Bangun Startup yang Berdampak"*)**  
   Oleh **Muhammad Nur Awaludin** (Co-Founder & CEO of Fammy.ly / FAMI, Founder Kakatu, akrab disapa Kak Mumu).  
   *Membahas prinsip utama validasi startup: memahami customer dan masalah sebelum teknologi, membedakan Vitamin vs Painkiller, teknik Customer Discovery tanpa mendominasi percakapan (aturan 80/20), pengujian prototipe (30–50 end consumers, 3–5 B2B decision makers) dengan skor 1–10 dan probing kualitatif, 3 pilar bisnis (Desire, Feasibility, Viability), kriteria Repositioning vs Pivot, serta 9 studi kasus riil (Saku Medis, Kakatu, Fammy.ly, boiler industri, guru personal).*
-* 📄 *Notulensi masterclass:* [Sesi 1](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md) | [Sesi 2](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md) | [Sesi 3 (Lengkap)](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_3_muhammad_nur_awaludin.md) | [Modul Terstruktur Sesi 3](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/sesi-03-problem-validation-dan-vpc/README.md)
-* 📢 *Informasi & Poster Sesi 3:* [04-notulensi-workshop/workshop-01/info_dan_poster_sesi_3.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/info_dan_poster_sesi_3.md)
+* 📄 *Notulensi masterclass:* [Sesi 1](04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_1_indra_purnama.md) | [Sesi 2](04-notulensi-workshop/workshop-01/notulensi_sesi_2_design_thinking.md) | [Sesi 3 (Lengkap)](04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_3_muhammad_nur_awaludin.md) | [Modul Terstruktur Sesi 3](04-notulensi-workshop/workshop-01/sesi-03-problem-validation-dan-vpc/README.md)
+* 📢 *Informasi & Poster Sesi 3:* [04-notulensi-workshop/workshop-01/info_dan_poster_sesi_3.md](04-notulensi-workshop/workshop-01/info_dan_poster_sesi_3.md)
 * 🎥 *Rekaman Video & Materi Sesi 1:* [Google Drive Folder Rekaman Sesi 1 Full + Slide Materi](https://drive.google.com/drive/folders/1j8U5erDJC5L9DNMKrfCQ2n1XJ9d-L-DK?usp=sharing)
 
 ---
@@ -175,7 +175,7 @@ Pilar penelitian sekunder, data crawling komprehensif, dan validasi matematis al
 * **Laporan Final (27 Halaman, 26 Sep 2026):** Sintesis kuantitatif terverifikasi (BBLR aOR 2,55; kuintil termiskin vs terkaya aOR 0,47; edukasi ibu OR 1,2–1,9), telaah bukti kontra (Roth et al., meta-analisis kerawanan pangan), dan **eliminasi 13 klaim palsu/halusinasi** (termasuk proyeksi DALY Rp275 juta dan distorsi skor MARS).
 * **Referensi Utama 1 (Paper GENY, IBITeC 2026):** Model Decision Tree CART pada 304.193 balita SKI 2023 (akurasi 75,57%, screening PPV 92,76%), membuktikan tinggi badan dan usia mendominasi 98,23% *feature importance*, serta evaluasi model tanpa TB/usia (macro F1 0,3565).
 * **Referensi Utama 2 (Buku Tugas Akhir Gerrard Sebastian, 160 Hlm):** Sistem pemantauan stunting Kalteng dengan Fuzzy Sugeno & Genetic Algorithm, analisis trayektori ganda (*Dual HAZ baseline vs pengukuran*), serta pelajaran audit data (koreksi tautan ibu kandung `NO_IBU` dan bias umur bulan penuh).
-* 📄 *Dokumentasi lengkap:* [Folder 05 : Laporan Data Crawling & Referensi Utama](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)
+* 📄 *Dokumentasi lengkap:* [Folder 05 : Laporan Data Crawling & Referensi Utama](05-laporan-data-crawling/README.md)
 
 ---
 
@@ -186,7 +186,7 @@ Panduan operasional dan instrumen komprehensif wawancara mendalam bebas bias (*i
 * **Arsitektur 2 Tahap (*Stage 1 vs Stage 2*):** Pemisahan tegas antara Tahap 1 (Problem Discovery murni & dekonstruksi akar masalah) dengan Tahap 2 (Validasi Reaksi 3 Pilar Fitur Geny StuntCare & pengujian kesediaan membayar / WTP).
 * **Triangulasi Saintifik & Matriks Sampling 5 Sel:** Penerapan sampling purposif Sel A (Miskin Stunting), Sel B (Miskin Sehat / *Positive Deviance*), Sel C (Mampu Stunting), Sel D (Mampu Sehat), dan Sel E (Kader/Nakes) di 8 titik wilayah Jawa Timur (Sidoarjo, Malang, Surabaya, Banyuwangi, Magetan, Jember).
 * **Kepatuhan Etika & UU PDP:** Protokol informed consent lisan/tertulis, enkripsi kode unik responden (`IB-01`, `NK-01`), dan perlindungan kerahasiaan data medis balita.
-* 📄 *Instrumen lengkap:* [Folder wawancara : Panduan & Instrumen Customer Discovery](file:///Users/sinitygs/Projects21/wawancara/README.md) | [76 Pertanyaan Wawancara](file:///Users/sinitygs/Projects21/wawancara/pertanyaan_wawancara.md) | [Goals & Interpretasi](file:///Users/sinitygs/Projects21/wawancara/goals_wawancara.md) | [Template Lembar Rekap](file:///Users/sinitygs/Projects21/wawancara/template_lembar_rekap_narasumber.md) | [Protokol Etika & Consent](file:///Users/sinitygs/Projects21/wawancara/informed_consent_dan_protokol_etika.md) | [Matriks Sampling](file:///Users/sinitygs/Projects21/wawancara/matriks_sampling_dan_wilayah_riset.md)
+* 📄 *Instrumen lengkap:* [Folder wawancara : Panduan & Instrumen Customer Discovery](wawancara/README.md) | [76 Pertanyaan Wawancara](wawancara/pertanyaan_wawancara.md) | [Goals & Interpretasi](wawancara/goals_wawancara.md) | [Template Lembar Rekap](wawancara/template_lembar_rekap_narasumber.md) | [Protokol Etika & Consent](wawancara/informed_consent_dan_protokol_etika.md) | [Matriks Sampling](wawancara/matriks_sampling_dan_wilayah_riset.md)
  
 ---
  
@@ -195,7 +195,7 @@ Dokumentasi konsultasi intensif 1-on-1 bersama mentor resmi inkubasi Bandung Tec
 * **Mentoring Sesi 1 (Kamis, 8 Oktober 2026): *"Evaluasi Target Pengguna, Problem Validation & Penajaman Solusi"***  
   Oleh **Wulan Fitriani** (Mentor Inkubasi Bandung Techno Park).  
   *Membahas dekonstruksi kritis target pengguna (mengeliminasi catin & bumil umum demi fokus mutlak pada 1 segmen inti: **Ibu balita faltering/underweight/stunting usia 6–24 bulan**), metodologi validasi 15–20 narasumber serupa via The Mom Test, taktik menjangkau narasumber via rujukan kader posyandu & komunitas MPASI Instagram/TikTok, audit kompetitor 4 platform (PrimaKu, Tentang Anak, Teman Bumil, Kinedu) untuk menemukan celah solusi (**AI + Kurva Pertumbuhan + Personalized Action Plan MPASI**), kebutuhan dewan penasihat medis (dokter anak & ahli gizi), positioning nakes sebagai validator non-beban, serta disiplin menolak feature creep.*
-* 📄 *Notulensi & Berita Acara:* [Folder mentoring](file:///Users/sinitygs/Projects21/mentoring/README.md) | [Notulensi Lengkap Sesi 1 (8 Okt 2026)](file:///Users/sinitygs/Projects21/mentoring/8-Oktober-2026.md) | [Berita Acara Resmi (PDF)](file:///Users/sinitygs/Projects21/mentoring/Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf) | [Materi BTP M1-L4 Analyze Problems (PDF)](file:///Users/sinitygs/Projects21/mentoring/BAHASA_M1%20-%20L4%20Analyze%20Problems%20-%20Indonesian.pdf) | [Kanvas Pernyataan Masalah](file:///Users/sinitygs/Projects21/mentoring/Kanvas%20Pernyataan%20Masalah.jpeg) | [Analisis Kompetitor](file:///Users/sinitygs/Projects21/competitor-analysis.md)
+* 📄 *Notulensi & Berita Acara:* [Folder mentoring](mentoring/README.md) | [Notulensi Lengkap Sesi 1 (8 Okt 2026)](mentoring/8-Oktober-2026.md) | [Berita Acara Resmi (PDF)](mentoring/Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf) | [Materi BTP M1-L4 Analyze Problems (PDF)](mentoring/BAHASA_M1%20-%20L4%20Analyze%20Problems%20-%20Indonesian.pdf) | [Kanvas Pernyataan Masalah](mentoring/Kanvas%20Pernyataan%20Masalah.jpeg) | [Analisis Kompetitor](competitor-analysis.md)
  
 ---
  
@@ -207,9 +207,9 @@ Panduan wawancara mendalam tingkat tinggi (*high-level expert consultation guide
   *Membedah realitas klinis faskes dan disparitas Jatim vs luar Jawa, SOP alur rujukan berjenjang stunting desa (Posyandu ➔ Puskesmas ➔ RSUD) dan titik sumbatannya, zero data-entry burden nakes, rekomendasi Dokter Spesialis Anak (Sp.A IDAI) & nutrisionis teladan, pemilihan lokus faskes puskesmas percontohan (high-burden vs high-readiness), strategi rekrutmen humanis keluarga balita garis kuning KMS melalui PKK, integrasi TPPS Kota Palangka Raya, serta permohonan sebagai Public Health Advisory Board.*
 * **Bapak Setyohadi** (Senior Corporate Leader Telkom Group, Pakar Enterprise Sales, Rekam Jejak Penugasan Lintas Regional Indonesia):  
   *Membedah sinergi Telkom Regional V (Jatim) menuju Regional VI (Kalimantan), skema pendanaan TJSL/CSR BUMN penanganan stunting, jejaring ekosistem Digital Health BUMN (Telkom Health/Mediv, Yakes, Indigo, DBT), kemitraan hardware antropometri kit berbasis IoT/Bluetooth, ketahanan arsitektur offline-first, kepatuhan UU PDP No. 27/2022 & cloud NeuCentrIX, navigasi traksi reviewer BTP, serta permohonan sebagai Business & Strategic Advisor.*
-* 📄 *Panduan lengkap:* [06-expert-advisory-meeting/README.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/README.md)
-* 📘 *README Terstruktur Notulensi Resmi (14 Okt 2026):* [06-expert-advisory-meeting/notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md) (Rekaman: [YouTube Video](https://youtu.be/-jGlQGCjEwI))
-* 📄 *Salinan Berkas Markdown:* [06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md)
+* 📄 *Panduan lengkap:* [06-expert-advisory-meeting/README.md](06-expert-advisory-meeting/README.md)
+* 📘 *README Terstruktur Notulensi Resmi (14 Okt 2026):* [06-expert-advisory-meeting/notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md](06-expert-advisory-meeting/notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md) (Rekaman: [YouTube Video](https://youtu.be/-jGlQGCjEwI))
+* 📄 *Salinan Berkas Markdown:* [06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md)
 
 ---
 

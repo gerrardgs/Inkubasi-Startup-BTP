@@ -2,8 +2,8 @@
 
 > **Bedah Naskah Buku Tugas Akhir Sarjana Informatika (160 Halaman): Monitoring Dinamika Stunting Balita Berbasis Kecerdasan Buatan**  
 > **Judul Naskah**: *Monitoring Stunting pada Balita di Kalimantan Tengah Menggunakan Fuzzy Logic (Studi Kasus Data SKI 2023)*  
-> Bagian dari Modul: **[05-laporan-data-crawling](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)**  
-> Berkas Naskah Asli: [references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf) *(160 Halaman, 19.706 KB)*  
+> Bagian dari Modul: **[05-laporan-data-crawling](README.md)**  
+> Berkas Naskah Asli: [references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf) *(160 Halaman, 19.706 KB)*  
 > Penulis: **Gerrard Sebastian (NIM: 1203220018)** | Institusi: **Universitas Telkom Kampus Surabaya (2026)**  
 
 ---
@@ -150,4 +150,4 @@ Penelitian Tugas Akhir Gerrard Sebastian ini merupakan **fondasi awal (*stepping
 
 ---
 *Langkah selanjutnya: Mempelajari Alur Kerja Terintegrasi:*  
-👉 **[Lanjut ke 05. Alur Kerja & Integrasi Flow (End-to-End Master Architecture) ➔](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/05_alur_kerja_dan_integrasi_flow.md)**
+👉 **[Lanjut ke 05. Alur Kerja & Integrasi Flow (End-to-End Master Architecture) ➔](05_alur_kerja_dan_integrasi_flow.md)**

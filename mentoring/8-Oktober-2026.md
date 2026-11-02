@@ -32,10 +32,10 @@ Berdasarkan dokumen resmi **Berita Acara Mentoring Program Inkubasi Tahun 2026 B
 | **Status Berita Acara** | **Disetujui & Divalidasi oleh Mentee dan Mentor** |
 
 ### 📂 Berkas & Arsip Pendukung Terkait:
-1. 📄 **Berita Acara Resmi BTP (PDF Asli):** [`Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf`](file:///Users/sinitygs/Projects21/mentoring/Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf) / [`Mentoring Genystuntcare.pdf`](file:///Users/sinitygs/Projects21/mentoring/Mentoring%20Genystuntcare.pdf)
-2. 📘 **Materi Pelatihan BTP M1-L4 (Analyze Problems):** [`BAHASA_M1 - L4 Analyze Problems - Indonesian.pdf`](file:///Users/sinitygs/Projects21/mentoring/BAHASA_M1%20-%20L4%20Analyze%20Problems%20-%20Indonesian.pdf)
-3. 🖼️ **Kerangka Kanvas BTP:** [`Kanvas Pernyataan Masalah.jpeg`](file:///Users/sinitygs/Projects21/mentoring/Kanvas%20Pernyataan%20Masalah.jpeg)
-4. 📊 **Dokumen Riset Kompetitor Platform Parenting & Tumbuh Kembang:** [`competitor-analysis.md`](file:///Users/sinitygs/Projects21/competitor-analysis.md)
+1. 📄 **Berita Acara Resmi BTP (PDF Asli):** [`Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf`](Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf) / [`Mentoring Genystuntcare.pdf`](Mentoring%20Genystuntcare.pdf)
+2. 📘 **Materi Pelatihan BTP M1-L4 (Analyze Problems):** [`BAHASA_M1 - L4 Analyze Problems - Indonesian.pdf`](BAHASA_M1%20-%20L4%20Analyze%20Problems%20-%20Indonesian.pdf)
+3. 🖼️ **Kerangka Kanvas BTP:** [`Kanvas Pernyataan Masalah.jpeg`](Kanvas%20Pernyataan%20Masalah.jpeg)
+4. 📊 **Dokumen Riset Kompetitor Platform Parenting & Tumbuh Kembang:** [`competitor-analysis.md`](../competitor-analysis.md)
 
 ---
 

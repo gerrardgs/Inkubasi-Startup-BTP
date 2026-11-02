@@ -2,9 +2,9 @@
 
 > **Dokumentasi Ilmiah & Bedah Lengkap Paper Publikasi Internasional IEEE IBITeC 2026**  
 > **Judul Naskah**: *Predicting Childhood Stunting Risk from Field-Recordable Survey Variables Using Decision Tree Learning*  
-> Bagian dari Modul: **[05-laporan-data-crawling](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)**  
-> Berkas Naskah Asli: [references/PaperGeny.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/PaperGeny.pdf) *(6 Halaman, 275 KB)*  
-> Berkas Audit Naskah: [references/Audit_Paper_GENY_draf_19Agu2026.docx](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Audit_Paper_GENY_draf_19Agu2026.docx) *(24 KB)*  
+> Bagian dari Modul: **[05-laporan-data-crawling](README.md)**  
+> Berkas Naskah Asli: [references/PaperGeny.pdf](references/PaperGeny.pdf) *(6 Halaman, 275 KB)*  
+> Berkas Audit Naskah: [references/Audit_Paper_GENY_draf_19Agu2026.docx](references/Audit_Paper_GENY_draf_19Agu2026.docx) *(24 KB)*  
 
 ---
 
@@ -181,4 +181,4 @@ Model Decision Tree ini diekspor ke dalam format metadata serial (`feature_colum
 
 ---
 *Lanjut membaca dokumen referensi pendukung kedua:*  
-👉 **[Lanjut ke 04. Referensi Utama 2: Buku Tugas Akhir Stunting (Fuzzy Logic & GA) ➔](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/04_referensi_utama_2_buku_ta_stunting.md)**
+👉 **[Lanjut ke 04. Referensi Utama 2: Buku Tugas Akhir Stunting (Fuzzy Logic & GA) ➔](04_referensi_utama_2_buku_ta_stunting.md)**

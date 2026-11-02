@@ -21,7 +21,7 @@
 * **Waktu**: **09.00 – 11.30 WIB**
 * **Media**: Daring via Zoom Meeting
 * **Tautan Presensi**: [Google Form Presensi Kehadiran BTP](https://forms.gle/6rpV3CnAXCbo3axDA)
-* **Dokumentasi Terkait**: [Modul Terstruktur 10 Berkas](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/sesi-03-problem-validation-dan-vpc/README.md) | [Informasi & Poster Resmi](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/info_dan_poster_sesi_3.md)
+* **Dokumentasi Terkait**: [Modul Terstruktur 10 Berkas](sesi-03-problem-validation-dan-vpc/README.md) | [Informasi & Poster Resmi](info_dan_poster_sesi_3.md)
 
 ---
 

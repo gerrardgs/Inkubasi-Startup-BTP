@@ -50,6 +50,6 @@
 
 ## 🔗 Tautan Navigasi Notulensi Sesi 3
 
-- 📄 **Notulensi Masterclass Menyeluruh:** [notulensi_lengkap_sesi_3_muhammad_nur_awaludin.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/notulensi_lengkap_sesi_3_muhammad_nur_awaludin.md)
-- 📁 **Modul Terstruktur Sesi 3 (10 Berkas Lengkap):** [sesi-03-problem-validation-dan-vpc/](file:///Users/sinitygs/Projects21/04-notulensi-workshop/workshop-01/sesi-03-problem-validation-dan-vpc/)
-- 📘 **Indeks Utama Workshop 04:** [04-notulensi-workshop/README.md](file:///Users/sinitygs/Projects21/04-notulensi-workshop/README.md)
+- 📄 **Notulensi Masterclass Menyeluruh:** [notulensi_lengkap_sesi_3_muhammad_nur_awaludin.md](notulensi_lengkap_sesi_3_muhammad_nur_awaludin.md)
+- 📁 **Modul Terstruktur Sesi 3 (10 Berkas Lengkap):** [sesi-03-problem-validation-dan-vpc/](sesi-03-problem-validation-dan-vpc/)
+- 📘 **Indeks Utama Workshop 04:** [04-notulensi-workshop/README.md](../README.md)

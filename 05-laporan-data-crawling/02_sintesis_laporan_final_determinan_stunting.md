@@ -1,8 +1,8 @@
 # 📑 Sintesis Komprehensif Laporan Final: Determinan Stunting Indonesia, Pengaruh Finansial & Pendidikan Ibu, Audit Bukti, dan Peluang Pasar
 
 > **Dekonstruksi Ilmiah 27 Halaman Naskah Laporan Final, Sintesis Bukti Kuantitatif-Kualitatif, Eliminasi 13 Klaim Usang, dan Audit Data Mikro SKI 2023**  
-> Bagian dari Modul: **[05-laporan-data-crawling](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)**  
-> Berkas Sumber Asli: [references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf) *(27 Halaman, 1.363 KB)*  
+> Bagian dari Modul: **[05-laporan-data-crawling](README.md)**  
+> Berkas Sumber Asli: [references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf) *(27 Halaman, 1.363 KB)*  
 > Disusun untuk: **GENY / Tim Inkubasi BTP Batch 24** | Penulis: **Gerrard Sebastian** | Pembaruan: **26 September 2026**
 
 ---
@@ -289,5 +289,5 @@ Pemeriksaan terhadap file subsampel Kalimantan Tengah (`Individu_balita_2023_mer
 
 ---
 *Langkah selanjutnya: Mempelajari 2 Referensi Pendukung Utama:*  
-👉 **[Lanjut ke 03. Referensi Utama 1: Paper GENY (Decision Tree SKI 2023) ➔](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/03_referensi_utama_1_paper_geny.md)**  
-👉 **[Lanjut ke 04. Referensi Utama 2: Buku Tugas Akhir Stunting (Fuzzy Logic & GA) ➔](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/04_referensi_utama_2_buku_ta_stunting.md)**
+👉 **[Lanjut ke 03. Referensi Utama 1: Paper GENY (Decision Tree SKI 2023) ➔](03_referensi_utama_1_paper_geny.md)**  
+👉 **[Lanjut ke 04. Referensi Utama 2: Buku Tugas Akhir Stunting (Fuzzy Logic & GA) ➔](04_referensi_utama_2_buku_ta_stunting.md)**

@@ -1,7 +1,7 @@
 # 🌐 Laporan Data Crawling: Ekstraksi Bukti Ilmiah Consensus, Dataset 20 Paper UCD & Audit Korpus Sintesis
 
 > **Dokumentasi Metodologis Pengambilan Data Sekunder, Penelusuran Literatur Akademik, dan Audit Kritis Bukti Digital Stunting Indonesia**  
-> Bagian dari Modul: **[05-laporan-data-crawling](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)**  
+> Bagian dari Modul: **[05-laporan-data-crawling](README.md)**  
 > Disusun oleh: **Gerrard Sebastian** | Tanggal: **26 September 2026**
 
 ---
@@ -43,7 +43,7 @@ flowchart TD
 ## 2. Corpus 1: Analisis Ekspor Consensus "Faktor-faktor Stunting Indonesia"
 
 *Berkas Sumber:*  
-- 📄 [references/Faktor Faktor Stunting Indonesia - Consensus.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf) *(102 Halaman, 2.056 KB)*  
+- 📄 [references/Faktor Faktor Stunting Indonesia - Consensus.pdf](references/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf) *(102 Halaman, 2.056 KB)*  
 - *Lokasi Asli:* `/Users/sinitygs/Downloads/GENY/Faktor Faktor Stunting Indonesia - Consensus.pdf`
 
 Ekspor sesi Consensus mencakup **22 pertanyaan penelitian unik** yang dieksekusi secara terstruktur. Seluruh kutipan dan angka ukuran efek (*Odds Ratio* / *Relative Risk*) diperiksa ulang langsung ke abstrak dan teks lengkap artikel aslinya.
@@ -80,7 +80,7 @@ Ekspor sesi Consensus mencakup **22 pertanyaan penelitian unik** yang dieksekusi
 ## 3. Corpus 2: Dataset 20 Paper UCD & Implementasi Aplikasi Stunting
 
 *Berkas Sumber:*  
-- 📊 [references/Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Does%20user-centered%20design%20improve%20stunting%20app%20uptake%20in%20Indonesian%20caregivers%20-%2026%20Sep%202026.csv) *(46 KB, 20 Baris Data)*  
+- 📊 [references/Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv](references/Does%20user-centered%20design%20improve%20stunting%20app%20uptake%20in%20Indonesian%20caregivers%20-%2026%20Sep%202026.csv) *(46 KB, 20 Baris Data)*  
 - *Lokasi Asli:* `/Users/sinitygs/Downloads/GENY/Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv`
 
 Dataset ini mengumpulkan **20 studi empiris** tentang aplikasi *mobile* stunting, pemantauan tumbuh kembang anak, dan metodologi desain berpusat pada pengguna (*User-Centered Design* / UCD) di Indonesia dari tahun 2021 hingga 2026.
@@ -125,10 +125,10 @@ pie title Distribusi Indeksasi Jurnal (20 Paper UCD Stunting)
 
 ## 4. Corpus 3: Audit Korpus Sintesis NotebookLM & Visualisasi Data
 
-*Berkas Sumber Tersimpan di Subfolder [`references/`](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references) dan [`assets/`](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets):*
-- [Analisis Komprehensif Faktor Stunting, Kontradiksi Literatur, dan Peluang Pasar Solusi Digital.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Analisis%20Komprehensif%20Faktor%20Stunting,%20Kontradiksi%20Literatur,%20dan%20Peluang%20Pasar%20Solusi%20Digital.pdf)
-- [Digital Solutions for Stunting Prevention and Child Growth Monitoring.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Digital%20Solutions%20for%20Stunting%20Prevention%20and%20Child%20Growth%20Monitoring.pdf)
-- [Laporan_Audit_Inovasi_Digital_Stunting_v3.docx](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Laporan_Audit_Inovasi_Digital_Stunting_v3.docx)
+*Berkas Sumber Tersimpan di Subfolder [`references/`](references/) dan [`assets/`](assets/):*
+- [Analisis Komprehensif Faktor Stunting, Kontradiksi Literatur, dan Peluang Pasar Solusi Digital.pdf](references/Analisis%20Komprehensif%20Faktor%20Stunting%2C%20Kontradiksi%20Literatur%2C%20dan%20Peluang%20Pasar%20Solusi%20Digital.pdf)
+- [Digital Solutions for Stunting Prevention and Child Growth Monitoring.pdf](references/Digital%20Solutions%20for%20Stunting%20Prevention%20and%20Child%20Growth%20Monitoring.pdf)
+- [Laporan_Audit_Inovasi_Digital_Stunting_v3.docx](references/Laporan_Audit_Inovasi_Digital_Stunting_v3.docx)
 - Grafik Analisis: `chart1_trend_publikasi_v3.png` s.d. `chart7_matrix_risiko_kegagalan_v3.png`
 
 ### Mengapa Korpus NotebookLM Harus Diaudit Ulang?
@@ -185,4 +185,4 @@ Semua berkas hasil *crawling* dan rujukan terkait tersedia secara lokal di repos
 
 ---
 *Langkah selanjutnya dalam penelaahan bukti:*  
-👉 **[Lanjut ke 02. Sintesis Mendalam Laporan Final Determinan Stunting Indonesia ➔](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/02_sintesis_laporan_final_determinan_stunting.md)**
+👉 **[Lanjut ke 02. Sintesis Mendalam Laporan Final Determinan Stunting Indonesia ➔](02_sintesis_laporan_final_determinan_stunting.md)**

@@ -46,12 +46,12 @@ timeline
 > 🎬 **Pembaruan Hasil Eksekusi Sesi 1 Wawancara Dewan Pakar (14 Oktober 2026):**  
 > Sesi konsultasi mendalam bersama **dr. Dewi Rama Dewa, M.Kes.** dan **Bapak Setyohadi** telah tuntas dilaksanakan (Durasi: ~1 Jam 3 Menit).  
 > * 📹 **Tautan Rekaman YouTube:** [https://youtu.be/-jGlQGCjEwI](https://youtu.be/-jGlQGCjEwI)  
-> * 📘 **README Terstruktur Notulensi Resmi:** [notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md)  
-> * 📄 **Salinan Berkas Markdown:** [hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md)
+> * 📘 **README Terstruktur Notulensi Resmi:** [notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md](notulensi-wawancara-dr-dewi-dan-bpk-setyohadi/README.md)  
+> * 📄 **Salinan Berkas Markdown:** [hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md](hasil-wawancara-dr-dewi-dan-bpk-setyohadi-14-oktober-2026.md)
 
 > 📱 **Pembaruan Hasil Konsultasi Sesi 2 Dewan Pakar via WhatsApp (27 Oktober 2026):**  
 > Konsultasi strategis dan validasi terarah bersama **Prof. / Dr. Heti Ira Ayue, S.ST., M.Keb.** (Pemohon Data Mikro SKI 2023 & Dosen Senior Poltekkes Kemenkes Palangka Raya) telah tuntas dilaksanakan secara asinkron via WhatsApp.  
-> * 📄 **Dokumen Resmi Notulensi & Pembedahan:** [hasil-wawancara-bu-heti-27-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-bu-heti-27-oktober-2026.md)  
+> * 📄 **Dokumen Resmi Notulensi & Pembedahan:** [hasil-wawancara-bu-heti-27-oktober-2026.md](hasil-wawancara-bu-heti-27-oktober-2026.md)  
 > * 🎯 **Keputusan Kunci:** Validasi mutlak strategi *"Jawa Timur First"*, peta jalan ekspansi Kalteng melalui *Pelayanan Kompak* & Puskesmas, keputusan eliminasi keterlibatan psikolog (*anti-scope creep*), serta disiplin alokasi anggaran startup (*prioritas pengembangan aplikasi & lean fieldwork*).
 
 ---
@@ -139,7 +139,7 @@ graph TD
 
 > 💡 **Status Pembaruan (27 Oktober 2026):**  
 > Konsultasi strategis bersama Prof. / Dr. Heti Ira Ayue telah berhasil dilaksanakan secara asinkron via WhatsApp. Dr. Heti secara resmi mendukung penuh inkubasi BTP, memvalidasi mutlak strategi *"Jawa Timur First"*, menyiapkan pintu masuk Kalteng via Pelayanan Kompak & kerja sama Puskesmas, mengeliminasi persona psikolog (*anti-scope creep*), serta mengarahkan alokasi sumber daya ke pengembangan aplikasi dan penerapan *lean*.  
-> 📄 **Baca Notulensi Lengkap:** [hasil-wawancara-bu-heti-27-oktober-2026.md](file:///Users/sinitygs/Projects21/06-expert-advisory-meeting/hasil-wawancara-bu-heti-27-oktober-2026.md)
+> 📄 **Baca Notulensi Lengkap:** [hasil-wawancara-bu-heti-27-oktober-2026.md](hasil-wawancara-bu-heti-27-oktober-2026.md)
 
 ---
 
@@ -147,14 +147,14 @@ graph TD
 
 #### ❓ Pertanyaan A.1: Resolusi Bobot Fitur vs Konsep Prediktor Multifaktorial
 * **Redaksi Pertanyaan:**  
-  *"Prof. Heti, dalam publikasi terbaru Ibu di Journal of Public Health Research (2024) yang mengulas 'Multifactorial predictors of stunting in children under five', Ibu menegaskan bahwa stunting dipicu oleh interaksi kompleks gizi, sanitasi, infeksi, dan pengasuhan. Namun, pada [Paper GENY](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/03_referensi_utama_1_paper_geny.md) kami berbasis data mikro SKI 2023 yang Ibu ajukan ke Kemenkes, model Decision Tree CART kami menemukan bahwa tinggi/panjang badan dan usia mendominasi 98,23% feature importance. Dari sudut pandang metodologi penelitian kedokteran, bagaimana kami harus menyandingkan temuan pohon biner ini dengan teori multifaktorial Ibu agar sistem triase kami tidak dianggap menyederhanakan determinan biologis anak?"*
+  *"Prof. Heti, dalam publikasi terbaru Ibu di Journal of Public Health Research (2024) yang mengulas 'Multifactorial predictors of stunting in children under five', Ibu menegaskan bahwa stunting dipicu oleh interaksi kompleks gizi, sanitasi, infeksi, dan pengasuhan. Namun, pada [Paper GENY](../05-laporan-data-crawling/03_referensi_utama_1_paper_geny.md) kami berbasis data mikro SKI 2023 yang Ibu ajukan ke Kemenkes, model Decision Tree CART kami menemukan bahwa tinggi/panjang badan dan usia mendominasi 98,23% feature importance. Dari sudut pandang metodologi penelitian kedokteran, bagaimana kami harus menyandingkan temuan pohon biner ini dengan teori multifaktorial Ibu agar sistem triase kami tidak dianggap menyederhanakan determinan biologis anak?"*
 * **Rasionalitas Data:** Mempertahankan keabsahan Paper IBITeC 2026 dan menyelaraskannya dengan disertasi S3 Prof. Heti di UB.
 * **Target Insight:** Justifikasi bahwa model CART berfungsi sebagai *alat skrining cepat tingkat pertama (first-line triage)*, sementara determinan multifaktorial berfungsi sebagai *penentu intervensi tingkat kedua (second-line intervention)*.
 * **Probing:** *"Jika anak terdeteksi berada di ambang batas z-score -1.9 SD (hampir stunting), prediktor non-antropometri apa dari kuesioner SKI yang menurut Ibu paling mendesak dihitung sebagai skor risiko pendukung?"*
 
 #### ❓ Pertanyaan A.2: Evaluasi Trayektori Ganda Dinamis (Buku TA Fuzzy Kalteng)
 * **Redaksi Pertanyaan:**  
-  *"Dalam [Buku Tugas Akhir](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/04_referensi_utama_2_buku_ta_stunting.md) kami mengenai stunting di 14 Kabupaten/Kota Kalimantan Tengah, kami menemukan kelemahan mendasar posyandu yang hanya mendiagnosis secara statis pada satu titik waktu. Kami merancang logika Fuzzy Sugeno yang membandingkan Panjang Badan Lahir (PBL) dengan kondisi saat pengukuran untuk membedakan balita 'catch-up growth' vs 'growth faltering'. Berdasarkan pengamatan klinis Ibu di Kalimantan Tengah, seberapa besar proporsi balita yang lahir dengan panjang normal namun mengalami 'growth faltering' drastis setelah memasuki usia MPASI (6–12 bulan)?"*
+  *"Dalam [Buku Tugas Akhir](../05-laporan-data-crawling/04_referensi_utama_2_buku_ta_stunting.md) kami mengenai stunting di 14 Kabupaten/Kota Kalimantan Tengah, kami menemukan kelemahan mendasar posyandu yang hanya mendiagnosis secara statis pada satu titik waktu. Kami merancang logika Fuzzy Sugeno yang membandingkan Panjang Badan Lahir (PBL) dengan kondisi saat pengukuran untuk membedakan balita 'catch-up growth' vs 'growth faltering'. Berdasarkan pengamatan klinis Ibu di Kalimantan Tengah, seberapa besar proporsi balita yang lahir dengan panjang normal namun mengalami 'growth faltering' drastis setelah memasuki usia MPASI (6–12 bulan)?"*
 * **Target Insight:** Konfirmasi klinis bahwa keterlambatan tumbuh di Kalteng mayoritas terjadi pada fase MPASI akibat kesalahan pola asuh/asupan, bukan murni faktor genetik bawaan.
 
 ---

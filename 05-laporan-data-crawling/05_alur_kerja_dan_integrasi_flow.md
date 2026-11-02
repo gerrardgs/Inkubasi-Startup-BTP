@@ -1,7 +1,7 @@
 # 🔄 Alur Kerja Terintegrasi & Master Architecture Flow
 
 > **Arsitektur Alur Kerja Menyeluruh: Dari Data Crawling Multi-Sumber, Triangulasi Bukti Ilmiah, Rekayasa Data Mikro SKI 2023, Pemodelan AI (Fuzzy & Decision Tree), hingga Eksekusi Lapangan Startup Geny StuntCare**  
-> Bagian dari Modul: **[05-laporan-data-crawling](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)**  
+> Bagian dari Modul: **[05-laporan-data-crawling](README.md)**  
 > Disusun oleh: **Gerrard Sebastian** | Tanggal: **26 September 2026**
 
 ---
@@ -230,16 +230,16 @@ Semua komponen dokumen dan aset dalam workflow ini dapat diakses secara langsung
 
 | Tahapan Workflow | Berkas Dokumen Terkait | Tautan Langsung Workspace | Path Sistem Operasi Lokal |
 | :--- | :--- | :--- | :--- |
-| **Kompilasi Crawling** | Ekspor Sesi Consensus (102 Halaman) | [Consensus PDF](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf) | `/Users/sinitygs/Downloads/GENY/Faktor Faktor Stunting Indonesia - Consensus.pdf` |
-| **Kompilasi Crawling** | Dataset 20 Paper UCD Stunting | [20 UCD Papers CSV](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Does%20user-centered%20design%20improve%20stunting%20app%20uptake%20in%20Indonesian%20caregivers%20-%2026%20Sep%202026.csv) | `/Users/sinitygs/Downloads/GENY/Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv` |
-| **Sintesis Bukti** | Laporan Final Determinan (27 Halaman) | [Laporan Final PDF](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf) | `/Users/sinitygs/Downloads/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf` |
-| **Referensi Utama 1** | Paper GENY (IEEE IBITeC 2026) | [Paper GENY PDF](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/PaperGeny.pdf) | `/Users/sinitygs/Downloads/PaperGeny.pdf` |
-| **Referensi Utama 1** | Audit Forensik Naskah Paper GENY | [Audit Paper DOCX](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Audit_Paper_GENY_draf_19Agu2026.docx) | `/Users/sinitygs/Downloads/Audit_Paper_GENY_draf_19Agu2026.docx` |
-| **Referensi Utama 2** | Buku Tugas Akhir Stunting (160 Hlm) | [Buku TA PDF](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf) | `/Users/sinitygs/Downloads/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf` |
-| **Visualisasi Aset** | Benchmark MARS Terverifikasi | [MARS Chart](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart3_mars_benchmarking_v3.png) | `/Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart3_mars_benchmarking_v3.png` |
-| **Visualisasi Aset** | Efisiensi Kader Posyandu | [Efisiensi Chart](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart5_efisiensi_operasional_kader_v3.png) | `/Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart5_efisiensi_operasional_kader_v3.png` |
-| **Visualisasi Aset** | Forest Plot Odds Ratio Terverifikasi | [Odds Ratio Chart](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart4_odds_ratio_stunting_v3.png) | `/Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart4_odds_ratio_stunting_v3.png` |
+| **Kompilasi Crawling** | Ekspor Sesi Consensus (102 Halaman) | [Consensus PDF](references/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf) | `/Users/sinitygs/Downloads/GENY/Faktor Faktor Stunting Indonesia - Consensus.pdf` |
+| **Kompilasi Crawling** | Dataset 20 Paper UCD Stunting | [20 UCD Papers CSV](references/Does%20user-centered%20design%20improve%20stunting%20app%20uptake%20in%20Indonesian%20caregivers%20-%2026%20Sep%202026.csv) | `/Users/sinitygs/Downloads/GENY/Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv` |
+| **Sintesis Bukti** | Laporan Final Determinan (27 Halaman) | [Laporan Final PDF](references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf) | `/Users/sinitygs/Downloads/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf` |
+| **Referensi Utama 1** | Paper GENY (IEEE IBITeC 2026) | [Paper GENY PDF](references/PaperGeny.pdf) | `/Users/sinitygs/Downloads/PaperGeny.pdf` |
+| **Referensi Utama 1** | Audit Forensik Naskah Paper GENY | [Audit Paper DOCX](references/Audit_Paper_GENY_draf_19Agu2026.docx) | `/Users/sinitygs/Downloads/Audit_Paper_GENY_draf_19Agu2026.docx` |
+| **Referensi Utama 2** | Buku Tugas Akhir Stunting (160 Hlm) | [Buku TA PDF](references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf) | `/Users/sinitygs/Downloads/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf` |
+| **Visualisasi Aset** | Benchmark MARS Terverifikasi | [MARS Chart](assets/chart3_mars_benchmarking_v3.png) | `/Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart3_mars_benchmarking_v3.png` |
+| **Visualisasi Aset** | Efisiensi Kader Posyandu | [Efisiensi Chart](assets/chart5_efisiensi_operasional_kader_v3.png) | `/Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart5_efisiensi_operasional_kader_v3.png` |
+| **Visualisasi Aset** | Forest Plot Odds Ratio Terverifikasi | [Odds Ratio Chart](assets/chart4_odds_ratio_stunting_v3.png) | `/Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart4_odds_ratio_stunting_v3.png` |
 
 ---
 *Kembali ke indeks utama:*  
-👉 **[Kembali ke 📁 README.md Indeks Folder 05 ➔](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)**
+👉 **[Kembali ke 📁 README.md Indeks Folder 05 ➔](README.md)**

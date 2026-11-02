@@ -38,7 +38,7 @@ mentoring/
 
 | Sesi | Hari & Tanggal | Nama Mentor | Topik Fokus Diskusi | Status Dokumentasi | Berkas Berita Acara | Tautan Notulensi |
 | :---: | :---: | :--- | :--- | :---: | :---: | :--- |
-| **Mentoring 1** | **Kamis, 08 Oktober 2026** | **Wulan Fitriani** | **Evaluasi Target User, Penajaman Segmen Ibu Balita Underweight, Metodologi Validasi Masalah, Analisis Kompetitor & Pengendalian Fitur** | **Lengkap & Terverifikasi** | [Unduh PDF Berita Acara](file:///Users/sinitygs/Projects21/mentoring/Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf) | [Buka Notulensi Sesi 1](file:///Users/sinitygs/Projects21/mentoring/8-Oktober-2026.md) |
+| **Mentoring 1** | **Kamis, 08 Oktober 2026** | **Wulan Fitriani** | **Evaluasi Target User, Penajaman Segmen Ibu Balita Underweight, Metodologi Validasi Masalah, Analisis Kompetitor & Pengendalian Fitur** | **Lengkap & Terverifikasi** | [Unduh PDF Berita Acara](Berita_Acara_Mentoring_01_Wulan_Fitriani_08Okt2026.pdf) | [Buka Notulensi Sesi 1](8-Oktober-2026.md) |
 | **Mentoring 2** | *Upcoming* | *Akan Diumumkan* | *Evaluasi Hasil Wawancara 15–20 Ibu Balita & Formulasi Problem-Solution Fit* | *Menunggu Jadwal* | — | — |
 | **Mentoring 3** | *Upcoming* | *Akan Diumumkan* | *Validasi Solusi, Uji Prototipe MVP & Value Proposition Canvas* | *Menunggu Jadwal* | — | — |
 

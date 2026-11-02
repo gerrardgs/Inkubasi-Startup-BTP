@@ -66,58 +66,58 @@ Folder ini dibagi secara sistematis ke dalam 5 dokumen panduan utama serta subdi
 
 | Dokumen | Deskripsi & Fokus Isi | Tautan Langsung |
 | :--- | :--- | :--- |
-| **01. Laporan Data Crawling** | Hasil *crawling* 102 halaman Consensus, analisis 20 paper UCD, audit korpus NotebookLM, dan statistik makro. | [01_laporan_data_crawling_consensus_dan_ucd.md](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/01_laporan_data_crawling_consensus_dan_ucd.md) |
-| **02. Sintesis Laporan Final** | Bedah tuntas 27 halaman Laporan Final: determinan stunting, bukti kontra, audit 13 klaim, dan roadmap 16 minggu. | [02_sintesis_laporan_final_determinan_stunting.md](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/02_sintesis_laporan_final_determinan_stunting.md) |
-| **03. Referensi Utama 1 (Paper GENY)** | Analisis saintifik Paper IBITeC 2026: Decision Tree pada 304.193 balita SKI 2023, dominasi TB/usia (98.23%), dan trade-off auditability. | [03_referensi_utama_1_paper_geny.md](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/03_referensi_utama_1_paper_geny.md) |
-| **04. Referensi Utama 2 (Buku TA)** | Bedah buku Tugas Akhir (160 halaman): Monitoring Stunting Kalteng dengan Fuzzy Takagi-Sugeno & GA, evaluasi dual HAZ, dan temuan audit. | [04_referensi_utama_2_buku_ta_stunting.md](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/04_referensi_utama_2_buku_ta_stunting.md) |
-| **05. Alur Kerja & Integrasi Flow** | Master flow triangulasi data, pipeline preprocessing data mikro, evolusi machine learning, dan operational execution flow. | [05_alur_kerja_dan_integrasi_flow.md](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/05_alur_kerja_dan_integrasi_flow.md) |
+| **01. Laporan Data Crawling** | Hasil *crawling* 102 halaman Consensus, analisis 20 paper UCD, audit korpus NotebookLM, dan statistik makro. | [01_laporan_data_crawling_consensus_dan_ucd.md](01_laporan_data_crawling_consensus_dan_ucd.md) |
+| **02. Sintesis Laporan Final** | Bedah tuntas 27 halaman Laporan Final: determinan stunting, bukti kontra, audit 13 klaim, dan roadmap 16 minggu. | [02_sintesis_laporan_final_determinan_stunting.md](02_sintesis_laporan_final_determinan_stunting.md) |
+| **03. Referensi Utama 1 (Paper GENY)** | Analisis saintifik Paper IBITeC 2026: Decision Tree pada 304.193 balita SKI 2023, dominasi TB/usia (98.23%), dan trade-off auditability. | [03_referensi_utama_1_paper_geny.md](03_referensi_utama_1_paper_geny.md) |
+| **04. Referensi Utama 2 (Buku TA)** | Bedah buku Tugas Akhir (160 halaman): Monitoring Stunting Kalteng dengan Fuzzy Takagi-Sugeno & GA, evaluasi dual HAZ, dan temuan audit. | [04_referensi_utama_2_buku_ta_stunting.md](04_referensi_utama_2_buku_ta_stunting.md) |
+| **05. Alur Kerja & Integrasi Flow** | Master flow triangulasi data, pipeline preprocessing data mikro, evolusi machine learning, dan operational execution flow. | [05_alur_kerja_dan_integrasi_flow.md](05_alur_kerja_dan_integrasi_flow.md) |
 
 ---
 
 ## 📚 Akses Langsung ke Berkas Referensi Asli (*Direct Reference Files*)
 
-Seluruh berkas dokumen sumber, naskah publikasi, dataset crawling, dan draf audit telah diarsipkan secara lokal dalam subfolder [`references/`](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references) dan dapat diakses langsung melalui tautan di bawah ini:
+Seluruh berkas dokumen sumber, naskah publikasi, dataset crawling, dan draf audit telah diarsipkan secara lokal dalam subfolder [`references/`](references/) dan dapat diakses langsung melalui tautan di bawah ini:
 
 ### 1. Naskah Riset Utama & Buku Tugas Akhir (Tersedia Langsung di Folder Ini)
 - 📘 **Buku TA Stunting (Gerrard Sebastian, 160 Halaman)**:  
-  [1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf)  
-  *(Salinan Arsip: [references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf))*
+  [1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf)  
+  *(Salinan Arsip: [references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf](references/1203220018_GERRARDSEBASTIAN_BUKU_TA_FIXs.pdf))*
 - 📄 **Paper GENY (Draf IEEE IBITeC 2026, 6 Halaman)**:  
-  [PaperGeny.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/PaperGeny.pdf)  
-  *(Salinan Arsip: [references/PaperGeny.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/PaperGeny.pdf))*
+  [PaperGeny.pdf](PaperGeny.pdf)  
+  *(Salinan Arsip: [references/PaperGeny.pdf](references/PaperGeny.pdf))*
 - 📑 **Laporan Final Determinan Stunting Indonesia (27 Halaman, 26 Sep 2026)**:  
-  [Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf)  
-  *(Salinan Arsip: [references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf))*
+  [Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf)  
+  *(Salinan Arsip: [references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf](references/Laporan_Final_Determinan_Stunting_Indonesia_UPDATE2_26Sep2026.pdf))*
 - 🌐 **Ekspor Sesi Consensus AI (102 Halaman, 22 Topik Sintesis)**:  
-  [Faktor Faktor Stunting Indonesia - Consensus.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf)  
-  *(Salinan Arsip: [references/Faktor Faktor Stunting Indonesia - Consensus.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf))*
+  [Faktor Faktor Stunting Indonesia - Consensus.pdf](Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf)  
+  *(Salinan Arsip: [references/Faktor Faktor Stunting Indonesia - Consensus.pdf](references/Faktor%20Faktor%20Stunting%20Indonesia%20-%20Consensus.pdf))*
 - 📝 **Laporan Audit & Koreksi Naskah Paper GENY**:  
-  [Audit_Paper_GENY_draf_19Agu2026.docx](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Audit_Paper_GENY_draf_19Agu2026.docx)
+  [Audit_Paper_GENY_draf_19Agu2026.docx](references/Audit_Paper_GENY_draf_19Agu2026.docx)
 
 ### 2. Dataset & Seluruh Laporan Crawling NotebookLM (di Subfolder `references/`)
 - 📊 **Dataset CSV 20 Paper UCD & Stunting App Adoption**:  
-  [Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Does%20user-centered%20design%20improve%20stunting%20app%20uptake%20in%20Indonesian%20caregivers%20-%2026%20Sep%202026.csv)
+  [Does user-centered design improve stunting app uptake in Indonesian caregivers - 26 Sep 2026.csv](references/Does%20user-centered%20design%20improve%20stunting%20app%20uptake%20in%20Indonesian%20caregivers%20-%2026%20Sep%202026.csv)
 - 📑 **Dokumen Sintesis & Audit Digital NotebookLM Lengkap (PDF & DOCX)**:  
-  - [Audit_Inovasi_Digital_Stunting_Nasional.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Audit_Inovasi_Digital_Stunting_Nasional.pdf) *(15 MB)*
-  - [Cetak_Biru_Digitalisasi_Penanganan_Stunting_Indonesia.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Cetak_Biru_Digitalisasi_Penanganan_Stunting_Indonesia.pdf) *(11 MB)*
-  - [Dekonstruksi_Krisis_Stunting_Dan_Cetak_Biru_Inovasi_mHealth.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Dekonstruksi_Krisis_Stunting_Dan_Cetak_Biru_Inovasi_mHealth.pdf) *(16 MB)*
-  - [Indonesia_Digital_Stunting_Blueprint.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Indonesia_Digital_Stunting_Blueprint.pdf) *(9 MB)*
-  - [Strategic_Digital_Stunting_Audit.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Strategic_Digital_Stunting_Audit.pdf) *(18 MB)*
-  - [Analisis Komprehensif Faktor Stunting, Kontradiksi Literatur, dan Peluang Pasar Solusi Digital.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Analisis%20Komprehensif%20Faktor%20Stunting,%20Kontradiksi%20Literatur,%20dan%20Peluang%20Pasar%20Solusi%20Digital.pdf)
-  - [Digital Solutions for Stunting Prevention and Child Growth Monitoring.pdf](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Digital%20Solutions%20for%20Stunting%20Prevention%20and%20Child%20Growth%20Monitoring.pdf)
-  - [Laporan_Audit_Inovasi_Digital_Stunting_v3.docx](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/references/Laporan_Audit_Inovasi_Digital_Stunting_v3.docx)
+  - [Audit_Inovasi_Digital_Stunting_Nasional.pdf](references/Audit_Inovasi_Digital_Stunting_Nasional.pdf) *(15 MB)*
+  - [Cetak_Biru_Digitalisasi_Penanganan_Stunting_Indonesia.pdf](references/Cetak_Biru_Digitalisasi_Penanganan_Stunting_Indonesia.pdf) *(11 MB)*
+  - [Dekonstruksi_Krisis_Stunting_Dan_Cetak_Biru_Inovasi_mHealth.pdf](references/Dekonstruksi_Krisis_Stunting_Dan_Cetak_Biru_Inovasi_mHealth.pdf) *(16 MB)*
+  - [Indonesia_Digital_Stunting_Blueprint.pdf](references/Indonesia_Digital_Stunting_Blueprint.pdf) *(9 MB)*
+  - [Strategic_Digital_Stunting_Audit.pdf](references/Strategic_Digital_Stunting_Audit.pdf) *(18 MB)*
+  - [Analisis Komprehensif Faktor Stunting, Kontradiksi Literatur, dan Peluang Pasar Solusi Digital.pdf](references/Analisis%20Komprehensif%20Faktor%20Stunting%2C%20Kontradiksi%20Literatur%2C%20dan%20Peluang%20Pasar%20Solusi%20Digital.pdf)
+  - [Digital Solutions for Stunting Prevention and Child Growth Monitoring.pdf](references/Digital%20Solutions%20for%20Stunting%20Prevention%20and%20Child%20Growth%20Monitoring.pdf)
+  - [Laporan_Audit_Inovasi_Digital_Stunting_v3.docx](references/Laporan_Audit_Inovasi_Digital_Stunting_v3.docx)
 
 ---
 
 ## 🖼️ Galeri Visual & Audit Aset Grafik
 
-Aset grafik historis (`chart1` s.d. `chart7`) dan diagram metodologis telah diaudit dan disimpan dalam [`assets/`](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets):
-- [chart1_trend_publikasi_v3.png](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart1_trend_publikasi_v3.png): Tren publikasi aplikasi stunting di Indonesia (2019–2026).
-- [chart2_distribusi_sasaran_v2.png](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart2_distribusi_sasaran_v2.png): Proporsi target pengguna aplikasi stunting (Kader vs Pengasuh vs Nakes).
-- [chart3_mars_benchmarking_v3.png](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart3_mars_benchmarking_v3.png): Benchmark kualitas aplikasi pediatrik berdasarkan skala MARS terverifikasi (Irawan dkk., 2025).
-- [chart4_odds_ratio_stunting_v3.png](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart4_odds_ratio_stunting_v3.png): Forest plot ringkasan Odds Ratio determinan stunting nasional.
-- [chart5_efisiensi_operasional_kader_v3.png](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/chart5_efisiensi_operasional_kader_v3.png): Bukti efisiensi input data kader (SI-MASTING: 7,1 mnt ➔ 2,4 mnt, galat 15,4% ➔ 2,1%).
-- [stunting_mhealth_impact_and_risk_matrix.png](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/assets/stunting_mhealth_impact_and_risk_matrix.png): Matriks dampak klinis versus risiko adopsi solusi digital stunting.
+Aset grafik historis (`chart1` s.d. `chart7`) dan diagram metodologis telah diaudit dan disimpan dalam [`assets/`](assets/):
+- [chart1_trend_publikasi_v3.png](assets/chart1_trend_publikasi_v3.png): Tren publikasi aplikasi stunting di Indonesia (2019–2026).
+- [chart2_distribusi_sasaran_v2.png](assets/chart2_distribusi_sasaran_v2.png): Proporsi target pengguna aplikasi stunting (Kader vs Pengasuh vs Nakes).
+- [chart3_mars_benchmarking_v3.png](assets/chart3_mars_benchmarking_v3.png): Benchmark kualitas aplikasi pediatrik berdasarkan skala MARS terverifikasi (Irawan dkk., 2025).
+- [chart4_odds_ratio_stunting_v3.png](assets/chart4_odds_ratio_stunting_v3.png): Forest plot ringkasan Odds Ratio determinan stunting nasional.
+- [chart5_efisiensi_operasional_kader_v3.png](assets/chart5_efisiensi_operasional_kader_v3.png): Bukti efisiensi input data kader (SI-MASTING: 7,1 mnt ➔ 2,4 mnt, galat 15,4% ➔ 2,1%).
+- [stunting_mhealth_impact_and_risk_matrix.png](assets/stunting_mhealth_impact_and_risk_matrix.png): Matriks dampak klinis versus risiko adopsi solusi digital stunting.
 
 ---
 
@@ -131,4 +131,4 @@ Seluruh bukti empiris dalam modul ini menjadi dasar pertanggungjawaban dalam mod
 
 ---
 *Buka dokumen pertama untuk memulai eksplorasi teknis:*  
-👉 **[Lanjut ke 01. Laporan Data Crawling Consensus & UCD Papers ➔](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/01_laporan_data_crawling_consensus_dan_ucd.md)**
+👉 **[Lanjut ke 01. Laporan Data Crawling Consensus & UCD Papers ➔](01_laporan_data_crawling_consensus_dan_ucd.md)**
